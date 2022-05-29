@@ -29,6 +29,8 @@ RELATION_SUMMARY = HERE.joinpath("relation_summary.tsv")
 SKIP_PREFIXES = {
     # Decommissioned
     "gaz",
+    # Problem parsing both OWL and JSON
+    "gsso",
     # Overwhelming amount of trash
     "txpo",
     "apollosv",
@@ -71,7 +73,7 @@ def _main(minimum: Optional[str]):
         try:
             # TODO get only base ontologies, no imports
             results = get_obograph_by_prefix(prefix)
-        except (IOError, json.decoder.JSONDecodeError):
+        except (IOError, json.decoder.JSONDecodeError, TypeError):
             secho(f"[{prefix}] JSON decode error", fg="red")
             continue
         if not results.graph_document:

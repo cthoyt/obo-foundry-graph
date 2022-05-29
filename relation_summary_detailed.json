@@ -1,0 +1,7600 @@
+{
+  "HAO#_attached_to": {
+    "hao": 544
+  },
+  "MF#hasAgent": {
+    "mfoem": 1
+  },
+  "MF#hasPart": {
+    "mfoem": 4
+  },
+  "MF#inheresIn": {
+    "mfoem": 1
+  },
+  "MF#manifestationOf": {
+    "mfomd": 1,
+    "mondo": 1
+  },
+  "NCIT_R100": {
+    "ncit": 110
+  },
+  "NCIT_R101": {
+    "ncit": 80
+  },
+  "NCIT_R103": {
+    "ncit": 10
+  },
+  "NCIT_R104": {
+    "ncit": 5
+  },
+  "NCIT_R105": {
+    "ncit": 5
+  },
+  "NCIT_R106": {
+    "ncit": 3
+  },
+  "NCIT_R108": {
+    "ncit": 72
+  },
+  "NCIT_R110": {
+    "ncit": 12
+  },
+  "NCIT_R114": {
+    "ncit": 19
+  },
+  "NCIT_R115": {
+    "ncit": 24
+  },
+  "NCIT_R116": {
+    "ncit": 39
+  },
+  "NCIT_R122": {
+    "ncit": 346
+  },
+  "NCIT_R123": {
+    "ncit": 12496
+  },
+  "NCIT_R124": {
+    "ncit": 549
+  },
+  "NCIT_R125": {
+    "ncit": 1161
+  },
+  "NCIT_R126": {
+    "ncit": 15
+  },
+  "NCIT_R130": {
+    "ncit": 1287
+  },
+  "NCIT_R131": {
+    "ncit": 111
+  },
+  "NCIT_R132": {
+    "ncit": 158
+  },
+  "NCIT_R133": {
+    "ncit": 12
+  },
+  "NCIT_R135": {
+    "ncit": 1
+  },
+  "NCIT_R139": {
+    "ncit": 1
+  },
+  "NCIT_R140": {
+    "ncit": 6
+  },
+  "NCIT_R142": {
+    "ncit": 2
+  },
+  "NCIT_R145": {
+    "ncit": 16
+  },
+  "NCIT_R146": {
+    "ncit": 227
+  },
+  "NCIT_R150": {
+    "ncit": 27
+  },
+  "NCIT_R153": {
+    "ncit": 180
+  },
+  "NCIT_R155": {
+    "ncit": 80
+  },
+  "NCIT_R156": {
+    "ncit": 1
+  },
+  "NCIT_R158": {
+    "ncit": 128
+  },
+  "NCIT_R159": {
+    "ncit": 74
+  },
+  "NCIT_R160": {
+    "ncit": 3
+  },
+  "NCIT_R163": {
+    "mondo": 3,
+    "ncit": 110
+  },
+  "NCIT_R165": {
+    "ncit": 1
+  },
+  "NCIT_R166": {
+    "ncit": 6
+  },
+  "NCIT_R167": {
+    "ncit": 102
+  },
+  "NCIT_R168": {
+    "ncit": 9
+  },
+  "NCIT_R169": {
+    "ncit": 127
+  },
+  "NCIT_R170": {
+    "ncit": 6
+  },
+  "NCIT_R171": {
+    "ncit": 75
+  },
+  "NCIT_R172": {
+    "ncit": 402
+  },
+  "NCIT_R173": {
+    "ncit": 356
+  },
+  "NCIT_R174": {
+    "ncit": 2
+  },
+  "NCIT_R175": {
+    "ncit": 556
+  },
+  "NCIT_R176": {
+    "ncit": 488
+  },
+  "NCIT_R177": {
+    "ncit": 1256
+  },
+  "NCIT_R178": {
+    "ncit": 630
+  },
+  "NCIT_R179": {
+    "ncit": 509
+  },
+  "NCIT_R182": {
+    "ncit": 127
+  },
+  "NCIT_R23": {
+    "ncit": 1
+  },
+  "NCIT_R24": {
+    "ncit": 100
+  },
+  "NCIT_R25": {
+    "ncit": 488
+  },
+  "NCIT_R26": {
+    "ncit": 81
+  },
+  "NCIT_R27": {
+    "ncit": 3585
+  },
+  "NCIT_R28": {
+    "ncit": 28
+  },
+  "NCIT_R29": {
+    "ncit": 15
+  },
+  "NCIT_R30": {
+    "ncit": 85
+  },
+  "NCIT_R31": {
+    "ncit": 33
+  },
+  "NCIT_R32": {
+    "ncit": 25
+  },
+  "NCIT_R34": {
+    "ncit": 42
+  },
+  "NCIT_R35": {
+    "ncit": 173
+  },
+  "NCIT_R36": {
+    "ncit": 6
+  },
+  "NCIT_R37": {
+    "ncit": 11920
+  },
+  "NCIT_R38": {
+    "ncit": 1055
+  },
+  "NCIT_R39": {
+    "ncit": 6
+  },
+  "NCIT_R40": {
+    "ncit": 1552
+  },
+  "NCIT_R41": {
+    "ncit": 235
+  },
+  "NCIT_R42": {
+    "ncit": 39
+  },
+  "NCIT_R44": {
+    "ncit": 254
+  },
+  "NCIT_R45": {
+    "ncit": 181
+  },
+  "NCIT_R46": {
+    "ncit": 720
+  },
+  "NCIT_R47": {
+    "ncit": 15
+  },
+  "NCIT_R48": {
+    "ncit": 80
+  },
+  "NCIT_R49": {
+    "ncit": 194
+  },
+  "NCIT_R50": {
+    "ncit": 555
+  },
+  "NCIT_R51": {
+    "ncit": 83
+  },
+  "NCIT_R52": {
+    "ncit": 469
+  },
+  "NCIT_R53": {
+    "ncit": 2036
+  },
+  "NCIT_R54": {
+    "ncit": 2004
+  },
+  "NCIT_R66": {
+    "ncit": 9
+  },
+  "NCIT_R72": {
+    "ncit": 242
+  },
+  "NCIT_R81": {
+    "mondo": 1,
+    "ncit": 135
+  },
+  "NCIT_R82": {
+    "mondo": 1,
+    "ncit": 3007
+  },
+  "NCIT_R88": {
+    "ncit": 114
+  },
+  "NCIT_R89": {
+    "ncit": 5
+  },
+  "OArCS#_gives_rise": {
+    "oarcs": 2
+  },
+  "OBO_REL#_has_quality": {
+    "miro": 20
+  },
+  "OBO_REL#_has_role": {
+    "miro": 134
+  },
+  "OBO_REL#_part_of": {
+    "omit": 1
+  },
+  "OBO_REL_0000004": {
+    "hao": 1
+  },
+  "OBO_REL_0000034": {
+    "idomal": 26
+  },
+  "OBO_REL_influences": {
+    "miro": 28
+  },
+  "OBO_REL_realizes": {
+    "miro": 4
+  },
+  "OGI.owl#hasBearer": {
+    "ogsf": 3
+  },
+  "OGI.owl#hasComponentPart": {
+    "ogsf": 2
+  },
+  "OGI.owl#hasContainedInterval": {
+    "ogsf": 5
+  },
+  "OGI.owl#hasCytogeneticMapLocation": {
+    "ogsf": 1
+  },
+  "OGI.owl#hasGeneLocus": {
+    "ogsf": 1
+  },
+  "OGI.owl#hasIntervalRelation": {
+    "ogsf": 1
+  },
+  "OGI.owl#hasLinkedLoci": {
+    "ogsf": 1
+  },
+  "OGI.owl#hasMarkerProbe": {
+    "ogsf": 1
+  },
+  "OGI.owl#hasMarkerRole": {
+    "ogsf": 4
+  },
+  "OGI.owl#hasOccupiesLocus": {
+    "ogsf": 2
+  },
+  "OGI.owl#hasPart": {
+    "ogsf": 1
+  },
+  "OGI.owl#hasPolymorphismQuality": {
+    "ogsf": 1
+  },
+  "OGI.owl#hasPrimaryDNASequence": {
+    "ogsf": 1
+  },
+  "OGI.owl#hasPrimaryRNASequence": {
+    "ogsf": 2
+  },
+  "OGI.owl#hasPrimarySequence": {
+    "ogsf": 1
+  },
+  "OGI.owl#hasStructure": {
+    "ogsf": 1
+  },
+  "OGI.owl#isAdjacentBefore": {
+    "ogsf": 6
+  },
+  "OGI.owl#isCodeFor": {
+    "ogsf": 1
+  },
+  "OGI.owl#isComponentPartOf": {
+    "ogsf": 1
+  },
+  "OGI.owl#isContainedIn": {
+    "ogsf": 15
+  },
+  "OGI.owl#isLocatedBefore": {
+    "ogsf": 4
+  },
+  "OGI.owl#isOccupiedBy": {
+    "ogsf": 3
+  },
+  "OGI.owl#isOverlapEndWith": {
+    "ogsf": 3
+  },
+  "OGI.owl#isOverlapStartWith": {
+    "ogsf": 7
+  },
+  "OGI.owl#isReverseCompleteOf": {
+    "ogsf": 2
+  },
+  "OGI.owl#isStructurePartOf": {
+    "ogsf": 3
+  },
+  "OGI.owl#isTranscribedBy": {
+    "ogsf": 1
+  },
+  "OGI.owl#isTranscribedTo": {
+    "ogsf": 1
+  },
+  "OGI.owl#isWrittenBy": {
+    "ogsf": 4
+  },
+  "Optional.of(http://purl.obolibrary.org/obo/cmo.obo)#part_of": {
+    "cmo": 8
+  },
+  "RO#_confers_resistance_to": {
+    "aro": 707
+  },
+  "RO#_confers_resistance_to_drug": {
+    "aro": 2459
+  },
+  "RO#_derives_from": {
+    "aro": 93
+  },
+  "RO#_has_part": {
+    "aro": 48
+  },
+  "RO#_part_of": {
+    "aro": 288
+  },
+  "RO#_participates_in": {
+    "aro": 45
+  },
+  "RO#_targeted_by": {
+    "aro": 40
+  },
+  "RO#_targeted_by_drug": {
+    "aro": 251
+  },
+  "RO_HOM0000007": {
+    "pcl": 12
+  },
+  "RO_regulates": {
+    "aro": 91
+  },
+  "TEMP#agent_in": {
+    "idomal": 74
+  },
+  "TEMP#bearer_of": {
+    "idomal": 42
+  },
+  "TEMP#happens_during": {
+    "idomal": 78
+  },
+  "TEMP#has_role": {
+    "idomal": 486
+  },
+  "TEMP#part_of": {
+    "idomal": 375
+  },
+  "TEMP#participates_in": {
+    "idomal": 254
+  },
+  "TEMP#preceded_by": {
+    "idomal": 64
+  },
+  "TEMP#precedes": {
+    "idomal": 4
+  },
+  "TEMP#realized_by": {
+    "idomal": 10
+  },
+  "activates": {
+    "vo": 1
+  },
+  "agro:00000148": {
+    "agro": 1
+  },
+  "aism:0000011": {
+    "aism": 3,
+    "colao": 6,
+    "lepao": 2
+  },
+  "aism:0000078": {
+    "aism": 53,
+    "colao": 53,
+    "lepao": 53
+  },
+  "aism:0000079": {
+    "aism": 62,
+    "colao": 62,
+    "lepao": 62
+  },
+  "bco:0000085": {
+    "bco": 1
+  },
+  "bco:0000086": {
+    "bco": 1
+  },
+  "bearer_of": {
+    "ovae": 84
+  },
+  "bfo:0000050": {
+    "agro": 179,
+    "aism": 2147,
+    "amphx": 372,
+    "bto": 1824,
+    "caro": 10,
+    "ceph": 451,
+    "cheminf": 2,
+    "chiro": 122,
+    "cl": 6099,
+    "clao": 732,
+    "clo": 765,
+    "clyh": 187,
+    "colao": 269,
+    "cteno": 158,
+    "dideo": 4,
+    "dpo": 1760,
+    "duo": 2,
+    "ecao": 350,
+    "eco": 31,
+    "ecocore": 1917,
+    "ecto": 2664,
+    "ehdaa2": 2986,
+    "envo": 841,
+    "eupath": 11,
+    "exo": 28,
+    "fao": 23,
+    "fbbt": 6213,
+    "fbdv": 3,
+    "flopo": 3174,
+    "foodon": 77,
+    "fypo": 2344,
+    "gecko": 1,
+    "geno": 6,
+    "go": 8022,
+    "hao": 1827,
+    "hp": 6675,
+    "hsapdv": 238,
+    "hso": 43,
+    "htn": 2,
+    "iao": 2,
+    "iceo": 2589,
+    "labo": 6,
+    "lepao": 259,
+    "maxo": 4306,
+    "mfmo": 37,
+    "micro": 13,
+    "mmusdv": 107,
+    "mondo": 5066,
+    "nbo": 913,
+    "oae": 961,
+    "oarcs": 207,
+    "oba": 6116,
+    "obi": 21,
+    "obib": 6,
+    "ogsf": 3,
+    "ohd": 3,
+    "ohpi": 1209,
+    "omp": 3,
+    "omrse": 5,
+    "one": 23,
+    "ons": 11,
+    "ontoneo": 63,
+    "oostt": 8,
+    "opmi": 160,
+    "ovae": 330,
+    "pato": 2438,
+    "pcl": 2785,
+    "pco": 1,
+    "pdro": 12,
+    "peco": 12,
+    "phipo": 34,
+    "plana": 294,
+    "planp": 551,
+    "po": 736,
+    "poro": 79,
+    "ppo": 40,
+    "pr": 19,
+    "psdo": 27,
+    "pso": 64,
+    "sibo": 78,
+    "stato": 24,
+    "to": 856,
+    "uberon": 12720,
+    "vo": 369,
+    "wbbt": 4124,
+    "wbls": 675,
+    "wbphenotype": 2852,
+    "xao": 1186,
+    "xco": 14,
+    "xpo": 1382,
+    "zfa": 2146,
+    "zfs": 42,
+    "zp": 3951
+  },
+  "bfo:0000051": {
+    "agro": 184,
+    "aism": 379,
+    "bco": 5,
+    "caro": 27,
+    "ceph": 10,
+    "chebi": 3918,
+    "cheminf": 30,
+    "chiro": 14,
+    "cl": 759,
+    "clo": 321,
+    "colao": 115,
+    "cteno": 11,
+    "cto": 2,
+    "dideo": 29,
+    "dpo": 265,
+    "dron": 453,
+    "duo": 29,
+    "ecao": 1,
+    "eco": 64,
+    "ecocore": 317,
+    "ecto": 846,
+    "ehdaa2": 81,
+    "envo": 400,
+    "eupath": 42,
+    "exo": 3,
+    "fbbt": 7,
+    "fbcv": 66,
+    "fbdv": 1,
+    "flopo": 401,
+    "foodon": 17,
+    "fypo": 562,
+    "geno": 5,
+    "go": 816,
+    "hp": 681,
+    "hso": 12,
+    "htn": 28,
+    "iao": 29,
+    "iceo": 2593,
+    "ino": 1,
+    "labo": 12,
+    "lepao": 110,
+    "maxo": 584,
+    "mco": 127,
+    "micro": 389,
+    "mondo": 610,
+    "mpio": 1,
+    "nbo": 125,
+    "oae": 142,
+    "oba": 642,
+    "obi": 295,
+    "obib": 14,
+    "ogg": 28,
+    "ogsf": 2,
+    "ohd": 53,
+    "ohmi": 3,
+    "ohpi": 1027,
+    "omit": 17,
+    "omp": 1,
+    "omrse": 38,
+    "one": 317,
+    "ons": 42,
+    "ontoneo": 3,
+    "oostt": 33,
+    "opl": 2,
+    "opmi": 63,
+    "ovae": 106,
+    "pato": 359,
+    "pcl": 371,
+    "pdro": 22,
+    "peco": 104,
+    "phipo": 149,
+    "plana": 3,
+    "planp": 23,
+    "po": 42,
+    "poro": 26,
+    "ppo": 8,
+    "pr": 23477,
+    "psdo": 100,
+    "pso": 16,
+    "sepio": 1,
+    "stato": 71,
+    "to": 142,
+    "uberon": 792,
+    "vo": 1199,
+    "wbphenotype": 394,
+    "xpo": 16,
+    "zp": 488
+  },
+  "bfo:0000052": {
+    "chmo": 2,
+    "oba": 1,
+    "ohd": 9
+  },
+  "bfo:0000053": {
+    "dron": 1101,
+    "ohd": 2
+  },
+  "bfo:0000054": {
+    "bco": 1,
+    "bto": 8,
+    "chmo": 2,
+    "cvdo": 3,
+    "ecocore": 2,
+    "ecto": 2,
+    "envo": 3,
+    "eupath": 1,
+    "htn": 2,
+    "ino": 1,
+    "mf": 1,
+    "mfoem": 1,
+    "mfomd": 1,
+    "micro": 2,
+    "mondo": 18,
+    "oba": 3,
+    "obi": 1,
+    "obib": 2,
+    "ogsf": 6,
+    "ohd": 6,
+    "ohpi": 2,
+    "omrse": 16,
+    "ontoneo": 2,
+    "opmi": 4,
+    "ovae": 6,
+    "pdro": 2,
+    "psdo": 1,
+    "stato": 1,
+    "vo": 6
+  },
+  "bfo:0000055": {
+    "agro": 3,
+    "bco": 1,
+    "cl": 1,
+    "clo": 2,
+    "eco": 5,
+    "eupath": 4,
+    "maxo": 1,
+    "mf": 2,
+    "mfoem": 2,
+    "mfomd": 4,
+    "micro": 4,
+    "mondo": 3,
+    "mop": 4,
+    "oba": 2,
+    "obi": 11,
+    "obib": 3,
+    "ohd": 10,
+    "ohmi": 2,
+    "ohpi": 4,
+    "omrse": 1,
+    "one": 11,
+    "ons": 11,
+    "opl": 2,
+    "opmi": 1,
+    "psdo": 5,
+    "rxno": 6,
+    "sepio": 1,
+    "stato": 5,
+    "vo": 4
+  },
+  "bfo:0000056": {
+    "chmo": 2,
+    "ppo": 5
+  },
+  "bfo:0000057": {
+    "chmo": 63,
+    "mop": 21,
+    "ogsf": 2,
+    "ohd": 9,
+    "ppo": 4,
+    "rxno": 10
+  },
+  "bfo:0000058": {
+    "cvdo": 1,
+    "ogg": 1,
+    "ogsf": 2,
+    "ovae": 1
+  },
+  "bfo:0000060": {
+    "sibo": 32
+  },
+  "bfo:0000062": {
+    "aism": 6,
+    "cl": 10,
+    "clo": 6,
+    "cto": 1,
+    "dpo": 6,
+    "ecao": 6,
+    "ecocore": 7,
+    "ecto": 7,
+    "envo": 3,
+    "flopo": 27,
+    "foodon": 1,
+    "fypo": 6,
+    "hp": 10,
+    "hsapdv": 5,
+    "maxo": 10,
+    "mondo": 10,
+    "nbo": 6,
+    "oae": 9,
+    "oba": 10,
+    "ogsf": 3,
+    "ohpi": 7,
+    "ontoneo": 12,
+    "opmi": 7,
+    "ovae": 8,
+    "pato": 7,
+    "pcl": 7,
+    "pdumdv": 19,
+    "po": 20,
+    "ppo": 10,
+    "psdo": 7,
+    "pso": 1,
+    "stato": 7,
+    "to": 20,
+    "uberon": 19,
+    "vo": 4,
+    "wbls": 35,
+    "wbphenotype": 18,
+    "zp": 6
+  },
+  "bfo:0000063": {
+    "aism": 3,
+    "cl": 3,
+    "clo": 3,
+    "dpo": 3,
+    "ecao": 3,
+    "ecocore": 7,
+    "ecto": 3,
+    "envo": 1,
+    "flopo": 6,
+    "fypo": 3,
+    "hp": 3,
+    "maxo": 3,
+    "mondo": 3,
+    "nbo": 3,
+    "ncro": 2,
+    "oae": 3,
+    "oba": 3,
+    "ohpi": 3,
+    "omit": 2,
+    "ontoneo": 5,
+    "opmi": 3,
+    "ovae": 3,
+    "pato": 3,
+    "pcl": 3,
+    "po": 3,
+    "psdo": 1,
+    "stato": 1,
+    "to": 3,
+    "uberon": 3,
+    "wbphenotype": 3,
+    "zp": 3
+  },
+  "bfo:0000066": {
+    "agro": 72,
+    "aism": 73,
+    "cl": 197,
+    "clo": 12,
+    "cvdo": 27,
+    "dpo": 73,
+    "ecocore": 73,
+    "ecto": 83,
+    "envo": 28,
+    "fbbt": 6,
+    "flopo": 115,
+    "fypo": 121,
+    "go": 196,
+    "hp": 107,
+    "maxo": 107,
+    "mondo": 48,
+    "oae": 257,
+    "oba": 130,
+    "ohmi": 186,
+    "ohpi": 1,
+    "omrse": 2,
+    "ontoneo": 3,
+    "opl": 92,
+    "opmi": 1,
+    "ovae": 22,
+    "pato": 115,
+    "pcl": 112,
+    "peco": 1,
+    "phipo": 2,
+    "planp": 27,
+    "pso": 105,
+    "vo": 14,
+    "wbphenotype": 144,
+    "xpo": 5,
+    "zp": 158
+  },
+  "bfo:0000067": {
+    "agro": 2,
+    "aism": 3,
+    "cl": 15,
+    "clo": 6,
+    "dpo": 3,
+    "ecocore": 3,
+    "ecto": 3,
+    "envo": 24,
+    "flopo": 4,
+    "fypo": 3,
+    "hp": 13,
+    "maxo": 9,
+    "mondo": 11,
+    "oba": 11,
+    "omrse": 11,
+    "pato": 4,
+    "pcl": 4,
+    "peco": 1,
+    "plana": 59,
+    "to": 1,
+    "uberon": 28,
+    "wbphenotype": 6,
+    "zp": 3
+  },
+  "bfo:0000068": {
+    "chmo": 1,
+    "cteno": 1,
+    "ehdaa2": 2445
+  },
+  "bfo:0000069": {
+    "ehdaa2": 2444
+  },
+  "bfo:0000077": {
+    "mop": 24,
+    "rxno": 18
+  },
+  "bfo:0000078": {
+    "mop": 3,
+    "rxno": 10
+  },
+  "bfo:0000080": {
+    "ogsf": 2
+  },
+  "bfo:0000082": {
+    "cvdo": 24,
+    "ogsf": 2,
+    "ontoneo": 1
+  },
+  "bfo:0000083": {
+    "cvdo": 1,
+    "iceo": 1,
+    "ogg": 1,
+    "ogsf": 1,
+    "ovae": 1
+  },
+  "bfo:0000085": {
+    "chmo": 5
+  },
+  "bfo:0000086": {
+    "clo": 6,
+    "ogsf": 4
+  },
+  "bfo:0000087": {
+    "bco": 1,
+    "chmo": 2,
+    "ogsf": 2
+  },
+  "bfo:0000107": {
+    "mf": 1,
+    "mfoem": 1,
+    "mfomd": 1
+  },
+  "bfo:0000108": {
+    "cvdo": 1,
+    "ogg": 1,
+    "ogsf": 1,
+    "ovae": 1
+  },
+  "bfo:0000110": {
+    "chmo": 3,
+    "ogsf": 2
+  },
+  "bfo:0000111": {
+    "ogsf": 1
+  },
+  "bfo:0000112": {
+    "mf": 1,
+    "mfoem": 1,
+    "mfomd": 1
+  },
+  "bfo:0000113": {
+    "cvdo": 12,
+    "htn": 4,
+    "ogsf": 1
+  },
+  "bfo:0000117": {
+    "cvdo": 4,
+    "dideo": 1,
+    "mf": 6,
+    "mfoem": 50,
+    "mfomd": 7,
+    "mondo": 2,
+    "mop": 42,
+    "mpio": 1,
+    "oba": 1
+  },
+  "bfo:0000118": {
+    "chmo": 96
+  },
+  "bfo:0000119": {
+    "mop": 28
+  },
+  "bfo:0000127": {
+    "ogsf": 7
+  },
+  "bfo:0000132": {
+    "cvdo": 1,
+    "mfoem": 14,
+    "mfomd": 1,
+    "mop": 1,
+    "ogg": 1
+  },
+  "bfo:0000133": {
+    "mop": 2
+  },
+  "bfo:0000137": {
+    "chmo": 1,
+    "geogeo": 1
+  },
+  "bfo:0000151": {
+    "cvdo": 1,
+    "ogg": 1,
+    "ogsf": 1,
+    "ovae": 1
+  },
+  "bfo:0000153": {
+    "cvdo": 1,
+    "ogg": 1,
+    "ogsf": 1,
+    "ovae": 1
+  },
+  "bfo:0000159": {
+    "ogsf": 1
+  },
+  "bfo:0000162": {
+    "iceo": 1054,
+    "ogg": 52,
+    "ohpi": 272,
+    "rxno": 1
+  },
+  "bfo:0000165": {
+    "ogsf": 1
+  },
+  "bfo:0000167": {
+    "cvdo": 12,
+    "mf": 3,
+    "mfoem": 3,
+    "mfomd": 3,
+    "mondo": 3,
+    "oba": 3,
+    "ogsf": 2,
+    "ontoneo": 1
+  },
+  "bfo:0000169": {
+    "cvdo": 1,
+    "ogg": 1,
+    "ogsf": 1,
+    "ovae": 1
+  },
+  "bfo:0000174": {
+    "chmo": 15
+  },
+  "bfo:0000175": {
+    "chmo": 2
+  },
+  "bfo:0000176": {
+    "mf": 1,
+    "mfoem": 1,
+    "mfomd": 1
+  },
+  "bfo:0000178": {
+    "chmo": 1
+  },
+  "bfo:0000184": {
+    "cvdo": 1,
+    "ogg": 1
+  },
+  "bfo:0000186": {
+    "ogsf": 2
+  },
+  "bspo#parallel_to": {
+    "aism": 10,
+    "bspo": 2,
+    "colao": 12,
+    "cteno": 2,
+    "lepao": 10,
+    "plana": 2,
+    "planp": 2,
+    "zp": 2
+  },
+  "bspo:0000096": {
+    "aism": 26,
+    "bspo": 1,
+    "cl": 7,
+    "clo": 2,
+    "colao": 21,
+    "cteno": 1,
+    "dpo": 4,
+    "ecocore": 5,
+    "ecto": 7,
+    "flopo": 4,
+    "fypo": 4,
+    "hp": 9,
+    "lepao": 20,
+    "maxo": 8,
+    "micro": 1,
+    "mondo": 6,
+    "nbo": 3,
+    "oae": 4,
+    "oba": 6,
+    "ohpi": 4,
+    "opmi": 1,
+    "ovae": 3,
+    "pato": 4,
+    "pcl": 6,
+    "plana": 5,
+    "planp": 5,
+    "uberon": 12,
+    "wbphenotype": 4,
+    "zp": 6
+  },
+  "bspo:0000097": {
+    "aism": 6,
+    "bspo": 1,
+    "cl": 2,
+    "colao": 6,
+    "cteno": 1,
+    "hp": 2,
+    "lepao": 6,
+    "maxo": 2,
+    "micro": 1,
+    "mondo": 2,
+    "oae": 2,
+    "oba": 2,
+    "ovae": 2,
+    "uberon": 2,
+    "zp": 1
+  },
+  "bspo:0000098": {
+    "aism": 7,
+    "bspo": 1,
+    "cl": 4,
+    "clo": 1,
+    "colao": 3,
+    "cteno": 1,
+    "dpo": 3,
+    "ecocore": 4,
+    "ecto": 4,
+    "flopo": 3,
+    "fypo": 3,
+    "hp": 10,
+    "lepao": 3,
+    "maxo": 4,
+    "micro": 1,
+    "mondo": 3,
+    "nbo": 1,
+    "oae": 3,
+    "oba": 3,
+    "ohpi": 3,
+    "opmi": 1,
+    "ovae": 1,
+    "pato": 3,
+    "pcl": 3,
+    "plana": 1,
+    "planp": 1,
+    "uberon": 10,
+    "wbphenotype": 3,
+    "zp": 4
+  },
+  "bspo:0000099": {
+    "aism": 28,
+    "bspo": 1,
+    "cl": 3,
+    "clo": 1,
+    "colao": 26,
+    "cteno": 1,
+    "dpo": 1,
+    "ecocore": 1,
+    "ecto": 2,
+    "flopo": 2,
+    "fypo": 1,
+    "hp": 4,
+    "lepao": 25,
+    "maxo": 3,
+    "micro": 1,
+    "mondo": 4,
+    "nbo": 1,
+    "oae": 1,
+    "oba": 3,
+    "ohpi": 2,
+    "ovae": 1,
+    "pato": 2,
+    "pcl": 3,
+    "plana": 5,
+    "planp": 5,
+    "uberon": 9,
+    "wbphenotype": 1,
+    "zp": 4
+  },
+  "bspo:0000100": {
+    "aism": 3,
+    "cl": 3,
+    "colao": 4,
+    "hp": 3,
+    "lepao": 3,
+    "maxo": 3,
+    "mondo": 3,
+    "oae": 2,
+    "oba": 3,
+    "ohpi": 1,
+    "ovae": 2,
+    "uberon": 4
+  },
+  "bspo:0000102": {
+    "aism": 4,
+    "cl": 2,
+    "clo": 1,
+    "colao": 2,
+    "dpo": 2,
+    "ecocore": 2,
+    "ecto": 2,
+    "flopo": 2,
+    "fypo": 2,
+    "hp": 5,
+    "lepao": 2,
+    "maxo": 2,
+    "mondo": 2,
+    "nbo": 1,
+    "oae": 2,
+    "oba": 2,
+    "ohpi": 2,
+    "opmi": 1,
+    "ovae": 1,
+    "pato": 2,
+    "pcl": 2,
+    "uberon": 8,
+    "wbphenotype": 2,
+    "zp": 2
+  },
+  "bspo:0000104": {
+    "aism": 1,
+    "bspo": 1,
+    "cteno": 1,
+    "plana": 1,
+    "planp": 1,
+    "zp": 1
+  },
+  "bspo:0000107": {
+    "aism": 3,
+    "bspo": 1,
+    "cl": 6,
+    "clo": 2,
+    "cteno": 1,
+    "dpo": 3,
+    "ecocore": 3,
+    "ecto": 3,
+    "flopo": 3,
+    "fypo": 3,
+    "hp": 4,
+    "maxo": 4,
+    "micro": 1,
+    "mondo": 4,
+    "nbo": 3,
+    "oae": 2,
+    "oba": 4,
+    "ohpi": 3,
+    "opmi": 2,
+    "ovae": 2,
+    "pato": 3,
+    "pcl": 4,
+    "uberon": 13,
+    "wbphenotype": 3,
+    "zp": 3
+  },
+  "bspo:0000108": {
+    "aism": 3,
+    "cl": 6,
+    "clo": 3,
+    "dpo": 3,
+    "ecocore": 3,
+    "ecto": 3,
+    "flopo": 4,
+    "fypo": 3,
+    "hp": 7,
+    "maxo": 4,
+    "mondo": 5,
+    "nbo": 3,
+    "oae": 3,
+    "oba": 5,
+    "ohpi": 3,
+    "opmi": 2,
+    "ovae": 2,
+    "pato": 4,
+    "pcl": 4,
+    "uberon": 15,
+    "wbphenotype": 3,
+    "zp": 4
+  },
+  "bspo:0000110": {
+    "aism": 1,
+    "bspo": 1,
+    "cteno": 1,
+    "lepao": 1,
+    "micro": 1,
+    "zp": 1
+  },
+  "bspo:0000113": {
+    "aism": 5,
+    "bspo": 4,
+    "cteno": 4,
+    "lepao": 3,
+    "micro": 4,
+    "plana": 3,
+    "planp": 3,
+    "zp": 4
+  },
+  "bspo:0000120": {
+    "aism": 7,
+    "cl": 32,
+    "clo": 1,
+    "dpo": 5,
+    "ecocore": 7,
+    "ecto": 12,
+    "flopo": 10,
+    "fypo": 5,
+    "hp": 42,
+    "hso": 1,
+    "maxo": 30,
+    "mondo": 31,
+    "oae": 4,
+    "oba": 30,
+    "ohpi": 10,
+    "ovae": 1,
+    "pato": 10,
+    "pcl": 11,
+    "uberon": 66,
+    "wbphenotype": 13,
+    "zp": 8
+  },
+  "bspo:0000121": {
+    "aism": 8,
+    "cl": 31,
+    "clo": 1,
+    "dpo": 6,
+    "ecocore": 8,
+    "ecto": 13,
+    "flopo": 11,
+    "fypo": 6,
+    "hp": 40,
+    "hso": 1,
+    "maxo": 29,
+    "mondo": 31,
+    "oae": 4,
+    "oba": 30,
+    "ohpi": 10,
+    "ovae": 1,
+    "pato": 11,
+    "pcl": 12,
+    "uberon": 60,
+    "wbphenotype": 12,
+    "zp": 9
+  },
+  "bspo:0000122": {
+    "aism": 3,
+    "cl": 6,
+    "clo": 1,
+    "dpo": 3,
+    "ecocore": 3,
+    "ecto": 4,
+    "flopo": 3,
+    "fypo": 3,
+    "hp": 9,
+    "maxo": 9,
+    "mondo": 8,
+    "nbo": 3,
+    "oae": 1,
+    "oba": 8,
+    "ohpi": 3,
+    "pato": 3,
+    "pcl": 3,
+    "uberon": 16,
+    "wbphenotype": 4,
+    "zp": 3
+  },
+  "bspo:0000123": {
+    "aism": 5,
+    "cl": 6,
+    "clo": 2,
+    "dpo": 5,
+    "ecocore": 5,
+    "ecto": 5,
+    "flopo": 5,
+    "fypo": 5,
+    "hp": 7,
+    "hso": 1,
+    "maxo": 6,
+    "mondo": 6,
+    "nbo": 2,
+    "oae": 2,
+    "oba": 6,
+    "ohpi": 4,
+    "ovae": 1,
+    "pato": 5,
+    "pcl": 5,
+    "uberon": 15,
+    "wbphenotype": 5,
+    "zp": 5
+  },
+  "bspo:0000124": {
+    "cl": 2,
+    "hp": 2,
+    "maxo": 2,
+    "mondo": 2,
+    "oba": 2,
+    "uberon": 2
+  },
+  "bspo:0000125": {
+    "cl": 2,
+    "hp": 2,
+    "maxo": 2,
+    "mondo": 2,
+    "oba": 2,
+    "uberon": 2
+  },
+  "bspo:0000126": {
+    "aism": 12,
+    "cl": 48,
+    "clo": 11,
+    "dpo": 9,
+    "ecocore": 12,
+    "ecto": 20,
+    "flopo": 18,
+    "fypo": 9,
+    "hp": 93,
+    "hso": 2,
+    "maxo": 47,
+    "mondo": 61,
+    "nbo": 10,
+    "oae": 21,
+    "oba": 59,
+    "ohpi": 16,
+    "opmi": 3,
+    "ovae": 7,
+    "pato": 18,
+    "pcl": 21,
+    "uberon": 141,
+    "wbphenotype": 20,
+    "zp": 15
+  },
+  "bspo:0001100": {
+    "cl": 1,
+    "uberon": 10
+  },
+  "bspo:0001101": {
+    "cl": 1,
+    "hp": 3,
+    "maxo": 1,
+    "mondo": 1,
+    "oba": 1,
+    "pcl": 1,
+    "uberon": 8
+  },
+  "bspo:0001106": {
+    "aism": 1,
+    "cl": 3,
+    "clo": 2,
+    "dpo": 1,
+    "ecocore": 1,
+    "ecto": 2,
+    "flopo": 1,
+    "fypo": 1,
+    "hp": 6,
+    "hso": 1,
+    "maxo": 4,
+    "mondo": 3,
+    "nbo": 1,
+    "oae": 2,
+    "oba": 3,
+    "ohpi": 2,
+    "opmi": 1,
+    "ovae": 1,
+    "pato": 1,
+    "pcl": 1,
+    "uberon": 8,
+    "wbphenotype": 1,
+    "zp": 1
+  },
+  "bspo:0001107": {
+    "aism": 2,
+    "cl": 16,
+    "clo": 1,
+    "dpo": 2,
+    "ecocore": 2,
+    "ecto": 2,
+    "flopo": 2,
+    "fypo": 2,
+    "hp": 9,
+    "maxo": 4,
+    "mondo": 7,
+    "nbo": 2,
+    "oba": 7,
+    "ohpi": 1,
+    "pato": 2,
+    "pcl": 8,
+    "plana": 6,
+    "planp": 8,
+    "uberon": 40,
+    "wbphenotype": 2,
+    "zp": 2
+  },
+  "bspo:0001108": {
+    "cl": 4,
+    "clo": 1,
+    "ecto": 3,
+    "flopo": 2,
+    "hp": 7,
+    "hso": 1,
+    "maxo": 6,
+    "mondo": 4,
+    "nbo": 2,
+    "oae": 2,
+    "oba": 4,
+    "ohpi": 3,
+    "pato": 2,
+    "pcl": 3,
+    "uberon": 8,
+    "wbphenotype": 2,
+    "zp": 3
+  },
+  "bspo:0001113": {
+    "cl": 1,
+    "hp": 6,
+    "maxo": 4,
+    "mondo": 5,
+    "oba": 5,
+    "uberon": 11
+  },
+  "bspo:0001115": {
+    "cl": 1,
+    "hp": 4,
+    "maxo": 1,
+    "mondo": 4,
+    "oba": 4,
+    "uberon": 5
+  },
+  "bspo:0005001": {
+    "cl": 2,
+    "ecto": 2,
+    "hp": 15,
+    "maxo": 3,
+    "mondo": 7,
+    "oba": 5,
+    "pcl": 1,
+    "uberon": 32,
+    "zp": 1
+  },
+  "bspo:0015001": {
+    "aism": 5,
+    "bspo": 7,
+    "cteno": 7,
+    "plana": 3,
+    "planp": 3,
+    "zp": 6
+  },
+  "bspo:0015002": {
+    "bspo": 4,
+    "cteno": 4
+  },
+  "bspo:0015003": {
+    "bspo": 6,
+    "cteno": 6
+  },
+  "bspo:0015005": {
+    "aism": 4,
+    "bspo": 4,
+    "cteno": 5,
+    "plana": 4,
+    "planp": 4,
+    "zp": 4
+  },
+  "bspo:0015006": {
+    "aism": 1,
+    "bspo": 1,
+    "cteno": 2,
+    "plana": 1,
+    "planp": 1,
+    "zp": 1
+  },
+  "bspo:0015007": {
+    "aism": 5,
+    "bspo": 7,
+    "cteno": 7,
+    "plana": 3,
+    "planp": 3,
+    "zp": 6
+  },
+  "bspo:0015008": {
+    "aism": 8,
+    "bspo": 12,
+    "cteno": 12,
+    "plana": 7,
+    "planp": 7,
+    "zp": 12
+  },
+  "bspo:0015009": {
+    "uberon": 1
+  },
+  "bspo:0015012": {
+    "uberon": 1
+  },
+  "bspo:0015014": {
+    "cl": 6,
+    "hp": 3,
+    "mondo": 1,
+    "oba": 1,
+    "plana": 4,
+    "planp": 5,
+    "uberon": 13
+  },
+  "bspo:0015101": {
+    "cl": 5,
+    "ecto": 3,
+    "hp": 6,
+    "maxo": 5,
+    "mondo": 6,
+    "oba": 6,
+    "pcl": 4,
+    "uberon": 6,
+    "zp": 4
+  },
+  "bspo:0015102": {
+    "hp": 4,
+    "mondo": 4,
+    "oba": 4,
+    "uberon": 5
+  },
+  "bspo:0015202": {
+    "uberon": 1
+  },
+  "cdao:0000142": {
+    "cdao": 2,
+    "miapa": 2
+  },
+  "cdao:0000153": {
+    "cdao": 1,
+    "miapa": 1
+  },
+  "cdao:0000155": {
+    "cdao": 1,
+    "miapa": 1
+  },
+  "cdao:0000168": {
+    "cdao": 1,
+    "miapa": 1
+  },
+  "cdao:0000170": {
+    "cdao": 1,
+    "miapa": 1
+  },
+  "cdao:0000174": {
+    "cdao": 1,
+    "miapa": 1
+  },
+  "cdao:0000176": {
+    "cdao": 1,
+    "miapa": 1
+  },
+  "cdao:0000178": {
+    "cdao": 2,
+    "miapa": 2
+  },
+  "cdao:0000188": {
+    "cdao": 1,
+    "miapa": 1
+  },
+  "cdao:0000190": {
+    "cdao": 2,
+    "miapa": 2
+  },
+  "cdao:0000193": {
+    "cdao": 1,
+    "miapa": 1
+  },
+  "cdao:0000194": {
+    "cdao": 2,
+    "miapa": 2
+  },
+  "cdao:0000195": {
+    "cdao": 1,
+    "miapa": 1
+  },
+  "cdao:0000199": {
+    "cdao": 1,
+    "miapa": 1
+  },
+  "cdao:0000202": {
+    "cdao": 1,
+    "miapa": 1
+  },
+  "cdao:0000207": {
+    "cdao": 1,
+    "miapa": 1
+  },
+  "cdao:0000208": {
+    "cdao": 1,
+    "miapa": 1
+  },
+  "ceph#continuous_with": {
+    "ceph": 12
+  },
+  "ceph#dorsal_to": {
+    "ceph": 1
+  },
+  "ceph#proximal_to": {
+    "ceph": 1
+  },
+  "ceph#secretes": {
+    "ceph": 2
+  },
+  "ceph#surrounded_by": {
+    "ceph": 1
+  },
+  "ceph#surrounds": {
+    "ceph": 8
+  },
+  "ceph#trait_of": {
+    "ceph": 20
+  },
+  "ceph#ventral_to": {
+    "ceph": 1
+  },
+  "ceph:0001007": {
+    "ceph": 3
+  },
+  "chebi#BFO:0000051": {
+    "poro": 22
+  },
+  "chebi#has_functional_parent": {
+    "agro": 6,
+    "aism": 11,
+    "caro": 8,
+    "chebi": 18261,
+    "cl": 18,
+    "clo": 9,
+    "dpo": 11,
+    "dron": 719,
+    "ecocore": 13,
+    "ecto": 472,
+    "fbcv": 47,
+    "flopo": 12,
+    "fypo": 211,
+    "hp": 116,
+    "maxo": 60,
+    "mco": 149,
+    "micro": 1319,
+    "mondo": 45,
+    "nbo": 2,
+    "oba": 97,
+    "pato": 12,
+    "pcl": 14,
+    "peco": 68,
+    "phipo": 78,
+    "poro": 1,
+    "to": 26,
+    "wbphenotype": 56,
+    "zp": 151
+  },
+  "chebi#has_parent_hydride": {
+    "agro": 3,
+    "aism": 2,
+    "caro": 2,
+    "chebi": 1740,
+    "cl": 12,
+    "clo": 6,
+    "dpo": 2,
+    "dron": 198,
+    "ecocore": 2,
+    "ecto": 113,
+    "fbcv": 12,
+    "flopo": 2,
+    "fypo": 44,
+    "hp": 23,
+    "maxo": 16,
+    "mco": 26,
+    "micro": 81,
+    "mondo": 12,
+    "nbo": 3,
+    "oba": 42,
+    "pato": 2,
+    "pcl": 2,
+    "peco": 26,
+    "phipo": 19,
+    "to": 21,
+    "wbphenotype": 17,
+    "zp": 22
+  },
+  "chebi#has_part": {
+    "chiro": 4
+  },
+  "chebi#is_conjugate_acid_of": {
+    "agro": 33,
+    "aism": 21,
+    "caro": 35,
+    "chebi": 8265,
+    "cl": 47,
+    "clo": 23,
+    "dpo": 21,
+    "dron": 869,
+    "ecocore": 33,
+    "ecto": 540,
+    "fbcv": 72,
+    "flopo": 28,
+    "fypo": 457,
+    "hp": 265,
+    "maxo": 168,
+    "mco": 368,
+    "micro": 365,
+    "mondo": 110,
+    "nbo": 13,
+    "oba": 207,
+    "pato": 28,
+    "pcl": 36,
+    "peco": 141,
+    "phipo": 163,
+    "poro": 2,
+    "to": 94,
+    "wbphenotype": 113,
+    "zp": 339
+  },
+  "chebi#is_conjugate_base_of": {
+    "agro": 33,
+    "aism": 21,
+    "caro": 35,
+    "chebi": 8265,
+    "cl": 47,
+    "clo": 23,
+    "dpo": 21,
+    "dron": 869,
+    "ecocore": 33,
+    "ecto": 540,
+    "fbcv": 72,
+    "flopo": 28,
+    "fypo": 457,
+    "hp": 265,
+    "maxo": 168,
+    "mco": 368,
+    "micro": 384,
+    "mondo": 110,
+    "nbo": 13,
+    "oba": 207,
+    "pato": 28,
+    "pcl": 36,
+    "peco": 141,
+    "phipo": 163,
+    "poro": 2,
+    "to": 94,
+    "wbphenotype": 113,
+    "zp": 339
+  },
+  "chebi#is_enantiomer_of": {
+    "chebi": 2680,
+    "dron": 358,
+    "ecto": 248,
+    "fbcv": 18,
+    "fypo": 182,
+    "hp": 50,
+    "maxo": 38,
+    "mco": 96,
+    "micro": 274,
+    "mondo": 34,
+    "nbo": 4,
+    "oba": 68,
+    "peco": 30,
+    "phipo": 42,
+    "to": 12,
+    "wbphenotype": 24,
+    "zp": 94
+  },
+  "chebi#is_substituent_group_from": {
+    "agro": 4,
+    "aism": 5,
+    "caro": 4,
+    "chebi": 1279,
+    "cl": 6,
+    "clo": 5,
+    "dpo": 5,
+    "dron": 34,
+    "ecocore": 5,
+    "ecto": 29,
+    "fbcv": 10,
+    "flopo": 5,
+    "fypo": 25,
+    "hp": 20,
+    "maxo": 14,
+    "mco": 17,
+    "mondo": 7,
+    "nbo": 1,
+    "oba": 13,
+    "pato": 5,
+    "pcl": 5,
+    "peco": 14,
+    "phipo": 15,
+    "to": 8,
+    "wbphenotype": 13,
+    "zp": 16
+  },
+  "chebi#is_tautomer_of": {
+    "agro": 4,
+    "aism": 4,
+    "caro": 10,
+    "chebi": 1806,
+    "cl": 12,
+    "clo": 6,
+    "dpo": 4,
+    "dron": 220,
+    "ecocore": 4,
+    "ecto": 160,
+    "fbcv": 36,
+    "flopo": 8,
+    "fypo": 188,
+    "hp": 92,
+    "maxo": 52,
+    "mco": 106,
+    "micro": 28,
+    "mondo": 38,
+    "oba": 82,
+    "pato": 8,
+    "pcl": 10,
+    "peco": 44,
+    "phipo": 62,
+    "to": 24,
+    "wbphenotype": 42,
+    "zp": 96
+  },
+  "chiro#activator_of": {
+    "chiro": 8
+  },
+  "chiro#agonist_of": {
+    "chiro": 29
+  },
+  "chiro#antagonist_of": {
+    "chiro": 25
+  },
+  "chiro#destabilizer_of": {
+    "chiro": 1
+  },
+  "chiro#inducer_of": {
+    "chiro": 2
+  },
+  "chiro#inhibitor_of": {
+    "chiro": 142
+  },
+  "chiro#modulator_of": {
+    "chiro": 9
+  },
+  "chiro#sensitizer_of": {
+    "chiro": 1
+  },
+  "chiro#stabilizier_of": {
+    "chiro": 1
+  },
+  "chmo:0002748": {
+    "chmo": 1
+  },
+  "chmo:0002922": {
+    "chmo": 9
+  },
+  "chmo:0010016": {
+    "chmo": 2
+  },
+  "chmo:0010017": {
+    "chmo": 3
+  },
+  "cl#has_completed": {
+    "cl": 19,
+    "clo": 4,
+    "mondo": 7,
+    "oba": 5
+  },
+  "cl#has_high_plasma_membrane_amount": {
+    "cl": 80,
+    "clo": 21,
+    "flopo": 7,
+    "hp": 7,
+    "maxo": 7,
+    "mondo": 10,
+    "oba": 17,
+    "pato": 7,
+    "pcl": 8,
+    "zp": 7
+  },
+  "cl#has_low_plasma_membrane_amount": {
+    "cl": 77,
+    "clo": 13,
+    "flopo": 6,
+    "hp": 6,
+    "maxo": 6,
+    "mondo": 3,
+    "oba": 7,
+    "pato": 6,
+    "pcl": 6,
+    "zp": 6
+  },
+  "cl#has_not_completed": {
+    "cl": 12,
+    "clo": 3,
+    "mondo": 6,
+    "oba": 4
+  },
+  "cl#lacks_part": {
+    "aism": 2,
+    "cl": 17,
+    "clo": 8,
+    "dpo": 2,
+    "ecocore": 2,
+    "ecto": 2,
+    "flopo": 7,
+    "fypo": 2,
+    "hp": 6,
+    "maxo": 6,
+    "mondo": 4,
+    "oba": 6,
+    "obib": 3,
+    "pato": 7,
+    "pcl": 6,
+    "wbphenotype": 3,
+    "zp": 6
+  },
+  "cl#lacks_plasma_membrane_part": {
+    "aism": 94,
+    "cl": 488,
+    "clo": 184,
+    "cteno": 3,
+    "dpo": 94,
+    "ecocore": 94,
+    "ecto": 94,
+    "flopo": 172,
+    "fypo": 94,
+    "hp": 169,
+    "maxo": 169,
+    "mondo": 17,
+    "oba": 177,
+    "pato": 172,
+    "pcl": 192,
+    "wbphenotype": 101,
+    "zp": 169
+  },
+  "clao:0001220": {
+    "clao": 32
+  },
+  "clao:0001272": {
+    "clao": 1
+  },
+  "clao:0001291": {
+    "clao": 3
+  },
+  "clao:0001292": {
+    "clao": 1
+  },
+  "clao:0001298": {
+    "clao": 1
+  },
+  "clao:0001460": {
+    "clao": 1
+  },
+  "clao:0001531": {
+    "clao": 21
+  },
+  "clao:0001542": {
+    "clao": 1
+  },
+  "clao:0001543": {
+    "clao": 1
+  },
+  "clao:0001545": {
+    "clao": 1
+  },
+  "clo:0000015": {
+    "clo": 888,
+    "ohpi": 5
+  },
+  "clo:0000179": {
+    "clo": 8580,
+    "ohpi": 6
+  },
+  "clo:0037207": {
+    "clo": 5
+  },
+  "clo:0037208": {
+    "clo": 4,
+    "ohpi": 1
+  },
+  "clo:0037209": {
+    "clo": 48
+  },
+  "clo:0037210": {
+    "clo": 2
+  },
+  "cob:0000016": {
+    "eupath": 1
+  },
+  "ddanat#develops_from": {
+    "ddanat": 87
+  },
+  "ddanat#part_of": {
+    "ddanat": 134
+  },
+  "duo:0000010": {
+    "duo": 3
+  },
+  "eco:9000000": {
+    "eco": 2
+  },
+  "emapa#develops_from": {
+    "emapa": 393
+  },
+  "emapa#ends_at": {
+    "emapa": 4608
+  },
+  "emapa#part_of": {
+    "emapa": 7008
+  },
+  "emapa#starts_at": {
+    "emapa": 6026
+  },
+  "envo#has_increased_levels_of": {
+    "agro": 7,
+    "ecto": 21,
+    "envo": 38,
+    "mondo": 5,
+    "peco": 2
+  },
+  "envo:01001307": {
+    "agro": 4,
+    "ecto": 1,
+    "envo": 22,
+    "mondo": 1
+  },
+  "envo:02500016": {
+    "envo": 1
+  },
+  "envo:02500020": {
+    "ecto": 1,
+    "envo": 1
+  },
+  "envo:2000036": {
+    "ecto": 2,
+    "envo": 2
+  },
+  "exo#characterizes": {
+    "exo": 1
+  },
+  "exo#interacts_with": {
+    "ecto": 2,
+    "exo": 2,
+    "mondo": 2,
+    "oba": 2
+  },
+  "exo#interacts_with_an_exposure_receptor_via": {
+    "ecto": 2,
+    "exo": 2,
+    "mondo": 2,
+    "oba": 2
+  },
+  "exo#interacts_with_an_exposure_stressor_via": {
+    "ecto": 1,
+    "exo": 1,
+    "mondo": 1,
+    "oba": 1
+  },
+  "exo#is_associated_with": {
+    "exo": 1
+  },
+  "exo#targeted_to": {
+    "exo": 3
+  },
+  "fbbi:00000346": {
+    "fbbi": 45
+  },
+  "fbcv#conditionality": {
+    "fbcv": 51
+  },
+  "fbdv:00018001": {
+    "dpo": 112,
+    "fbdv": 186
+  },
+  "fix#BY": {
+    "fix": 29
+  },
+  "fix#part_of": {
+    "fix": 51
+  },
+  "fma#attaches_to": {
+    "fma": 192
+  },
+  "fma#bounds": {
+    "fma": 660
+  },
+  "fma#branch_of": {
+    "fma": 7167
+  },
+  "fma#constitutional_part_of": {
+    "fma": 12392,
+    "ontoneo": 51
+  },
+  "fma#regional_part_of": {
+    "fma": 19665,
+    "ontoneo": 155
+  },
+  "fma#systemic_part_of": {
+    "fma": 2658,
+    "ontoneo": 61
+  },
+  "fma:85857": {
+    "ohd": 2
+  },
+  "fma:85868": {
+    "ohd": 52
+  },
+  "fma:85879": {
+    "ohd": 119
+  },
+  "fma:85925": {
+    "ohd": 357
+  },
+  "fma:85995": {
+    "ohd": 22
+  },
+  "fma:85996": {
+    "ohd": 958
+  },
+  "fobi:00422": {
+    "fobi": 5194
+  },
+  "fobi:00424": {
+    "fobi": 280
+  },
+  "foodon:00001301": {
+    "ecto": 6,
+    "foodon": 14,
+    "mondo": 1
+  },
+  "foodon:00001563": {
+    "ecto": 15,
+    "foodon": 222,
+    "maxo": 1
+  },
+  "foodon:00002420": {
+    "ecto": 6,
+    "foodon": 123,
+    "maxo": 2
+  },
+  "fypo#has_output": {
+    "fypo": 64
+  },
+  "fypo#output_of": {
+    "fypo": 92
+  },
+  "geno:0000207": {
+    "geno": 10
+  },
+  "geno:0000231": {
+    "geno": 1
+  },
+  "geno:0000239": {
+    "geno": 3
+  },
+  "geno:0000248": {
+    "geno": 1
+  },
+  "geno:0000251": {
+    "geno": 1
+  },
+  "geno:0000382": {
+    "geno": 6
+  },
+  "geno:0000385": {
+    "geno": 1
+  },
+  "geno:0000408": {
+    "geno": 1
+  },
+  "geno:0000443": {
+    "geno": 1
+  },
+  "geno:0000447": {
+    "geno": 1
+  },
+  "geno:0000580": {
+    "geno": 2
+  },
+  "geno:0000641": {
+    "geno": 1
+  },
+  "geno:0000650": {
+    "geno": 1
+  },
+  "geno:0000683": {
+    "geno": 4
+  },
+  "geno:0000726": {
+    "geno": 3
+  },
+  "geno:0000783": {
+    "geno": 3
+  },
+  "geno:0000784": {
+    "geno": 1
+  },
+  "geno:0000903": {
+    "geno": 2
+  },
+  "geno:0000968": {
+    "geno": 3
+  },
+  "gorel:0000001": {
+    "fypo": 2
+  },
+  "gorel:0000032": {
+    "fypo": 1
+  },
+  "gorel:0000501": {
+    "fypo": 2
+  },
+  "gorel:0002003": {
+    "aism": 2,
+    "cl": 2,
+    "dpo": 2,
+    "ecocore": 2,
+    "ecto": 2,
+    "flopo": 2,
+    "fypo": 2,
+    "hp": 2,
+    "maxo": 2,
+    "oba": 2,
+    "pato": 2,
+    "pcl": 2,
+    "wbphenotype": 2,
+    "zp": 2
+  },
+  "gorel:0002004": {
+    "aism": 3,
+    "cl": 3,
+    "clo": 2,
+    "dpo": 3,
+    "ecocore": 3,
+    "ecto": 3,
+    "flopo": 3,
+    "fypo": 3,
+    "hp": 3,
+    "maxo": 3,
+    "oba": 3,
+    "pato": 3,
+    "pcl": 3,
+    "wbphenotype": 3,
+    "zp": 3
+  },
+  "hancestro:0301": {
+    "hancestro": 2
+  },
+  "hancestro:0308": {
+    "foodon": 10
+  },
+  "hancestro:0330": {
+    "hancestro": 230
+  },
+  "hsapdv#only_in_taxon": {
+    "hsapdv": 11
+  },
+  "http://purl.org/oban/association_has_object": {
+    "geno": 1
+  },
+  "http://semanticscience.org/resource/CHEMINF_000047": {
+    "cheminf": 13
+  },
+  "http://semanticscience.org/resource/CHEMINF_000143": {
+    "cheminf": 47
+  },
+  "http://semanticscience.org/resource/CHEMINF_000145": {
+    "cheminf": 1
+  },
+  "http://semanticscience.org/resource/CHEMINF_000148": {
+    "cheminf": 1
+  },
+  "http://semanticscience.org/resource/CHEMINF_000330": {
+    "cheminf": 3
+  },
+  "http://semanticscience.org/resource/CHEMINF_000331": {
+    "cheminf": 4
+  },
+  "http://semanticscience.org/resource/CHEMINF_000606": {
+    "cheminf": 9
+  },
+  "http://semanticscience.org/resource/SIO_000001": {
+    "ecto": 1,
+    "ons": 6
+  },
+  "http://semanticscience.org/resource/SIO_000217": {
+    "ecto": 5,
+    "ons": 6
+  },
+  "http://semanticscience.org/resource/SIO_000221": {
+    "ecto": 6,
+    "ons": 6
+  },
+  "http://semanticscience.org/resource/SIO_000658": {
+    "ceph": 1,
+    "cteno": 1
+  },
+  "http://www.biomodels.net/kisao/KISAO#KISAO_0000245": {
+    "biomodels.kisao": 266
+  },
+  "http://www.biomodels.net/kisao/KISAO#KISAO_0000246": {
+    "biomodels.kisao": 8
+  },
+  "http://www.biomodels.net/kisao/KISAO#KISAO_0000250": {
+    "biomodels.kisao": 11
+  },
+  "http://www.biomodels.net/kisao/KISAO#KISAO_0000259": {
+    "biomodels.kisao": 44
+  },
+  "http://www.biomodels.net/kisao/KISAO#KISAO_0000359": {
+    "biomodels.kisao": 28
+  },
+  "http://www.biomodels.net/kisao/KISAO#KISAO_0000360": {
+    "biomodels.kisao": 29
+  },
+  "http://www.biomodels.net/kisao/KISAO#KISAO_0000361": {
+    "biomodels.kisao": 14
+  },
+  "http://www.biomodels.net/kisao/KISAO#KISAO_0000399": {
+    "biomodels.kisao": 1
+  },
+  "http://www.obofoundry.org/ro/ro.owl#has_part": {
+    "ohd": 1
+  },
+  "http://www.obofoundry.org/ro/ro.owl#has_proper_part": {
+    "cheminf": 2,
+    "dron": 544962
+  },
+  "http://www.obofoundry.org/ro/ro.owl#preceded_by": {
+    "oae": 4,
+    "opmi": 1
+  },
+  "http://www.semanticweb.org/ontologies/is_output_of": {
+    "cheminf": 22
+  },
+  "http://www.w3.org/ns/prov#specializationOf": {
+    "miapa": 1
+  },
+  "http://www.w3.org/ns/prov#wasRevisionOf": {
+    "miapa": 1
+  },
+  "https://bio.scai.fraunhofer.de/ontology/0000401": {
+    "epio": 4
+  },
+  "https://bio.scai.fraunhofer.de/ontology/0000403": {
+    "epio": 11
+  },
+  "https://bio.scai.fraunhofer.de/ontology/0000405": {
+    "epio": 1
+  },
+  "https://bio.scai.fraunhofer.de/ontology/0000409": {
+    "epio": 1
+  },
+  "https://bio.scai.fraunhofer.de/ontology/0000410": {
+    "epio": 1
+  },
+  "https://bio.scai.fraunhofer.de/ontology/0000412": {
+    "epio": 1
+  },
+  "https://bio.scai.fraunhofer.de/ontology/0000414": {
+    "epio": 2
+  },
+  "https://bio.scai.fraunhofer.de/ontology/0000416": {
+    "epio": 3
+  },
+  "https://bio.scai.fraunhofer.de/ontology/0000418": {
+    "epio": 1
+  },
+  "https://bio.scai.fraunhofer.de/ontology/0000420": {
+    "epio": 1
+  },
+  "https://bio.scai.fraunhofer.de/ontology/ac113c60_c3d8_48f2_871c_cc34524d844f": {
+    "epio": 5
+  },
+  "https://bio.scai.fraunhofer.de/ontology/cac13978_e4e8_4240_907f_80ddfd3af981": {
+    "epio": 16
+  },
+  "iao:0000039": {
+    "agro": 1,
+    "cheminf": 1,
+    "dideo": 1,
+    "duo": 1,
+    "eupath": 2,
+    "htn": 1,
+    "iao": 1,
+    "obi": 8,
+    "omrse": 1,
+    "one": 9,
+    "oostt": 1,
+    "pdro": 3,
+    "psdo": 1
+  },
+  "iao:0000136": {
+    "agro": 23,
+    "aism": 1,
+    "bco": 3,
+    "cheminf": 105,
+    "chmo": 7,
+    "clo": 2,
+    "cro": 2,
+    "dideo": 20,
+    "duo": 13,
+    "eco": 89,
+    "ecocore": 1,
+    "ecto": 12,
+    "eupath": 111,
+    "fideo": 1,
+    "foodon": 4,
+    "fypo": 1,
+    "gecko": 3,
+    "hso": 2,
+    "htn": 20,
+    "iao": 13,
+    "labo": 4,
+    "maxo": 12,
+    "mondo": 2,
+    "mpio": 4,
+    "ncro": 1,
+    "oae": 4,
+    "oba": 2,
+    "obi": 57,
+    "obib": 8,
+    "ogsf": 25,
+    "ohd": 63,
+    "ohmi": 3,
+    "ohpi": 12,
+    "omit": 1,
+    "omrse": 18,
+    "one": 49,
+    "ons": 27,
+    "ontoneo": 6,
+    "oostt": 24,
+    "opmi": 47,
+    "pdro": 20,
+    "plana": 1,
+    "psdo": 80,
+    "sepio": 3,
+    "stato": 66,
+    "vo": 6,
+    "wbphenotype": 1,
+    "xpo": 1
+  },
+  "iao:0000142": {
+    "eupath": 60,
+    "vo": 1
+  },
+  "iao:0000219": {
+    "agro": 1,
+    "cheminf": 1,
+    "dideo": 1,
+    "duo": 1,
+    "eupath": 7,
+    "geno": 4,
+    "htn": 1,
+    "iao": 1,
+    "labo": 2,
+    "obi": 3,
+    "omrse": 4,
+    "one": 4,
+    "ons": 29,
+    "oostt": 1,
+    "pdro": 4,
+    "psdo": 7,
+    "stato": 6
+  },
+  "iao:0000221": {
+    "agro": 2,
+    "cheminf": 1,
+    "dideo": 1,
+    "duo": 1,
+    "eupath": 16,
+    "htn": 1,
+    "iao": 1,
+    "obi": 4,
+    "obib": 1,
+    "omrse": 1,
+    "one": 5,
+    "ontoneo": 1,
+    "oostt": 1,
+    "psdo": 1
+  },
+  "iao:0000412": {
+    "ohpi": 88
+  },
+  "iao:0000413": {
+    "obi": 1,
+    "obib": 1,
+    "one": 1
+  },
+  "iao:0020012": {
+    "obib": 1,
+    "ontoneo": 1
+  },
+  "iceo:0000019": {
+    "iceo": 3
+  },
+  "iceo:0000020": {
+    "iceo": 570
+  },
+  "iceo:0000023": {
+    "iceo": 1
+  },
+  "iceo:0000032": {
+    "iceo": 8
+  },
+  "iceo:0000051": {
+    "iceo": 24866
+  },
+  "iceo:0000350": {
+    "iceo": 2
+  },
+  "ido:0000664": {
+    "doid": 2959,
+    "hso": 1,
+    "htn": 1,
+    "ohpi": 1
+  },
+  "ido:0100541": {
+    "iceo": 62
+  },
+  "inheres_in": {
+    "ogsf": 1,
+    "ontoneo": 1,
+    "ovae": 1
+  },
+  "ino:0000154": {
+    "ino": 1
+  },
+  "inverseOf": {
+    "agro": 42,
+    "aism": 51,
+    "bco": 31,
+    "biomodels.kisao": 3,
+    "bspo": 33,
+    "caro": 30,
+    "cdao": 9,
+    "cdno": 25,
+    "ceph": 7,
+    "chebi": 1,
+    "cheminf": 39,
+    "cl": 52,
+    "clo": 35,
+    "colao": 8,
+    "cro": 4,
+    "cteno": 33,
+    "cto": 1,
+    "cvdo": 24,
+    "dideo": 37,
+    "dpo": 47,
+    "dron": 24,
+    "duo": 19,
+    "ecao": 22,
+    "eco": 18,
+    "ecocore": 56,
+    "ecto": 60,
+    "envo": 1,
+    "eupath": 4,
+    "fbbi": 21,
+    "fbbt": 39,
+    "fbcv": 27,
+    "fbdv": 28,
+    "flopo": 68,
+    "fobi": 2,
+    "foodon": 1,
+    "fypo": 49,
+    "geno": 20,
+    "geogeo": 17,
+    "go": 1,
+    "hancestro": 3,
+    "hp": 50,
+    "hso": 22,
+    "htn": 58,
+    "iao": 19,
+    "iceo": 7,
+    "ido": 15,
+    "idomal": 4,
+    "labo": 12,
+    "lepao": 10,
+    "maxo": 55,
+    "mco": 1,
+    "mf": 1,
+    "mfmo": 113,
+    "mfoem": 1,
+    "mfomd": 2,
+    "miapa": 13,
+    "micro": 57,
+    "mondo": 62,
+    "nbo": 33,
+    "ncro": 2,
+    "oae": 14,
+    "oba": 61,
+    "obi": 24,
+    "obib": 18,
+    "ogg": 24,
+    "ogsf": 28,
+    "ohd": 22,
+    "ohmi": 30,
+    "ohpi": 65,
+    "omit": 2,
+    "omrse": 38,
+    "one": 43,
+    "ons": 51,
+    "ontoavida": 6,
+    "ontoneo": 79,
+    "oostt": 21,
+    "opl": 14,
+    "opmi": 30,
+    "ovae": 19,
+    "pato": 44,
+    "pcl": 50,
+    "pco": 29,
+    "pdro": 13,
+    "peco": 33,
+    "phipo": 25,
+    "plana": 34,
+    "planp": 42,
+    "po": 24,
+    "poro": 19,
+    "ppo": 12,
+    "psdo": 53,
+    "pso": 24,
+    "ro": 111,
+    "sepio": 10,
+    "stato": 21,
+    "to": 54,
+    "uberon": 49,
+    "vo": 8,
+    "wbbt": 25,
+    "wbls": 25,
+    "wbphenotype": 45,
+    "xpo": 19,
+    "zeco": 1,
+    "zfa": 1,
+    "zp": 50
+  },
+  "ma#part_of": {
+    "ma": 1975
+  },
+  "mamo#hasFeature": {
+    "mamo": 38
+  },
+  "mamo#isUsedToModel": {
+    "mamo": 10
+  },
+  "maxo:0000521": {
+    "maxo": 1
+  },
+  "maxo:0000864": {
+    "ecto": 2,
+    "maxo": 9
+  },
+  "mco.owl/MCO:0000858": {
+    "mco": 13
+  },
+  "mco.owl/MCO:0000860": {
+    "mco": 9
+  },
+  "mfmo.owl#attached_to_dorsal_surface_of": {
+    "mfmo": 1
+  },
+  "mfmo.owl#attached_to_medial_surface_of": {
+    "mfmo": 2
+  },
+  "mfmo.owl#attached_to_ventral_surface_of": {
+    "mfmo": 1
+  },
+  "mfmo.owl#deep_to": {
+    "mfmo": 1
+  },
+  "mfmo:0000001": {
+    "mfmo": 3
+  },
+  "mfoem:000008": {
+    "mfoem": 1
+  },
+  "mi#part_of": {
+    "mi": 36
+  },
+  "micro:0000001": {
+    "micro": 15
+  },
+  "micro:0000029": {
+    "micro": 45
+  },
+  "micro:0000032": {
+    "micro": 12
+  },
+  "micro:0000034": {
+    "micro": 5
+  },
+  "micro:0000035": {
+    "micro": 1
+  },
+  "micro:0000065": {
+    "micro": 36
+  },
+  "micro:0000105": {
+    "micro": 11
+  },
+  "micro:0000107": {
+    "micro": 10
+  },
+  "micro:0000108": {
+    "micro": 4
+  },
+  "micro:0000110": {
+    "micro": 2
+  },
+  "micro:0000135": {
+    "micro": 5
+  },
+  "micro:0000469": {
+    "micro": 2
+  },
+  "micro:0000470": {
+    "micro": 3
+  },
+  "micro:0000473": {
+    "micro": 1
+  },
+  "micro:0000475": {
+    "micro": 1
+  },
+  "micro:0000477": {
+    "micro": 3
+  },
+  "micro:0000940": {
+    "micro": 10
+  },
+  "micro:0001197": {
+    "micro": 80
+  },
+  "micro:0001198": {
+    "micro": 61
+  },
+  "micro:0001199": {
+    "micro": 18
+  },
+  "micro:0001200": {
+    "micro": 12
+  },
+  "micro:0001203": {
+    "micro": 1
+  },
+  "micro:0001206": {
+    "micro": 89
+  },
+  "micro:0001208": {
+    "micro": 4
+  },
+  "micro:0001213": {
+    "micro": 6
+  },
+  "micro:0001215": {
+    "micro": 49
+  },
+  "micro:0001217": {
+    "micro": 4
+  },
+  "micro:0001218": {
+    "micro": 4
+  },
+  "micro:0001219": {
+    "micro": 11
+  },
+  "micro:0001221": {
+    "micro": 4
+  },
+  "micro:0001244": {
+    "micro": 16
+  },
+  "micro:0001245": {
+    "micro": 1
+  },
+  "micro:0001288": {
+    "micro": 1
+  },
+  "micro:0001301": {
+    "micro": 1
+  },
+  "micro:0001371": {
+    "micro": 3
+  },
+  "micro:0001391": {
+    "micro": 26
+  },
+  "micro:0001431": {
+    "micro": 4
+  },
+  "micro:0001460": {
+    "micro": 18
+  },
+  "micro:0001461": {
+    "micro": 2
+  },
+  "micro:0001462": {
+    "micro": 10
+  },
+  "micro:0001463": {
+    "micro": 6
+  },
+  "micro:0001465": {
+    "micro": 6
+  },
+  "micro:0001466": {
+    "micro": 5
+  },
+  "micro:0001467": {
+    "micro": 30
+  },
+  "micro:0001468": {
+    "micro": 11
+  },
+  "micro:0001502": {
+    "micro": 30
+  },
+  "micro:0001521": {
+    "micro": 30
+  },
+  "micro:0001522": {
+    "micro": 30
+  },
+  "micro:0001523": {
+    "micro": 30
+  },
+  "micro:0001524": {
+    "micro": 30
+  },
+  "micro:0001550": {
+    "micro": 1
+  },
+  "micro:1207": {
+    "micro": 1
+  },
+  "mod#contains": {
+    "mod": 10
+  },
+  "mod#derives_from": {
+    "mod": 118
+  },
+  "mod#has_functional_parent": {
+    "mod": 27
+  },
+  "mod#part_of": {
+    "mod": 1
+  },
+  "mondo#disease_causes_feature": {
+    "mondo": 13,
+    "oba": 4
+  },
+  "mondo#disease_has_basis_in_accumulation_of": {
+    "mondo": 1
+  },
+  "mondo#disease_has_basis_in_development_of": {
+    "mondo": 2
+  },
+  "mondo#disease_has_major_feature": {
+    "mondo": 155,
+    "oba": 11
+  },
+  "mondo#disease_responds_to": {
+    "mondo": 12
+  },
+  "mondo#disease_shares_features_of": {
+    "mondo": 51
+  },
+  "mondo#disease_triggers": {
+    "mondo": 2
+  },
+  "mondo#has_onset": {
+    "mondo": 1
+  },
+  "mondo#has_onset_before": {
+    "mondo": 2
+  },
+  "mondo#has_onset_during_or_after": {
+    "mondo": 2
+  },
+  "mondo#part_of_progression_of_disease": {
+    "mondo": 2
+  },
+  "mondo#predisposes_towards": {
+    "mondo": 173,
+    "oba": 11
+  },
+  "mondo:0100332": {
+    "mondo": 129,
+    "oba": 3
+  },
+  "mondo:0100333": {
+    "mondo": 4
+  },
+  "mop:0000769": {
+    "mop": 1
+  },
+  "mpath#part_of": {
+    "mpath": 3,
+    "zp": 1
+  },
+  "mro:0000002": {
+    "mro": 61
+  },
+  "nbo#by_means": {
+    "dpo": 1,
+    "hp": 1,
+    "maxo": 1,
+    "mondo": 1,
+    "nbo": 9,
+    "oba": 2,
+    "uberon": 1
+  },
+  "nbo#has_participant": {
+    "ecocore": 2,
+    "ecto": 8,
+    "hp": 2,
+    "nbo": 13,
+    "oba": 8,
+    "uberon": 2
+  },
+  "nbo#in_response_to": {
+    "dpo": 2,
+    "nbo": 20,
+    "oba": 15
+  },
+  "nbo#is_about": {
+    "nbo": 20,
+    "oba": 9
+  },
+  "ncro:0004006": {
+    "ncro": 1025,
+    "omit": 1025
+  },
+  "ncro:0004007": {
+    "ncro": 1,
+    "omit": 1
+  },
+  "ncro:0004008": {
+    "ncro": 1,
+    "omit": 1
+  },
+  "ncro:0004009": {
+    "ncro": 1025,
+    "omit": 1025
+  },
+  "ncro:0004010": {
+    "ncro": 1,
+    "omit": 1
+  },
+  "ncro:0004011": {
+    "ncro": 1,
+    "omit": 1
+  },
+  "ncro:0004013": {
+    "ncro": 1,
+    "omit": 1
+  },
+  "ncro:0004015": {
+    "ncro": 1,
+    "omit": 1
+  },
+  "oae:0000025": {
+    "oae": 4
+  },
+  "oae:0001735": {
+    "oae": 35,
+    "ovae": 8
+  },
+  "oae:0001788": {
+    "oae": 1212,
+    "opmi": 4,
+    "ovae": 1
+  },
+  "oae:0002081": {
+    "oae": 45
+  },
+  "oae:0002615": {
+    "oae": 1
+  },
+  "obi:0000107": {
+    "obi": 1,
+    "one": 1
+  },
+  "obi:0000124": {
+    "agro": 1,
+    "eco": 1,
+    "ecto": 1,
+    "eupath": 1,
+    "hso": 1,
+    "obi": 2,
+    "obib": 1,
+    "one": 2,
+    "ons": 4,
+    "opmi": 1,
+    "psdo": 2,
+    "stato": 2
+  },
+  "obi:0000293": {
+    "agro": 12,
+    "bco": 6,
+    "cheminf": 6,
+    "chmo": 1,
+    "clo": 11,
+    "cto": 1,
+    "dideo": 8,
+    "duo": 6,
+    "eco": 45,
+    "ecto": 7,
+    "eupath": 28,
+    "foodon": 8,
+    "hso": 3,
+    "htn": 5,
+    "iao": 6,
+    "labo": 2,
+    "maxo": 10,
+    "micro": 3,
+    "mondo": 1,
+    "oae": 2,
+    "oba": 1,
+    "obi": 140,
+    "obib": 30,
+    "ogsf": 2,
+    "ohd": 9,
+    "ohmi": 8,
+    "ohpi": 9,
+    "omrse": 6,
+    "one": 144,
+    "ons": 39,
+    "ontoneo": 3,
+    "oostt": 7,
+    "opmi": 11,
+    "ovae": 1,
+    "pdro": 1,
+    "psdo": 160,
+    "stato": 154,
+    "vo": 8
+  },
+  "obi:0000295": {
+    "bco": 2,
+    "clo": 2914,
+    "eco": 1,
+    "eupath": 2,
+    "ohpi": 11,
+    "ovae": 48,
+    "psdo": 27,
+    "stato": 27,
+    "vo": 118
+  },
+  "obi:0000299": {
+    "agro": 11,
+    "bco": 9,
+    "cheminf": 5,
+    "chmo": 28,
+    "clo": 12,
+    "dideo": 5,
+    "duo": 5,
+    "eco": 38,
+    "ecto": 9,
+    "eupath": 28,
+    "foodon": 27,
+    "hso": 3,
+    "htn": 5,
+    "iao": 5,
+    "labo": 1,
+    "maxo": 8,
+    "micro": 3,
+    "mondo": 1,
+    "oae": 2,
+    "oba": 1,
+    "obi": 189,
+    "obib": 20,
+    "ogsf": 2,
+    "ohd": 4,
+    "ohmi": 11,
+    "ohpi": 7,
+    "omrse": 13,
+    "one": 182,
+    "ons": 36,
+    "ontoneo": 4,
+    "oostt": 6,
+    "opmi": 11,
+    "ovae": 1,
+    "pdro": 1,
+    "psdo": 146,
+    "stato": 141,
+    "vo": 19
+  },
+  "obi:0000304": {
+    "vo": 1
+  },
+  "obi:0000312": {
+    "agro": 2,
+    "bco": 6,
+    "cheminf": 2,
+    "chmo": 33,
+    "clo": 5,
+    "duo": 1,
+    "eco": 140,
+    "ecto": 4,
+    "eupath": 97,
+    "hso": 1,
+    "iao": 1,
+    "labo": 1,
+    "maxo": 4,
+    "micro": 2,
+    "obi": 66,
+    "obib": 15,
+    "ogsf": 2,
+    "ohmi": 6,
+    "ohpi": 6,
+    "omrse": 3,
+    "one": 50,
+    "ons": 17,
+    "oostt": 4,
+    "opmi": 5,
+    "ornaseq": 3,
+    "psdo": 25,
+    "stato": 25,
+    "vo": 1
+  },
+  "obi:0000417": {
+    "agro": 6,
+    "bco": 4,
+    "chmo": 2,
+    "clo": 4,
+    "eco": 44,
+    "ecto": 8,
+    "eupath": 67,
+    "maxo": 10,
+    "mondo": 1,
+    "oba": 1,
+    "obi": 254,
+    "obib": 18,
+    "ogsf": 1,
+    "ohd": 2,
+    "ohmi": 7,
+    "ohpi": 12,
+    "one": 252,
+    "ons": 24,
+    "opmi": 8,
+    "ovae": 1,
+    "psdo": 78,
+    "rxno": 35,
+    "stato": 78,
+    "vo": 9
+  },
+  "obi:0000643": {
+    "bco": 2,
+    "clo": 5,
+    "eco": 9,
+    "eupath": 4,
+    "obi": 15,
+    "obib": 5,
+    "ohmi": 4,
+    "ohpi": 3,
+    "one": 15,
+    "ons": 4,
+    "opmi": 3,
+    "pdro": 1,
+    "psdo": 5,
+    "stato": 5,
+    "vo": 1
+  },
+  "obi:0000846": {
+    "oostt": 2
+  },
+  "obi:0001688": {
+    "obib": 1,
+    "oostt": 1
+  },
+  "obi:0001927": {
+    "obi": 1,
+    "one": 1,
+    "pdro": 1
+  },
+  "obi:0001938": {
+    "agro": 2,
+    "bco": 1,
+    "dideo": 1,
+    "eco": 2,
+    "ecto": 1,
+    "eupath": 1,
+    "htn": 2,
+    "labo": 5,
+    "maxo": 1,
+    "obi": 4,
+    "ohmi": 2,
+    "one": 3,
+    "ons": 4,
+    "opmi": 2,
+    "pdro": 3,
+    "psdo": 3,
+    "stato": 3,
+    "vo": 2
+  },
+  "obib:0000037": {
+    "obib": 1
+  },
+  "obib:0000038": {
+    "obib": 1
+  },
+  "ogg:0000000014": {
+    "ogg": 13,
+    "ohpi": 444,
+    "ovae": 2
+  },
+  "ogg:0000000016": {
+    "iceo": 394,
+    "ogg": 13,
+    "ohpi": 444,
+    "ovae": 2
+  },
+  "ogsf:0000013": {
+    "ogsf": 1
+  },
+  "ogsf:0001008": {
+    "ogsf": 3
+  },
+  "ogsf:0001009": {
+    "ogsf": 1
+  },
+  "ohmi:0000059": {
+    "ohmi": 29
+  },
+  "ohmi:0000272": {
+    "ohmi": 13
+  },
+  "ohmi:0000304": {
+    "ohmi": 2
+  },
+  "ohmi:0000347": {
+    "ohmi": 5
+  },
+  "ohmi:0000348": {
+    "ohmi": 3
+  },
+  "ohmi:0000350": {
+    "ohmi": 9
+  },
+  "ohmi:0000354": {
+    "ohmi": 10
+  },
+  "ohmi:0000359": {
+    "ohmi": 1
+  },
+  "ohmi:0000377": {
+    "ohmi": 121
+  },
+  "ohmi:0000423": {
+    "ohmi": 217
+  },
+  "ohmi:0000453": {
+    "ohmi": 4
+  },
+  "ohpi:0000003": {
+    "ohpi": 4425
+  },
+  "ohpi:0000004": {
+    "ohpi": 42
+  },
+  "ohpi:0000005": {
+    "ohpi": 226
+  },
+  "ohpi:0000007": {
+    "ohpi": 3090
+  },
+  "ohpi:0000025": {
+    "ohpi": 3179
+  },
+  "ohpi:0000026": {
+    "ohpi": 13
+  },
+  "ohpi:0000029": {
+    "ohpi": 73
+  },
+  "ohpi:0000035": {
+    "ohpi": 129
+  },
+  "ohpi:0000036": {
+    "ohpi": 13
+  },
+  "ohpi:0000090": {
+    "ohpi": 50
+  },
+  "omit.owl/MCO:0000866": {
+    "mco": 6
+  },
+  "omit.owl/MCO:0000867": {
+    "mco": 8
+  },
+  "omit:0000097": {
+    "omit": 1
+  },
+  "omit:0000159": {
+    "omit": 2
+  },
+  "omit:0000160": {
+    "omit": 2
+  },
+  "omp#decreased_in_magnitude_relative_to": {
+    "omp": 16
+  },
+  "omp#has_cross_section": {
+    "omp": 2
+  },
+  "omp#has_quality": {
+    "ecto": 1,
+    "omp": 62,
+    "ons": 1
+  },
+  "omp#increased_in_magnitude_relative_to": {
+    "omp": 15
+  },
+  "omp#reciprocal_of": {
+    "omp": 1
+  },
+  "omrse:00000068": {
+    "omrse": 1,
+    "pdro": 1
+  },
+  "ontoavida:00000004": {
+    "ontoavida": 2
+  },
+  "ontoavida:00000134": {
+    "ontoavida": 2
+  },
+  "ontoavida:00000182": {
+    "ontoavida": 2
+  },
+  "oostt:00000045": {
+    "oostt": 2
+  },
+  "opmi:0000171": {
+    "opmi": 9
+  },
+  "opmi:0000301": {
+    "opmi": 4
+  },
+  "opmi:0000305": {
+    "opmi": 5
+  },
+  "opmi:0000366": {
+    "opmi": 1
+  },
+  "opmi:0000481": {
+    "opmi": 3
+  },
+  "owl:topObjectProperty": {
+    "vario": 1
+  },
+  "pato#correlates_with": {
+    "planp": 1,
+    "xpo": 1,
+    "zp": 1
+  },
+  "pato#decreased_in_magnitude_relative_to": {
+    "dpo": 1,
+    "ecto": 1,
+    "mondo": 1,
+    "nbo": 1,
+    "oba": 1,
+    "ontoneo": 11,
+    "pco": 1,
+    "phipo": 1,
+    "planp": 1,
+    "xpo": 1,
+    "zp": 1
+  },
+  "pato#has_cross_section": {
+    "mondo": 2,
+    "oba": 2,
+    "planp": 1,
+    "xpo": 1,
+    "zp": 5
+  },
+  "pato#has_relative_magnitude": {
+    "phipo": 2,
+    "zp": 5
+  },
+  "pato#increased_in_magnitude_relative_to": {
+    "dpo": 1,
+    "ecto": 1,
+    "mondo": 1,
+    "nbo": 1,
+    "oba": 1,
+    "ontoneo": 10,
+    "pco": 1,
+    "phipo": 1,
+    "planp": 1,
+    "xpo": 1,
+    "zp": 1
+  },
+  "pato#reciprocal_of": {
+    "agro": 2,
+    "dpo": 6,
+    "ecto": 2,
+    "mondo": 2,
+    "nbo": 6,
+    "oba": 2,
+    "ontoneo": 3,
+    "pco": 2,
+    "phipo": 8,
+    "planp": 6,
+    "xpo": 6,
+    "zp": 8
+  },
+  "pato#towards": {
+    "xpo": 1,
+    "zp": 5
+  },
+  "pato:0001916": {
+    "clao": 1
+  },
+  "pato:0001918": {
+    "clao": 1
+  },
+  "peco#part_of": {
+    "peco": 1
+  },
+  "plana:0007536": {
+    "planp": 60
+  },
+  "po#derives_by_manipulation_from": {
+    "flopo": 2,
+    "po": 2,
+    "to": 2
+  },
+  "poro:0000946": {
+    "poro": 2
+  },
+  "ppo:0000010": {
+    "ppo": 3
+  },
+  "pr#confers_resistance_to": {
+    "pr": 25
+  },
+  "pr#has_gene_template": {
+    "aism": 1,
+    "dron": 1,
+    "hp": 37,
+    "maxo": 15,
+    "pr": 100480,
+    "uberon": 19
+  },
+  "pr#lacks_part": {
+    "cl": 101,
+    "clo": 1,
+    "maxo": 9,
+    "oba": 27,
+    "pr": 6494
+  },
+  "pr#non-covalently_bound_to": {
+    "pr": 41
+  },
+  "provides_greater_confidence_than": {
+    "cio": 2
+  },
+  "pw#part_of": {
+    "pw": 136
+  },
+  "rdfs:subClassOf": {
+    "agro": 4875,
+    "aism": 8668,
+    "amphx": 347,
+    "apo": 306,
+    "aro": 6591,
+    "bco": 289,
+    "bfo": 35,
+    "biomodels.kisao": 519,
+    "bspo": 234,
+    "bto": 4599,
+    "caro": 856,
+    "cdao": 188,
+    "cdno": 1437,
+    "ceph": 1759,
+    "chebi": 231283,
+    "cheminf": 887,
+    "chiro": 16273,
+    "chmo": 3068,
+    "cio": 42,
+    "cl": 26577,
+    "clao": 1524,
+    "clo": 45700,
+    "clyh": 189,
+    "cmo": 3709,
+    "colao": 654,
+    "cro": 185,
+    "cteno": 1414,
+    "cto": 306,
+    "cvdo": 273,
+    "ddanat": 129,
+    "ddpheno": 1161,
+    "dideo": 693,
+    "disdriv": 12,
+    "doid": 20581,
+    "dpo": 8847,
+    "dron": 650379,
+    "duo": 577,
+    "ecao": 693,
+    "eco": 4888,
+    "ecocore": 8638,
+    "ecto": 26443,
+    "ehdaa2": 3083,
+    "emapa": 5313,
+    "envo": 7461,
+    "epio": 1966,
+    "eupath": 4323,
+    "exo": 137,
+    "fao": 127,
+    "fbbi": 649,
+    "fbbt": 27650,
+    "fbcv": 3174,
+    "fbdv": 249,
+    "fideo": 447,
+    "fix": 1602,
+    "flopo": 15248,
+    "fma": 78974,
+    "fobi": 1332,
+    "foodon": 34637,
+    "fypo": 30776,
+    "gecko": 148,
+    "geno": 408,
+    "geogeo": 102,
+    "gno": 125121,
+    "go": 70298,
+    "hancestro": 614,
+    "hao": 5233,
+    "hom": 75,
+    "hp": 43046,
+    "hsapdv": 253,
+    "hso": 677,
+    "htn": 619,
+    "iao": 277,
+    "iceo": 30899,
+    "ido": 540,
+    "idomal": 2662,
+    "ino": 338,
+    "labo": 149,
+    "lepao": 745,
+    "ma": 2128,
+    "mamo": 104,
+    "maxo": 23641,
+    "mco": 4334,
+    "mf": 509,
+    "mfmo": 349,
+    "mfoem": 730,
+    "mfomd": 1070,
+    "mi": 1504,
+    "miapa": 267,
+    "micro": 20497,
+    "miro": 4361,
+    "mmo": 789,
+    "mmusdv": 108,
+    "mod": 3569,
+    "mondo": 62141,
+    "mop": 3659,
+    "mp": 17185,
+    "mpath": 946,
+    "mpio": 59,
+    "mro": 55908,
+    "nbo": 3659,
+    "ncbitaxon": 2401824,
+    "ncit": 196786,
+    "ncro": 3346,
+    "nomen": 260,
+    "oae": 6410,
+    "oarcs": 629,
+    "oba": 44210,
+    "obi": 5519,
+    "obib": 2092,
+    "ogg": 69687,
+    "ogms": 203,
+    "ogsf": 456,
+    "ohd": 4512,
+    "ohmi": 1074,
+    "ohpi": 14896,
+    "olatdv": 46,
+    "omit": 101086,
+    "omo": 45,
+    "omp": 2737,
+    "omrse": 643,
+    "one": 4642,
+    "ons": 9855,
+    "ontoavida": 674,
+    "ontoneo": 1789,
+    "oostt": 721,
+    "opl": 596,
+    "opmi": 3522,
+    "ornaseq": 164,
+    "ovae": 2265,
+    "pato": 13094,
+    "pcl": 125155,
+    "pco": 253,
+    "pdro": 295,
+    "pdumdv": 20,
+    "peco": 6529,
+    "phipo": 4499,
+    "plana": 1119,
+    "planp": 5430,
+    "po": 1808,
+    "poro": 1356,
+    "ppo": 749,
+    "pr": 427963,
+    "psdo": 1293,
+    "pso": 3809,
+    "pw": 3117,
+    "rex": 646,
+    "ro": 76,
+    "rs": 6943,
+    "rxno": 1105,
+    "sbo": 741,
+    "sepio": 136,
+    "sibo": 440,
+    "so": 2489,
+    "spd": 607,
+    "stato": 966,
+    "symp": 861,
+    "tads": 285,
+    "taxrank": 61,
+    "tgma": 781,
+    "to": 10823,
+    "trans": 31,
+    "tto": 38639,
+    "uberon": 30208,
+    "vario": 506,
+    "vo": 7087,
+    "vt": 4329,
+    "vto": 107058,
+    "wbbt": 13750,
+    "wbls": 2067,
+    "wbphenotype": 18417,
+    "xao": 1741,
+    "xco": 769,
+    "xlmod": 1155,
+    "xpo": 38375,
+    "zeco": 171,
+    "zfa": 3230,
+    "zfs": 53,
+    "zp": 83632
+  },
+  "rdfs:subPropertyOf": {
+    "agro": 183,
+    "aism": 284,
+    "bco": 99,
+    "biomodels.kisao": 2,
+    "bspo": 140,
+    "caro": 135,
+    "cdao": 53,
+    "cdno": 127,
+    "ceph": 17,
+    "cheminf": 62,
+    "chiro": 1,
+    "chmo": 9,
+    "cio": 3,
+    "cl": 311,
+    "clao": 8,
+    "clo": 223,
+    "colao": 6,
+    "cteno": 151,
+    "cvdo": 59,
+    "dideo": 98,
+    "doid": 38,
+    "dpo": 288,
+    "dron": 119,
+    "duo": 26,
+    "ecao": 129,
+    "eco": 23,
+    "ecocore": 309,
+    "ecto": 313,
+    "envo": 123,
+    "eupath": 37,
+    "fbbi": 116,
+    "fbbt": 177,
+    "fbcv": 133,
+    "fbdv": 138,
+    "flopo": 396,
+    "fma": 3,
+    "foodon": 10,
+    "fypo": 289,
+    "geno": 88,
+    "geogeo": 25,
+    "go": 3,
+    "hp": 302,
+    "hsapdv": 1,
+    "hso": 65,
+    "htn": 264,
+    "iao": 26,
+    "iceo": 30,
+    "ido": 15,
+    "ino": 62,
+    "labo": 16,
+    "lepao": 35,
+    "maxo": 303,
+    "mco": 4,
+    "mf": 2,
+    "mfmo": 673,
+    "mfoem": 2,
+    "mfomd": 2,
+    "miapa": 91,
+    "micro": 188,
+    "mmusdv": 1,
+    "mondo": 283,
+    "mop": 3,
+    "mpio": 13,
+    "mro": 17,
+    "nbo": 171,
+    "ncit": 11,
+    "ncro": 2,
+    "nomen": 103,
+    "oae": 77,
+    "oba": 338,
+    "obi": 60,
+    "obib": 49,
+    "ogg": 61,
+    "ogsf": 78,
+    "ohd": 45,
+    "ohmi": 120,
+    "ohpi": 297,
+    "olatdv": 1,
+    "omit": 6,
+    "omp": 8,
+    "omrse": 166,
+    "one": 92,
+    "ons": 83,
+    "ontoavida": 21,
+    "ontoneo": 410,
+    "oostt": 49,
+    "opl": 13,
+    "opmi": 120,
+    "ornaseq": 5,
+    "ovae": 81,
+    "pato": 275,
+    "pcl": 303,
+    "pco": 103,
+    "pdro": 21,
+    "pdumdv": 1,
+    "peco": 137,
+    "phipo": 121,
+    "plana": 143,
+    "planp": 206,
+    "po": 121,
+    "poro": 71,
+    "ppo": 19,
+    "psdo": 70,
+    "pso": 128,
+    "ro": 667,
+    "rxno": 8,
+    "sepio": 50,
+    "so": 9,
+    "stato": 34,
+    "to": 246,
+    "uberon": 262,
+    "vo": 215,
+    "wbbt": 130,
+    "wbls": 127,
+    "wbphenotype": 284,
+    "xpo": 112,
+    "zfa": 2,
+    "zfs": 1,
+    "zp": 282
+  },
+  "rex#is_reverse_of": {
+    "rex": 22
+  },
+  "rex#part_of": {
+    "rex": 62
+  },
+  "ro:0000052": {
+    "agro": 58,
+    "bco": 1,
+    "dideo": 4,
+    "dron": 1,
+    "eco": 8,
+    "ecocore": 2,
+    "ecto": 15,
+    "envo": 31,
+    "eupath": 8,
+    "fbbt": 1,
+    "flopo": 2,
+    "fypo": 1,
+    "geno": 1,
+    "htn": 1,
+    "ido": 28,
+    "labo": 1,
+    "maxo": 2,
+    "mondo": 13,
+    "oba": 4802,
+    "obi": 20,
+    "obib": 6,
+    "ohmi": 2,
+    "ohpi": 7,
+    "omp": 29,
+    "omrse": 5,
+    "one": 20,
+    "ons": 17,
+    "ontoneo": 8,
+    "oostt": 6,
+    "opmi": 13,
+    "pato": 2,
+    "pco": 3,
+    "pdro": 6,
+    "peco": 6,
+    "psdo": 3,
+    "stato": 2,
+    "to": 24,
+    "vo": 7
+  },
+  "ro:0000053": {
+    "agro": 1,
+    "aism": 82,
+    "bto": 4,
+    "caro": 12,
+    "cl": 82,
+    "clao": 11,
+    "clo": 30,
+    "colao": 67,
+    "cteno": 2,
+    "dpo": 29,
+    "ecocore": 22,
+    "ecto": 23,
+    "envo": 1,
+    "eupath": 1,
+    "fbbt": 639,
+    "flopo": 48,
+    "fypo": 23,
+    "hp": 26,
+    "lepao": 58,
+    "maxo": 24,
+    "mondo": 30,
+    "oba": 33,
+    "obi": 2,
+    "omrse": 23,
+    "one": 1,
+    "ons": 2,
+    "pato": 48,
+    "pcl": 41,
+    "poro": 1,
+    "wbphenotype": 29,
+    "zp": 26
+  },
+  "ro:0000056": {
+    "agro": 101,
+    "aism": 3,
+    "cl": 21,
+    "clo": 10,
+    "dpo": 4,
+    "ecocore": 6,
+    "ecto": 18,
+    "envo": 29,
+    "eupath": 1,
+    "flopo": 36,
+    "foodon": 7,
+    "fypo": 3,
+    "hp": 4,
+    "iceo": 630,
+    "maxo": 5,
+    "mondo": 15,
+    "ncro": 3,
+    "oba": 14,
+    "obi": 1,
+    "ohmi": 1,
+    "omit": 3,
+    "omrse": 1,
+    "one": 1,
+    "ons": 8,
+    "opmi": 1,
+    "pato": 6,
+    "pcl": 7,
+    "pco": 2,
+    "po": 30,
+    "poro": 1,
+    "pso": 6,
+    "to": 30,
+    "uberon": 9,
+    "wbphenotype": 6,
+    "zp": 4
+  },
+  "ro:0000057": {
+    "agro": 69,
+    "aism": 3,
+    "cheminf": 11,
+    "cl": 18,
+    "clo": 4,
+    "dideo": 4,
+    "dpo": 3,
+    "duo": 3,
+    "eco": 8,
+    "ecocore": 9,
+    "ecto": 6,
+    "envo": 127,
+    "eupath": 6,
+    "flopo": 23,
+    "foodon": 3,
+    "fypo": 4,
+    "hp": 7,
+    "htn": 3,
+    "iao": 3,
+    "ino": 5,
+    "maxo": 9,
+    "mondo": 18,
+    "ncro": 1,
+    "oba": 11,
+    "obi": 18,
+    "obib": 4,
+    "ohmi": 3,
+    "ohpi": 2,
+    "omit": 1,
+    "omrse": 9,
+    "one": 21,
+    "ons": 7,
+    "ontoneo": 1,
+    "oostt": 4,
+    "opmi": 18,
+    "ovae": 86,
+    "pato": 8,
+    "pcl": 10,
+    "pco": 3,
+    "peco": 7,
+    "po": 15,
+    "psdo": 5,
+    "pso": 112,
+    "sepio": 1,
+    "stato": 2,
+    "to": 19,
+    "vo": 6,
+    "wbphenotype": 8,
+    "zp": 8
+  },
+  "ro:0000058": {
+    "psdo": 1
+  },
+  "ro:0000059": {
+    "ecto": 1,
+    "maxo": 1,
+    "mondo": 1,
+    "oba": 1,
+    "ohpi": 1,
+    "omrse": 1,
+    "ons": 1,
+    "opmi": 1
+  },
+  "ro:0000079": {
+    "bco": 1,
+    "eco": 1,
+    "eupath": 1,
+    "maxo": 1,
+    "obi": 2,
+    "obib": 1,
+    "ohmi": 1,
+    "one": 2,
+    "ons": 2,
+    "opmi": 1,
+    "psdo": 1,
+    "stato": 1
+  },
+  "ro:0000080": {
+    "agro": 1,
+    "psdo": 6
+  },
+  "ro:0000081": {
+    "agro": 3,
+    "eco": 1,
+    "eupath": 1,
+    "obi": 1,
+    "obib": 1,
+    "ohmi": 1,
+    "one": 1,
+    "ons": 1,
+    "opmi": 1,
+    "psdo": 1,
+    "stato": 1
+  },
+  "ro:0000085": {
+    "bco": 3,
+    "clo": 2,
+    "dideo": 1,
+    "eco": 43,
+    "ecto": 5,
+    "envo": 6,
+    "eupath": 19,
+    "maxo": 4,
+    "obi": 228,
+    "obib": 18,
+    "ohmi": 4,
+    "omit": 1,
+    "one": 228,
+    "ons": 27,
+    "opmi": 5,
+    "psdo": 12,
+    "stato": 12,
+    "vo": 4
+  },
+  "ro:0000086": {
+    "agro": 58,
+    "aism": 26,
+    "cl": 46,
+    "clo": 19,
+    "dpo": 23,
+    "ecocore": 32,
+    "ecto": 99,
+    "envo": 203,
+    "flopo": 34,
+    "foodon": 16,
+    "fypo": 24,
+    "hp": 86,
+    "maxo": 44,
+    "micro": 29,
+    "mondo": 88,
+    "oae": 3,
+    "oba": 55,
+    "ohmi": 6,
+    "opmi": 2,
+    "ovae": 26,
+    "pato": 34,
+    "pcl": 32,
+    "peco": 12,
+    "pr": 1,
+    "to": 6,
+    "uberon": 112,
+    "vo": 919,
+    "wbphenotype": 29,
+    "zp": 31
+  },
+  "ro:0000087": {
+    "agro": 225,
+    "aism": 56,
+    "bco": 1,
+    "caro": 91,
+    "chebi": 42182,
+    "cl": 193,
+    "clo": 63,
+    "dpo": 56,
+    "dron": 6481,
+    "eco": 1,
+    "ecocore": 94,
+    "ecto": 4051,
+    "envo": 11,
+    "eupath": 78,
+    "fbcv": 366,
+    "fideo": 35,
+    "flopo": 80,
+    "fypo": 1836,
+    "hp": 712,
+    "iceo": 7413,
+    "ido": 3,
+    "ino": 1,
+    "maxo": 471,
+    "mco": 1128,
+    "micro": 1171,
+    "mondo": 442,
+    "nbo": 89,
+    "oba": 1021,
+    "obi": 21,
+    "obib": 7,
+    "ohmi": 1,
+    "ohpi": 4531,
+    "one": 21,
+    "ons": 9,
+    "ontoneo": 1,
+    "opl": 16,
+    "opmi": 1,
+    "ornaseq": 1,
+    "ovae": 1,
+    "pato": 80,
+    "pcl": 86,
+    "peco": 623,
+    "phipo": 786,
+    "poro": 15,
+    "pso": 2,
+    "to": 304,
+    "uberon": 1,
+    "vo": 1881,
+    "wbphenotype": 515,
+    "zp": 952
+  },
+  "ro:0000091": {
+    "envo": 1,
+    "geno": 1,
+    "ido": 4,
+    "ohpi": 4,
+    "phipo": 1
+  },
+  "ro:0001000": {
+    "agro": 10,
+    "bco": 1,
+    "cdno": 50,
+    "cl": 6,
+    "clo": 348,
+    "doid": 385,
+    "eco": 3,
+    "ecto": 254,
+    "envo": 47,
+    "eupath": 3,
+    "foodon": 2803,
+    "geno": 2,
+    "maxo": 85,
+    "mondo": 22,
+    "ncro": 1,
+    "oba": 9,
+    "obi": 11,
+    "obib": 8,
+    "ohmi": 1,
+    "ohpi": 15,
+    "omit": 1,
+    "one": 11,
+    "ons": 15,
+    "opmi": 1,
+    "peco": 1,
+    "plana": 11,
+    "pr": 57,
+    "psdo": 1,
+    "stato": 1
+  },
+  "ro:0001001": {
+    "envo": 2
+  },
+  "ro:0001015": {
+    "agro": 3,
+    "aism": 3,
+    "cl": 9,
+    "clo": 2,
+    "colao": 3,
+    "dpo": 3,
+    "ecocore": 3,
+    "ecto": 5,
+    "envo": 6,
+    "flopo": 4,
+    "fypo": 3,
+    "hp": 8,
+    "maxo": 8,
+    "mondo": 9,
+    "nbo": 4,
+    "oae": 3,
+    "oba": 9,
+    "ohpi": 6,
+    "opmi": 2,
+    "ovae": 1,
+    "pato": 4,
+    "pcl": 5,
+    "uberon": 10,
+    "wbphenotype": 5,
+    "zp": 3
+  },
+  "ro:0001018": {
+    "aism": 3,
+    "bto": 10,
+    "colao": 3,
+    "envo": 3,
+    "lepao": 3,
+    "plana": 725,
+    "planp": 656
+  },
+  "ro:0001019": {
+    "aism": 2,
+    "cl": 5,
+    "colao": 1,
+    "dpo": 1,
+    "ecocore": 1,
+    "ecto": 1,
+    "envo": 3,
+    "flopo": 1,
+    "fypo": 1,
+    "hp": 5,
+    "lepao": 1,
+    "maxo": 5,
+    "mondo": 6,
+    "nbo": 1,
+    "oba": 6,
+    "pato": 1,
+    "pcl": 4,
+    "uberon": 10,
+    "wbphenotype": 2,
+    "zp": 1
+  },
+  "ro:0001022": {
+    "doid": 123
+  },
+  "ro:0001025": {
+    "agro": 18,
+    "aism": 29,
+    "ceph": 1,
+    "cl": 79,
+    "clo": 13,
+    "cteno": 2,
+    "dpo": 28,
+    "ecocore": 29,
+    "ecto": 52,
+    "ehdaa2": 166,
+    "envo": 51,
+    "flopo": 39,
+    "foodon": 67,
+    "fypo": 28,
+    "hp": 93,
+    "hso": 3,
+    "maxo": 62,
+    "micro": 8,
+    "mondo": 84,
+    "nbo": 19,
+    "oae": 34,
+    "oba": 77,
+    "obib": 1,
+    "ohmi": 2,
+    "ohpi": 25,
+    "ontoneo": 2,
+    "opl": 86,
+    "opmi": 12,
+    "ovae": 14,
+    "pato": 35,
+    "pcl": 36,
+    "po": 4,
+    "pr": 2,
+    "to": 4,
+    "uberon": 177,
+    "vo": 11,
+    "wbphenotype": 37,
+    "zp": 29
+  },
+  "ro:0001900": {
+    "ons": 15
+  },
+  "ro:0002002": {
+    "aism": 1,
+    "cl": 1,
+    "clo": 1,
+    "dpo": 1,
+    "ecocore": 1,
+    "ecto": 1,
+    "flopo": 1,
+    "fypo": 1,
+    "hp": 1,
+    "maxo": 1,
+    "mondo": 1,
+    "nbo": 1,
+    "oae": 1,
+    "oba": 1,
+    "ohpi": 1,
+    "opmi": 1,
+    "ovae": 1,
+    "pato": 1,
+    "pcl": 1,
+    "uberon": 1,
+    "wbphenotype": 1,
+    "zp": 1
+  },
+  "ro:0002003": {
+    "fbbt": 30
+  },
+  "ro:0002005": {
+    "aism": 3,
+    "cl": 13,
+    "dpo": 3,
+    "ecocore": 3,
+    "ecto": 3,
+    "fbbt": 17,
+    "flopo": 6,
+    "fypo": 3,
+    "hp": 75,
+    "maxo": 10,
+    "mondo": 17,
+    "oae": 3,
+    "oba": 17,
+    "ohpi": 3,
+    "pato": 6,
+    "pcl": 6,
+    "uberon": 193,
+    "wbphenotype": 3,
+    "zp": 6
+  },
+  "ro:0002007": {
+    "agro": 1,
+    "aism": 31,
+    "cl": 63,
+    "clo": 16,
+    "dpo": 29,
+    "ecocore": 31,
+    "ecto": 38,
+    "envo": 1,
+    "flopo": 43,
+    "fypo": 31,
+    "hp": 60,
+    "hso": 2,
+    "maxo": 54,
+    "mondo": 42,
+    "nbo": 18,
+    "oae": 12,
+    "oba": 60,
+    "ohpi": 24,
+    "opmi": 5,
+    "ovae": 7,
+    "pato": 43,
+    "pcl": 41,
+    "peco": 1,
+    "uberon": 58,
+    "wbphenotype": 43,
+    "zp": 38
+  },
+  "ro:0002008": {
+    "aism": 17,
+    "colao": 16,
+    "lepao": 16
+  },
+  "ro:0002018": {
+    "ons": 14
+  },
+  "ro:0002082": {
+    "aism": 6,
+    "cl": 7,
+    "clo": 6,
+    "dpo": 6,
+    "ecocore": 7,
+    "ecto": 6,
+    "flopo": 6,
+    "fypo": 6,
+    "hp": 6,
+    "maxo": 6,
+    "mondo": 6,
+    "oba": 6,
+    "pato": 6,
+    "pcl": 6,
+    "uberon": 11,
+    "wbphenotype": 6,
+    "zp": 6
+  },
+  "ro:0002083": {
+    "omrse": 1
+  },
+  "ro:0002084": {
+    "envo": 1
+  },
+  "ro:0002087": {
+    "aism": 1,
+    "amphx": 51,
+    "cl": 2,
+    "clo": 1,
+    "clyh": 56,
+    "cteno": 3,
+    "dpo": 173,
+    "ecao": 54,
+    "ecocore": 2,
+    "ecto": 1,
+    "fbdv": 239,
+    "flopo": 1,
+    "fypo": 1,
+    "hp": 6,
+    "hsapdv": 221,
+    "maxo": 1,
+    "mmusdv": 89,
+    "mondo": 55,
+    "nbo": 1,
+    "oae": 3,
+    "oba": 1,
+    "obi": 2,
+    "ohpi": 1,
+    "olatdv": 42,
+    "omrse": 1,
+    "one": 2,
+    "ontoneo": 5,
+    "opmi": 2,
+    "ovae": 1,
+    "pato": 1,
+    "pcl": 1,
+    "uberon": 7,
+    "wbls": 638,
+    "wbphenotype": 29,
+    "zfs": 50,
+    "zp": 1
+  },
+  "ro:0002088": {
+    "envo": 1
+  },
+  "ro:0002090": {
+    "dpo": 20
+  },
+  "ro:0002091": {
+    "envo": 1
+  },
+  "ro:0002092": {
+    "fbdv": 1,
+    "fypo": 11,
+    "go": 13,
+    "oae": 2,
+    "phipo": 1,
+    "plana": 2,
+    "planp": 3,
+    "wbphenotype": 3,
+    "zp": 5
+  },
+  "ro:0002093": {
+    "fypo": 1,
+    "go": 1,
+    "phipo": 1,
+    "wbphenotype": 1,
+    "zp": 1
+  },
+  "ro:0002100": {
+    "aism": 10,
+    "cl": 64,
+    "clo": 3,
+    "dpo": 10,
+    "ecocore": 10,
+    "ecto": 10,
+    "fbbt": 2110,
+    "flopo": 12,
+    "fypo": 10,
+    "hp": 12,
+    "maxo": 12,
+    "mondo": 11,
+    "oba": 16,
+    "pato": 12,
+    "pcl": 109,
+    "wbphenotype": 12,
+    "zp": 11
+  },
+  "ro:0002101": {
+    "cl": 1,
+    "fbbt": 1128
+  },
+  "ro:0002102": {
+    "cl": 13
+  },
+  "ro:0002103": {
+    "cl": 5,
+    "pcl": 1
+  },
+  "ro:0002104": {
+    "aism": 9,
+    "cl": 510,
+    "clo": 88,
+    "cteno": 5,
+    "dpo": 9,
+    "ecocore": 9,
+    "ecto": 9,
+    "flopo": 59,
+    "fypo": 9,
+    "hp": 55,
+    "maxo": 55,
+    "mondo": 26,
+    "oba": 69,
+    "pato": 59,
+    "pcl": 74,
+    "wbphenotype": 9,
+    "zp": 57
+  },
+  "ro:0002105": {
+    "fbbt": 275
+  },
+  "ro:0002106": {
+    "fbbt": 13
+  },
+  "ro:0002107": {
+    "fbbt": 166
+  },
+  "ro:0002114": {
+    "fbbt": 13
+  },
+  "ro:0002120": {
+    "cl": 13,
+    "mondo": 2,
+    "oba": 2,
+    "pcl": 2
+  },
+  "ro:0002130": {
+    "cl": 3
+  },
+  "ro:0002131": {
+    "agro": 26,
+    "aism": 41,
+    "bspo": 19,
+    "cl": 129,
+    "clo": 19,
+    "cteno": 20,
+    "dpo": 33,
+    "ecocore": 32,
+    "ecto": 48,
+    "envo": 72,
+    "fbbt": 1854,
+    "flopo": 43,
+    "fypo": 31,
+    "hp": 43,
+    "lepao": 5,
+    "maxo": 43,
+    "micro": 77,
+    "mondo": 127,
+    "oba": 113,
+    "opmi": 1,
+    "pato": 43,
+    "pcl": 55,
+    "plana": 74,
+    "planp": 7,
+    "wbphenotype": 39,
+    "zfa": 64,
+    "zp": 85
+  },
+  "ro:0002132": {
+    "fbbt": 92
+  },
+  "ro:0002134": {
+    "aism": 5,
+    "cl": 33,
+    "clao": 16,
+    "cteno": 1,
+    "dpo": 5,
+    "ecocore": 5,
+    "ecto": 5,
+    "fbbt": 275,
+    "flopo": 11,
+    "fypo": 5,
+    "hp": 82,
+    "maxo": 23,
+    "mondo": 58,
+    "oae": 4,
+    "oba": 52,
+    "ohpi": 9,
+    "pato": 11,
+    "pcl": 11,
+    "uberon": 119,
+    "wbphenotype": 7,
+    "zp": 11
+  },
+  "ro:0002150": {
+    "agro": 3,
+    "aism": 243,
+    "cl": 63,
+    "clao": 25,
+    "clo": 20,
+    "colao": 226,
+    "cteno": 1,
+    "dpo": 13,
+    "ecocore": 13,
+    "ecto": 38,
+    "envo": 6,
+    "fbbt": 523,
+    "flopo": 21,
+    "fypo": 13,
+    "hp": 65,
+    "lepao": 228,
+    "maxo": 58,
+    "mondo": 73,
+    "nbo": 13,
+    "oae": 27,
+    "oba": 69,
+    "ohpi": 24,
+    "ovae": 2,
+    "pato": 21,
+    "pcl": 21,
+    "poro": 4,
+    "uberon": 117,
+    "wbphenotype": 22,
+    "zfa": 1,
+    "zp": 21
+  },
+  "ro:0002151": {
+    "agro": 1,
+    "envo": 3
+  },
+  "ro:0002158": {
+    "oae": 2
+  },
+  "ro:0002159": {
+    "hp": 1,
+    "uberon": 3
+  },
+  "ro:0002160": {
+    "agro": 1,
+    "aism": 162,
+    "ceph": 3,
+    "cl": 382,
+    "clo": 131,
+    "dpo": 147,
+    "ecocore": 158,
+    "ecto": 186,
+    "envo": 1,
+    "fao": 1,
+    "flopo": 218,
+    "foodon": 1,
+    "fypo": 153,
+    "hp": 414,
+    "maxo": 302,
+    "mondo": 243,
+    "oba": 296,
+    "opl": 20,
+    "pato": 216,
+    "pcl": 229,
+    "po": 2,
+    "pr": 288909,
+    "pso": 1,
+    "to": 2,
+    "uberon": 826,
+    "wbphenotype": 225,
+    "zp": 187
+  },
+  "ro:0002162": {
+    "aism": 23,
+    "cl": 49,
+    "clo": 2,
+    "dpo": 2,
+    "ecocore": 15,
+    "ecto": 59,
+    "flopo": 2,
+    "foodon": 98,
+    "fypo": 4,
+    "geno": 5,
+    "hp": 43,
+    "maxo": 49,
+    "mondo": 317,
+    "mro": 160,
+    "oba": 3,
+    "ons": 72,
+    "pato": 2,
+    "pcl": 83,
+    "uberon": 380,
+    "wbphenotype": 3,
+    "zp": 14
+  },
+  "ro:0002163": {
+    "mfmo": 1
+  },
+  "ro:0002170": {
+    "aism": 25,
+    "cl": 28,
+    "clao": 6,
+    "clo": 2,
+    "dpo": 2,
+    "ecocore": 25,
+    "ecto": 40,
+    "fbbt": 2,
+    "flopo": 7,
+    "fypo": 2,
+    "hp": 92,
+    "maxo": 75,
+    "mondo": 29,
+    "nbo": 3,
+    "oae": 7,
+    "oba": 29,
+    "ohpi": 4,
+    "ovae": 2,
+    "pato": 7,
+    "pcl": 7,
+    "uberon": 224,
+    "wbphenotype": 11,
+    "zp": 5
+  },
+  "ro:0002176": {
+    "aism": 22,
+    "cl": 139,
+    "clo": 17,
+    "cteno": 3,
+    "dpo": 19,
+    "ecocore": 27,
+    "ecto": 60,
+    "envo": 12,
+    "flopo": 35,
+    "fypo": 19,
+    "hp": 327,
+    "maxo": 138,
+    "mondo": 186,
+    "nbo": 27,
+    "oae": 28,
+    "oba": 176,
+    "ohpi": 34,
+    "opmi": 2,
+    "ovae": 6,
+    "pato": 35,
+    "pcl": 46,
+    "uberon": 552,
+    "wbphenotype": 42,
+    "zp": 31
+  },
+  "ro:0002177": {
+    "aism": 1,
+    "cl": 2,
+    "dpo": 1,
+    "ecocore": 1,
+    "ecto": 1,
+    "fbbt": 12,
+    "flopo": 2,
+    "fypo": 1,
+    "hp": 4,
+    "maxo": 2,
+    "mondo": 2,
+    "oba": 2,
+    "ohpi": 1,
+    "pato": 2,
+    "pcl": 2,
+    "uberon": 4,
+    "wbphenotype": 1,
+    "zp": 2
+  },
+  "ro:0002178": {
+    "aism": 14,
+    "cl": 73,
+    "clo": 1,
+    "dpo": 13,
+    "ecocore": 14,
+    "ecto": 31,
+    "flopo": 23,
+    "fypo": 13,
+    "hp": 92,
+    "maxo": 61,
+    "mondo": 80,
+    "oae": 4,
+    "oba": 77,
+    "ohpi": 18,
+    "pato": 23,
+    "pcl": 26,
+    "uberon": 158,
+    "wbphenotype": 29,
+    "zp": 22
+  },
+  "ro:0002179": {
+    "aism": 16,
+    "cl": 57,
+    "dpo": 13,
+    "ecocore": 16,
+    "ecto": 34,
+    "flopo": 24,
+    "fypo": 13,
+    "hp": 67,
+    "maxo": 56,
+    "mondo": 62,
+    "nbo": 19,
+    "oae": 2,
+    "oba": 60,
+    "ohpi": 25,
+    "pato": 24,
+    "pcl": 26,
+    "uberon": 93,
+    "wbphenotype": 32,
+    "zp": 19
+  },
+  "ro:0002180": {
+    "caro": 5,
+    "cl": 5,
+    "clo": 2,
+    "dpo": 1,
+    "hp": 2,
+    "mondo": 2,
+    "oba": 2,
+    "planp": 63,
+    "pr": 438,
+    "uberon": 10,
+    "vo": 1
+  },
+  "ro:0002200": {
+    "doid": 142,
+    "htn": 2
+  },
+  "ro:0002202": {
+    "agro": 26,
+    "aism": 281,
+    "amphx": 323,
+    "bto": 1165,
+    "ceph": 71,
+    "cl": 1008,
+    "clao": 1,
+    "clo": 301,
+    "clyh": 127,
+    "cteno": 50,
+    "dpo": 257,
+    "ecao": 138,
+    "ecocore": 289,
+    "ecto": 441,
+    "ehdaa2": 2125,
+    "envo": 123,
+    "fao": 4,
+    "fbbt": 1482,
+    "flopo": 475,
+    "foodon": 36,
+    "fypo": 222,
+    "hp": 1299,
+    "hso": 3,
+    "maxo": 906,
+    "micro": 3,
+    "mondo": 872,
+    "nbo": 207,
+    "oae": 291,
+    "oba": 1089,
+    "ohpi": 271,
+    "opmi": 58,
+    "ovae": 103,
+    "pato": 342,
+    "pcl": 380,
+    "plana": 45,
+    "planp": 42,
+    "po": 133,
+    "poro": 10,
+    "ppo": 20,
+    "pso": 31,
+    "to": 133,
+    "uberon": 1995,
+    "wbbt": 34,
+    "wbphenotype": 347,
+    "xao": 675,
+    "xpo": 657,
+    "zfa": 527,
+    "zp": 864
+  },
+  "ro:0002203": {
+    "aism": 5,
+    "cl": 9,
+    "clo": 5,
+    "cteno": 1,
+    "dpo": 5,
+    "ecocore": 5,
+    "ecto": 5,
+    "fbbt": 12,
+    "flopo": 5,
+    "fypo": 5,
+    "hp": 5,
+    "maxo": 5,
+    "mondo": 5,
+    "oba": 5,
+    "pato": 5,
+    "pcl": 5,
+    "plana": 18,
+    "wbphenotype": 5,
+    "zp": 5
+  },
+  "ro:0002207": {
+    "aism": 1,
+    "cl": 1,
+    "cteno": 28,
+    "dpo": 1,
+    "ecocore": 1,
+    "ecto": 1,
+    "fbbt": 29,
+    "flopo": 1,
+    "fypo": 1,
+    "hp": 1,
+    "maxo": 1,
+    "mondo": 1,
+    "oba": 1,
+    "ohpi": 1,
+    "pato": 1,
+    "pcl": 1,
+    "uberon": 1,
+    "wbphenotype": 1,
+    "zp": 1
+  },
+  "ro:0002211": {
+    "agro": 12,
+    "aism": 429,
+    "caro": 25,
+    "chiro": 215,
+    "cl": 1121,
+    "clo": 40,
+    "dpo": 455,
+    "eco": 109,
+    "ecocore": 433,
+    "ecto": 475,
+    "envo": 2,
+    "fbbt": 88,
+    "flopo": 627,
+    "fypo": 1004,
+    "go": 3534,
+    "hp": 721,
+    "ino": 2,
+    "maxo": 633,
+    "mondo": 588,
+    "nbo": 48,
+    "oba": 954,
+    "ohpi": 24,
+    "omp": 4,
+    "ontoneo": 1,
+    "opmi": 1,
+    "pato": 627,
+    "pcl": 654,
+    "planp": 286,
+    "to": 54,
+    "uberon": 238,
+    "wbphenotype": 774,
+    "xco": 35,
+    "xpo": 212,
+    "zp": 1443
+  },
+  "ro:0002212": {
+    "aism": 364,
+    "caro": 22,
+    "cl": 1010,
+    "clo": 4,
+    "dpo": 380,
+    "eco": 97,
+    "ecocore": 364,
+    "ecto": 389,
+    "envo": 1,
+    "fbbt": 71,
+    "flopo": 548,
+    "fypo": 854,
+    "go": 3073,
+    "hp": 624,
+    "ino": 1,
+    "maxo": 546,
+    "mondo": 523,
+    "oba": 840,
+    "ohpi": 22,
+    "omp": 4,
+    "pato": 548,
+    "pcl": 572,
+    "planp": 244,
+    "uberon": 196,
+    "wbphenotype": 673,
+    "xpo": 175,
+    "zp": 1285
+  },
+  "ro:0002213": {
+    "aism": 361,
+    "caro": 22,
+    "chiro": 183,
+    "cl": 1001,
+    "clo": 23,
+    "dpo": 377,
+    "eco": 96,
+    "ecocore": 361,
+    "ecto": 387,
+    "fbbt": 70,
+    "flopo": 543,
+    "fypo": 864,
+    "go": 3050,
+    "hp": 625,
+    "ino": 1,
+    "maxo": 546,
+    "mondo": 518,
+    "oba": 842,
+    "ohpi": 22,
+    "pato": 543,
+    "pcl": 565,
+    "planp": 244,
+    "to": 44,
+    "uberon": 196,
+    "wbphenotype": 670,
+    "xpo": 171,
+    "zp": 1274
+  },
+  "ro:0002215": {
+    "aism": 75,
+    "ceph": 2,
+    "cl": 414,
+    "clo": 140,
+    "cteno": 19,
+    "dpo": 86,
+    "ecocore": 91,
+    "ecto": 86,
+    "fbbt": 165,
+    "flopo": 123,
+    "fypo": 80,
+    "hp": 145,
+    "maxo": 135,
+    "micro": 7,
+    "mondo": 196,
+    "oba": 207,
+    "ontoneo": 4,
+    "opmi": 1,
+    "pato": 123,
+    "pcl": 144,
+    "poro": 7,
+    "pr": 25,
+    "sepio": 4,
+    "uberon": 132,
+    "wbphenotype": 109,
+    "zp": 126
+  },
+  "ro:0002216": {
+    "aism": 13,
+    "cl": 55,
+    "clo": 14,
+    "cteno": 1,
+    "dpo": 14,
+    "ecocore": 13,
+    "ecto": 19,
+    "fbbt": 200,
+    "flopo": 21,
+    "fypo": 16,
+    "hp": 56,
+    "maxo": 41,
+    "mondo": 42,
+    "oba": 49,
+    "pato": 21,
+    "pcl": 24,
+    "uberon": 136,
+    "wbphenotype": 21,
+    "zp": 20
+  },
+  "ro:0002217": {
+    "ogsf": 2,
+    "ontoneo": 1
+  },
+  "ro:0002218": {
+    "opmi": 2
+  },
+  "ro:0002219": {
+    "agro": 4,
+    "aism": 12,
+    "cl": 25,
+    "clo": 8,
+    "dpo": 12,
+    "ecocore": 13,
+    "ecto": 21,
+    "envo": 11,
+    "flopo": 15,
+    "foodon": 2,
+    "fypo": 12,
+    "hp": 26,
+    "maxo": 22,
+    "micro": 4,
+    "mondo": 32,
+    "nbo": 13,
+    "oae": 12,
+    "oba": 28,
+    "ohpi": 12,
+    "opmi": 5,
+    "ovae": 5,
+    "pato": 15,
+    "pcl": 16,
+    "peco": 2,
+    "poro": 1,
+    "to": 1,
+    "uberon": 35,
+    "wbphenotype": 17,
+    "zp": 13
+  },
+  "ro:0002220": {
+    "agro": 23,
+    "aism": 136,
+    "ceph": 5,
+    "cl": 177,
+    "clao": 17,
+    "clo": 26,
+    "colao": 82,
+    "cteno": 4,
+    "doid": 2,
+    "dpo": 58,
+    "ecocore": 58,
+    "ecto": 84,
+    "envo": 143,
+    "flopo": 77,
+    "fypo": 58,
+    "hao": 3,
+    "hp": 169,
+    "lepao": 77,
+    "maxo": 118,
+    "micro": 3,
+    "mondo": 175,
+    "nbo": 39,
+    "oae": 35,
+    "oba": 160,
+    "ohpi": 39,
+    "opmi": 4,
+    "ovae": 11,
+    "pato": 66,
+    "pcl": 79,
+    "peco": 3,
+    "plana": 5,
+    "planp": 5,
+    "po": 11,
+    "poro": 4,
+    "to": 12,
+    "uberon": 342,
+    "wbphenotype": 62,
+    "zp": 63
+  },
+  "ro:0002221": {
+    "aism": 15,
+    "cl": 40,
+    "clo": 4,
+    "dpo": 13,
+    "ecocore": 13,
+    "ecto": 16,
+    "ehdaa2": 1,
+    "flopo": 14,
+    "fypo": 13,
+    "hp": 42,
+    "lepao": 2,
+    "maxo": 28,
+    "micro": 4,
+    "mondo": 33,
+    "nbo": 13,
+    "oae": 6,
+    "oba": 32,
+    "ohpi": 14,
+    "ontoneo": 1,
+    "opmi": 3,
+    "ovae": 3,
+    "pato": 14,
+    "pcl": 18,
+    "poro": 2,
+    "uberon": 94,
+    "wbphenotype": 16,
+    "zp": 16
+  },
+  "ro:0002223": {
+    "aism": 1,
+    "cl": 1,
+    "clo": 1,
+    "dpo": 1,
+    "ecao": 1,
+    "ecocore": 1,
+    "ecto": 1,
+    "flopo": 1,
+    "fypo": 1,
+    "hp": 1,
+    "maxo": 1,
+    "mondo": 1,
+    "nbo": 1,
+    "oae": 1,
+    "oba": 1,
+    "ohpi": 1,
+    "omrse": 1,
+    "ontoneo": 1,
+    "opmi": 1,
+    "ornaseq": 2,
+    "ovae": 1,
+    "pato": 1,
+    "pcl": 1,
+    "uberon": 3,
+    "wbphenotype": 1,
+    "zp": 1
+  },
+  "ro:0002224": {
+    "aism": 7,
+    "cl": 17,
+    "clo": 7,
+    "dpo": 7,
+    "ecao": 1,
+    "ecocore": 7,
+    "ecto": 7,
+    "flopo": 14,
+    "fypo": 9,
+    "hp": 12,
+    "maxo": 12,
+    "mondo": 1,
+    "nbo": 1,
+    "oae": 1,
+    "oba": 14,
+    "ohpi": 1,
+    "ontoneo": 1,
+    "opmi": 1,
+    "ovae": 1,
+    "pato": 14,
+    "pcl": 15,
+    "uberon": 1,
+    "wbphenotype": 7,
+    "zp": 14
+  },
+  "ro:0002225": {
+    "cl": 1,
+    "fbbt": 3,
+    "hp": 4,
+    "maxo": 1,
+    "uberon": 5
+  },
+  "ro:0002226": {
+    "cl": 4,
+    "ecto": 3,
+    "ehdaa2": 33,
+    "hp": 4,
+    "maxo": 4,
+    "mondo": 4,
+    "oba": 4,
+    "uberon": 9
+  },
+  "ro:0002229": {
+    "agro": 1,
+    "aism": 1,
+    "cl": 1,
+    "clo": 1,
+    "dpo": 1,
+    "ecao": 1,
+    "ecocore": 1,
+    "ecto": 2,
+    "envo": 2,
+    "flopo": 1,
+    "fypo": 1,
+    "hp": 1,
+    "maxo": 1,
+    "mondo": 2,
+    "nbo": 1,
+    "oae": 1,
+    "oba": 1,
+    "ohpi": 1,
+    "omrse": 1,
+    "ontoneo": 1,
+    "opmi": 1,
+    "ovae": 1,
+    "pato": 1,
+    "pcl": 1,
+    "uberon": 2,
+    "wbphenotype": 1,
+    "zp": 1
+  },
+  "ro:0002230": {
+    "aism": 5,
+    "cl": 6,
+    "clo": 3,
+    "dpo": 5,
+    "ecao": 1,
+    "ecocore": 5,
+    "ecto": 5,
+    "flopo": 5,
+    "fypo": 6,
+    "hp": 5,
+    "maxo": 5,
+    "mondo": 1,
+    "nbo": 1,
+    "oae": 1,
+    "oba": 5,
+    "ohpi": 1,
+    "ontoneo": 1,
+    "opmi": 1,
+    "ovae": 1,
+    "pato": 5,
+    "pcl": 5,
+    "uberon": 1,
+    "wbphenotype": 6,
+    "zp": 4
+  },
+  "ro:0002231": {
+    "aism": 7,
+    "cl": 8,
+    "clo": 1,
+    "dpo": 7,
+    "ecocore": 7,
+    "ecto": 7,
+    "flopo": 7,
+    "fypo": 7,
+    "hp": 7,
+    "maxo": 7,
+    "oba": 7,
+    "pato": 7,
+    "pcl": 7,
+    "wbphenotype": 7,
+    "zp": 7
+  },
+  "ro:0002232": {
+    "aism": 5,
+    "cl": 6,
+    "clo": 1,
+    "dpo": 5,
+    "ecocore": 5,
+    "ecto": 6,
+    "envo": 1,
+    "flopo": 5,
+    "fypo": 5,
+    "hp": 5,
+    "maxo": 5,
+    "oba": 5,
+    "pato": 5,
+    "pcl": 5,
+    "wbphenotype": 5,
+    "zp": 5
+  },
+  "ro:0002233": {
+    "agro": 12,
+    "aism": 91,
+    "cl": 273,
+    "clo": 17,
+    "dpo": 91,
+    "ecocore": 95,
+    "ecto": 119,
+    "envo": 38,
+    "flopo": 136,
+    "foodon": 1,
+    "fypo": 119,
+    "hp": 130,
+    "ino": 1,
+    "maxo": 167,
+    "mondo": 11,
+    "oba": 132,
+    "ons": 17,
+    "opmi": 3,
+    "pato": 136,
+    "pcl": 141,
+    "peco": 1,
+    "sepio": 1,
+    "wbphenotype": 132,
+    "zp": 129
+  },
+  "ro:0002234": {
+    "agro": 24,
+    "aism": 3,
+    "cl": 6,
+    "dpo": 3,
+    "ecocore": 5,
+    "ecto": 29,
+    "envo": 61,
+    "flopo": 3,
+    "fypo": 4,
+    "hp": 3,
+    "maxo": 3,
+    "mondo": 16,
+    "oba": 7,
+    "ons": 15,
+    "opmi": 4,
+    "pato": 3,
+    "pcl": 3,
+    "peco": 2,
+    "sepio": 2,
+    "wbphenotype": 4,
+    "zp": 3
+  },
+  "ro:0002242": {
+    "ecto": 174
+  },
+  "ro:0002243": {
+    "ecto": 34
+  },
+  "ro:0002248": {
+    "ons": 60
+  },
+  "ro:0002254": {
+    "aism": 27,
+    "cl": 81,
+    "clo": 22,
+    "cteno": 8,
+    "dpo": 19,
+    "ecocore": 27,
+    "ecto": 38,
+    "flopo": 49,
+    "fypo": 19,
+    "hp": 104,
+    "maxo": 84,
+    "mondo": 87,
+    "nbo": 22,
+    "oae": 47,
+    "oba": 87,
+    "ohpi": 35,
+    "ontoneo": 1,
+    "opmi": 8,
+    "ovae": 17,
+    "pato": 49,
+    "pcl": 50,
+    "uberon": 122,
+    "wbphenotype": 32,
+    "zfa": 10,
+    "zp": 52
+  },
+  "ro:0002256": {
+    "aism": 13,
+    "cl": 19,
+    "clo": 11,
+    "dpo": 11,
+    "ecocore": 13,
+    "ecto": 18,
+    "flopo": 13,
+    "fypo": 11,
+    "hp": 22,
+    "maxo": 22,
+    "mondo": 19,
+    "nbo": 13,
+    "oae": 17,
+    "oba": 20,
+    "ohpi": 13,
+    "opmi": 2,
+    "ovae": 4,
+    "pato": 13,
+    "pcl": 13,
+    "uberon": 20,
+    "wbphenotype": 16,
+    "zp": 13
+  },
+  "ro:0002285": {
+    "aism": 2,
+    "cl": 5,
+    "clo": 2,
+    "dpo": 2,
+    "ecocore": 2,
+    "ecto": 3,
+    "flopo": 2,
+    "fypo": 2,
+    "hp": 7,
+    "maxo": 6,
+    "mondo": 6,
+    "nbo": 3,
+    "oae": 3,
+    "oba": 6,
+    "ohpi": 3,
+    "opmi": 1,
+    "ovae": 2,
+    "pato": 2,
+    "pcl": 2,
+    "uberon": 8,
+    "wbphenotype": 3,
+    "zp": 3
+  },
+  "ro:0002292": {
+    "cl": 34,
+    "fbbt": 483,
+    "pcl": 81,
+    "vo": 113
+  },
+  "ro:0002295": {
+    "aism": 1,
+    "cl": 1,
+    "clo": 1,
+    "dpo": 1,
+    "ecocore": 1,
+    "ecto": 1,
+    "flopo": 1,
+    "fypo": 1,
+    "hp": 1,
+    "maxo": 1,
+    "oba": 1,
+    "pato": 1,
+    "pcl": 1,
+    "wbphenotype": 1,
+    "zp": 1
+  },
+  "ro:0002296": {
+    "aism": 192,
+    "cl": 532,
+    "clo": 20,
+    "dpo": 192,
+    "ecocore": 191,
+    "ecto": 192,
+    "flopo": 240,
+    "fypo": 192,
+    "hp": 211,
+    "maxo": 211,
+    "oba": 212,
+    "pato": 240,
+    "pcl": 252,
+    "wbphenotype": 280,
+    "zp": 218
+  },
+  "ro:0002297": {
+    "agro": 3,
+    "aism": 64,
+    "cl": 141,
+    "clo": 9,
+    "dpo": 64,
+    "ecocore": 64,
+    "ecto": 68,
+    "envo": 5,
+    "flopo": 75,
+    "fypo": 65,
+    "hp": 70,
+    "maxo": 70,
+    "mondo": 3,
+    "oba": 70,
+    "ohpi": 1,
+    "pato": 75,
+    "pcl": 80,
+    "phipo": 1,
+    "poro": 1,
+    "wbphenotype": 86,
+    "zp": 71
+  },
+  "ro:0002298": {
+    "aism": 127,
+    "cl": 281,
+    "clo": 7,
+    "dpo": 127,
+    "ecocore": 127,
+    "ecto": 127,
+    "flopo": 152,
+    "fypo": 127,
+    "hp": 140,
+    "maxo": 140,
+    "oba": 142,
+    "pato": 152,
+    "pcl": 161,
+    "wbphenotype": 176,
+    "zp": 144
+  },
+  "ro:0002299": {
+    "aism": 4,
+    "cl": 60,
+    "dpo": 8,
+    "ecocore": 4,
+    "ecto": 4,
+    "flopo": 37,
+    "fypo": 4,
+    "hp": 4,
+    "maxo": 4,
+    "oba": 4,
+    "pato": 37,
+    "pcl": 40,
+    "wbphenotype": 35,
+    "zp": 4
+  },
+  "ro:0002303": {
+    "agro": 1,
+    "ecocore": 1,
+    "ecto": 1,
+    "envo": 1,
+    "mondo": 1,
+    "oba": 1,
+    "peco": 1
+  },
+  "ro:0002309": {
+    "ecto": 2678,
+    "mondo": 121,
+    "oba": 82
+  },
+  "ro:0002312": {
+    "aro": 28
+  },
+  "ro:0002313": {
+    "aism": 54,
+    "cl": 189,
+    "clo": 38,
+    "dpo": 54,
+    "ecocore": 54,
+    "ecto": 65,
+    "fypo": 118,
+    "hp": 67,
+    "maxo": 67,
+    "oba": 74,
+    "wbphenotype": 78,
+    "zp": 72
+  },
+  "ro:0002314": {
+    "ontoneo": 1
+  },
+  "ro:0002315": {
+    "aism": 77,
+    "cl": 300,
+    "clo": 21,
+    "dpo": 77,
+    "ecocore": 77,
+    "ecto": 77,
+    "flopo": 107,
+    "fypo": 77,
+    "hp": 97,
+    "maxo": 97,
+    "oba": 99,
+    "pato": 107,
+    "pcl": 118,
+    "wbphenotype": 97,
+    "zp": 101
+  },
+  "ro:0002321": {
+    "bco": 1,
+    "pco": 1
+  },
+  "ro:0002322": {
+    "hp": 1,
+    "maxo": 1,
+    "mondo": 2,
+    "oba": 1,
+    "uberon": 6,
+    "zp": 1
+  },
+  "ro:0002328": {
+    "aism": 3,
+    "cl": 4,
+    "clo": 3,
+    "dpo": 2,
+    "ecocore": 3,
+    "ecto": 3,
+    "flopo": 3,
+    "fypo": 2,
+    "hp": 4,
+    "maxo": 4,
+    "mondo": 4,
+    "oba": 4,
+    "pato": 3,
+    "pcl": 3,
+    "uberon": 4,
+    "wbphenotype": 3,
+    "zp": 3
+  },
+  "ro:0002331": {
+    "omit": 1,
+    "pr": 3
+  },
+  "ro:0002332": {
+    "cl": 28,
+    "ecto": 20,
+    "flopo": 20,
+    "fypo": 24,
+    "hp": 20,
+    "maxo": 20,
+    "oba": 20,
+    "pato": 20,
+    "wbphenotype": 22,
+    "zp": 20
+  },
+  "ro:0002334": {
+    "cl": 3,
+    "pcl": 3
+  },
+  "ro:0002338": {
+    "aism": 6,
+    "cl": 11,
+    "clo": 1,
+    "dpo": 6,
+    "ecocore": 6,
+    "ecto": 6,
+    "flopo": 10,
+    "fypo": 8,
+    "hp": 8,
+    "maxo": 8,
+    "oba": 9,
+    "pato": 10,
+    "pcl": 9,
+    "wbphenotype": 11,
+    "zp": 8
+  },
+  "ro:0002339": {
+    "aism": 38,
+    "cl": 55,
+    "clo": 4,
+    "dpo": 38,
+    "ecocore": 38,
+    "ecto": 38,
+    "flopo": 50,
+    "fypo": 42,
+    "hp": 46,
+    "maxo": 46,
+    "oba": 48,
+    "pato": 50,
+    "pcl": 49,
+    "wbphenotype": 48,
+    "zp": 47
+  },
+  "ro:0002341": {
+    "aism": 3,
+    "cl": 4,
+    "clo": 2,
+    "dpo": 3,
+    "ecocore": 3,
+    "ecto": 3,
+    "flopo": 3,
+    "fypo": 4,
+    "hp": 3,
+    "maxo": 3,
+    "oba": 3,
+    "pato": 3,
+    "pcl": 3,
+    "wbphenotype": 4,
+    "zp": 3
+  },
+  "ro:0002342": {
+    "cl": 8,
+    "clo": 2,
+    "flopo": 5,
+    "fypo": 6,
+    "pato": 5,
+    "pcl": 6,
+    "wbphenotype": 5
+  },
+  "ro:0002343": {
+    "aism": 12,
+    "cl": 22,
+    "dpo": 12,
+    "ecocore": 12,
+    "ecto": 12,
+    "flopo": 15,
+    "fypo": 12,
+    "hp": 12,
+    "maxo": 12,
+    "oba": 12,
+    "pato": 15,
+    "pcl": 15,
+    "wbphenotype": 16,
+    "zp": 12
+  },
+  "ro:0002344": {
+    "aism": 5,
+    "cl": 9,
+    "clo": 2,
+    "dpo": 5,
+    "ecocore": 5,
+    "ecto": 5,
+    "flopo": 8,
+    "fypo": 7,
+    "hp": 7,
+    "maxo": 7,
+    "oba": 7,
+    "pato": 8,
+    "pcl": 8,
+    "wbphenotype": 8,
+    "zp": 7
+  },
+  "ro:0002350": {
+    "agro": 5,
+    "ecto": 96,
+    "foodon": 2815,
+    "maxo": 31,
+    "mondo": 10,
+    "oba": 3,
+    "omrse": 1,
+    "ons": 7
+  },
+  "ro:0002351": {
+    "aism": 6,
+    "bco": 1,
+    "cl": 12,
+    "clo": 6,
+    "dpo": 9,
+    "ecocore": 8,
+    "ecto": 9,
+    "envo": 2,
+    "flopo": 7,
+    "foodon": 15,
+    "fypo": 6,
+    "geno": 8,
+    "hp": 14,
+    "hso": 4,
+    "maxo": 11,
+    "mondo": 12,
+    "nbo": 4,
+    "oae": 7,
+    "oba": 12,
+    "obib": 1,
+    "ohpi": 6,
+    "omrse": 1,
+    "opmi": 3,
+    "ovae": 5,
+    "pato": 7,
+    "pcl": 7,
+    "pco": 3,
+    "psdo": 1,
+    "uberon": 18,
+    "wbphenotype": 6,
+    "zp": 7
+  },
+  "ro:0002352": {
+    "uberon": 1
+  },
+  "ro:0002353": {
+    "agro": 7,
+    "aism": 4,
+    "cl": 12,
+    "clo": 1,
+    "dpo": 4,
+    "dron": 1,
+    "ecocore": 5,
+    "ecto": 26,
+    "envo": 36,
+    "fideo": 1,
+    "flopo": 6,
+    "foodon": 21,
+    "fypo": 9,
+    "hp": 15,
+    "maxo": 12,
+    "mondo": 14,
+    "oba": 11,
+    "opmi": 2,
+    "pato": 6,
+    "pcl": 6,
+    "pr": 809,
+    "sepio": 2,
+    "uberon": 24,
+    "wbphenotype": 7,
+    "zp": 8
+  },
+  "ro:0002354": {
+    "agro": 15,
+    "ecocore": 1,
+    "ecto": 17,
+    "envo": 69,
+    "micro": 13,
+    "mondo": 6,
+    "oba": 2,
+    "opmi": 1,
+    "peco": 1
+  },
+  "ro:0002371": {
+    "aism": 162,
+    "ceph": 1,
+    "cl": 49,
+    "clao": 230,
+    "clo": 2,
+    "colao": 145,
+    "dpo": 15,
+    "ecocore": 15,
+    "ecto": 23,
+    "ehdaa2": 2,
+    "envo": 2,
+    "fbbt": 119,
+    "flopo": 18,
+    "fypo": 15,
+    "hp": 119,
+    "lepao": 146,
+    "maxo": 52,
+    "mondo": 74,
+    "nbo": 9,
+    "oae": 8,
+    "oba": 70,
+    "ohpi": 7,
+    "pato": 18,
+    "pcl": 22,
+    "uberon": 178,
+    "wbphenotype": 15,
+    "zp": 26
+  },
+  "ro:0002372": {
+    "cl": 19,
+    "ecto": 2,
+    "flopo": 2,
+    "hp": 82,
+    "maxo": 16,
+    "mondo": 30,
+    "oba": 27,
+    "pato": 2,
+    "pcl": 2,
+    "uberon": 233,
+    "zp": 2
+  },
+  "ro:0002373": {
+    "aism": 1,
+    "cl": 16,
+    "dpo": 1,
+    "ecocore": 1,
+    "ecto": 3,
+    "flopo": 3,
+    "fypo": 1,
+    "hp": 87,
+    "maxo": 15,
+    "mondo": 25,
+    "oba": 25,
+    "ohpi": 1,
+    "pato": 3,
+    "pcl": 3,
+    "uberon": 243,
+    "wbphenotype": 1,
+    "zp": 3
+  },
+  "ro:0002374": {
+    "hp": 28,
+    "mondo": 4,
+    "oba": 4,
+    "uberon": 67
+  },
+  "ro:0002376": {
+    "aism": 2,
+    "cl": 18,
+    "dpo": 2,
+    "ecocore": 2,
+    "ecto": 8,
+    "envo": 1,
+    "flopo": 5,
+    "fypo": 2,
+    "hp": 32,
+    "maxo": 17,
+    "mondo": 26,
+    "nbo": 5,
+    "oba": 24,
+    "ohpi": 6,
+    "pato": 5,
+    "pcl": 5,
+    "uberon": 110,
+    "wbphenotype": 6,
+    "zp": 4
+  },
+  "ro:0002377": {
+    "envo": 1,
+    "oarcs": 49
+  },
+  "ro:0002380": {
+    "aism": 10,
+    "cl": 56,
+    "dpo": 10,
+    "ecocore": 10,
+    "ecto": 20,
+    "flopo": 20,
+    "fypo": 10,
+    "hp": 111,
+    "maxo": 50,
+    "mondo": 71,
+    "nbo": 1,
+    "oae": 5,
+    "oba": 65,
+    "ohpi": 10,
+    "pato": 20,
+    "pcl": 22,
+    "uberon": 237,
+    "wbphenotype": 15,
+    "zp": 20
+  },
+  "ro:0002385": {
+    "aism": 9,
+    "cl": 12,
+    "clo": 5,
+    "dpo": 8,
+    "ecocore": 9,
+    "ecto": 9,
+    "flopo": 11,
+    "fypo": 8,
+    "hp": 12,
+    "maxo": 12,
+    "mondo": 12,
+    "nbo": 5,
+    "oae": 10,
+    "oba": 12,
+    "ohpi": 8,
+    "ovae": 9,
+    "pato": 11,
+    "pcl": 11,
+    "uberon": 13,
+    "wbphenotype": 9,
+    "zp": 11
+  },
+  "ro:0002387": {
+    "aism": 52,
+    "cl": 147,
+    "clo": 59,
+    "dpo": 47,
+    "ecocore": 52,
+    "ecto": 84,
+    "flopo": 62,
+    "fypo": 47,
+    "hp": 158,
+    "maxo": 145,
+    "mondo": 152,
+    "nbo": 53,
+    "oae": 77,
+    "oba": 152,
+    "ohpi": 62,
+    "opmi": 16,
+    "ovae": 35,
+    "pato": 62,
+    "pcl": 72,
+    "uberon": 199,
+    "wbphenotype": 72,
+    "zp": 66
+  },
+  "ro:0002411": {
+    "chmo": 1,
+    "ecto": 2,
+    "envo": 2,
+    "ino": 1,
+    "ons": 6
+  },
+  "ro:0002418": {
+    "ecto": 2,
+    "envo": 4
+  },
+  "ro:0002427": {
+    "ecto": 3,
+    "envo": 12
+  },
+  "ro:0002430": {
+    "envo": 1
+  },
+  "ro:0002433": {
+    "aism": 106,
+    "cl": 397,
+    "clo": 83,
+    "dpo": 101,
+    "ecocore": 106,
+    "ecto": 178,
+    "flopo": 135,
+    "fypo": 101,
+    "hp": 417,
+    "hso": 12,
+    "maxo": 295,
+    "mondo": 392,
+    "nbo": 72,
+    "oae": 116,
+    "oba": 391,
+    "ohpi": 128,
+    "opmi": 3,
+    "ovae": 21,
+    "pato": 135,
+    "pcl": 153,
+    "uberon": 650,
+    "wbphenotype": 149,
+    "zp": 128
+  },
+  "ro:0002436": {
+    "micro": 2
+  },
+  "ro:0002451": {
+    "doid": 174,
+    "mondo": 74
+  },
+  "ro:0002452": {
+    "doid": 2131
+  },
+  "ro:0002454": {
+    "opl": 9
+  },
+  "ro:0002460": {
+    "opl": 4
+  },
+  "ro:0002470": {
+    "ecocore": 10,
+    "ons": 59
+  },
+  "ro:0002473": {
+    "agro": 58,
+    "aism": 77,
+    "cl": 164,
+    "clao": 1,
+    "clo": 54,
+    "cteno": 2,
+    "dpo": 75,
+    "ecocore": 85,
+    "ecto": 172,
+    "envo": 213,
+    "fbbt": 8,
+    "flopo": 83,
+    "foodon": 4,
+    "fypo": 75,
+    "hp": 354,
+    "hso": 3,
+    "maxo": 124,
+    "micro": 2,
+    "mondo": 198,
+    "nbo": 37,
+    "oae": 44,
+    "oba": 164,
+    "ohpi": 42,
+    "opmi": 19,
+    "ovae": 32,
+    "pato": 83,
+    "pcl": 91,
+    "peco": 16,
+    "poro": 20,
+    "to": 8,
+    "uberon": 641,
+    "wbphenotype": 81,
+    "zp": 85
+  },
+  "ro:0002476": {
+    "wbbt": 1868
+  },
+  "ro:0002477": {
+    "wbbt": 380
+  },
+  "ro:0002478": {
+    "wbbt": 518
+  },
+  "ro:0002479": {
+    "envo": 5
+  },
+  "ro:0002485": {
+    "fbbt": 89
+  },
+  "ro:0002488": {
+    "aism": 7,
+    "amphx": 333,
+    "cl": 9,
+    "clao": 12,
+    "clo": 6,
+    "clyh": 134,
+    "doid": 222,
+    "dpo": 6,
+    "ecao": 301,
+    "ecocore": 7,
+    "ecto": 8,
+    "flopo": 7,
+    "fypo": 6,
+    "hp": 9,
+    "maxo": 9,
+    "mondo": 8,
+    "nbo": 5,
+    "oae": 6,
+    "oba": 9,
+    "ohpi": 6,
+    "opmi": 4,
+    "ovae": 5,
+    "pato": 7,
+    "pcl": 7,
+    "uberon": 14,
+    "wbphenotype": 7,
+    "zp": 6
+  },
+  "ro:0002489": {
+    "aism": 4,
+    "cl": 6,
+    "clo": 3,
+    "dpo": 4,
+    "ecocore": 6,
+    "ecto": 6,
+    "flopo": 6,
+    "fypo": 4,
+    "hp": 6,
+    "maxo": 6,
+    "mondo": 6,
+    "nbo": 4,
+    "oae": 3,
+    "oba": 6,
+    "ohpi": 6,
+    "opmi": 3,
+    "ovae": 3,
+    "pato": 6,
+    "pcl": 6,
+    "uberon": 6,
+    "wbphenotype": 6,
+    "zp": 4
+  },
+  "ro:0002490": {
+    "plana": 605,
+    "planp": 601
+  },
+  "ro:0002491": {
+    "aism": 5,
+    "cl": 8,
+    "clo": 5,
+    "cteno": 10,
+    "dpo": 5,
+    "ecocore": 6,
+    "ecto": 6,
+    "flopo": 5,
+    "fypo": 5,
+    "hp": 7,
+    "maxo": 7,
+    "mondo": 7,
+    "nbo": 5,
+    "oba": 7,
+    "pato": 5,
+    "pcl": 6,
+    "uberon": 14,
+    "wbphenotype": 7,
+    "zp": 5
+  },
+  "ro:0002492": {
+    "aism": 18,
+    "amphx": 333,
+    "cl": 27,
+    "clo": 22,
+    "clyh": 69,
+    "dpo": 18,
+    "ecao": 256,
+    "ecocore": 18,
+    "ecto": 23,
+    "flopo": 21,
+    "fypo": 17,
+    "hp": 27,
+    "maxo": 28,
+    "mondo": 28,
+    "nbo": 21,
+    "oae": 26,
+    "oba": 28,
+    "ohpi": 21,
+    "opmi": 11,
+    "ovae": 18,
+    "pato": 21,
+    "pcl": 21,
+    "uberon": 34,
+    "wbphenotype": 21,
+    "zp": 22
+  },
+  "ro:0002493": {
+    "aism": 3,
+    "cl": 5,
+    "clo": 3,
+    "dpo": 3,
+    "ecocore": 5,
+    "ecto": 5,
+    "flopo": 5,
+    "fypo": 3,
+    "hp": 5,
+    "maxo": 5,
+    "mondo": 5,
+    "nbo": 3,
+    "oae": 3,
+    "oba": 5,
+    "ohpi": 5,
+    "opmi": 3,
+    "ovae": 3,
+    "pato": 5,
+    "pcl": 5,
+    "uberon": 5,
+    "wbphenotype": 5,
+    "zp": 3
+  },
+  "ro:0002494": {
+    "aism": 6,
+    "cl": 41,
+    "clo": 4,
+    "dpo": 6,
+    "ecocore": 6,
+    "ecto": 9,
+    "flopo": 6,
+    "fypo": 6,
+    "hp": 40,
+    "hso": 2,
+    "maxo": 36,
+    "mondo": 42,
+    "nbo": 7,
+    "oae": 7,
+    "oba": 42,
+    "ohpi": 7,
+    "opmi": 1,
+    "ovae": 1,
+    "pato": 6,
+    "pcl": 9,
+    "uberon": 47,
+    "wbphenotype": 6,
+    "zp": 8
+  },
+  "ro:0002495": {
+    "agro": 1,
+    "aism": 31,
+    "cl": 53,
+    "clo": 31,
+    "dpo": 31,
+    "ecocore": 31,
+    "ecto": 36,
+    "envo": 17,
+    "flopo": 40,
+    "fypo": 31,
+    "hp": 56,
+    "maxo": 51,
+    "mondo": 57,
+    "nbo": 25,
+    "oae": 35,
+    "oba": 60,
+    "ohpi": 30,
+    "opmi": 12,
+    "ovae": 24,
+    "pato": 40,
+    "pcl": 42,
+    "uberon": 72,
+    "wbphenotype": 37,
+    "zp": 39
+  },
+  "ro:0002496": {
+    "aism": 4,
+    "cl": 4,
+    "clo": 4,
+    "cteno": 1,
+    "dpo": 4,
+    "ecocore": 4,
+    "ecto": 4,
+    "flopo": 1,
+    "fypo": 4,
+    "hp": 4,
+    "maxo": 4,
+    "mondo": 4,
+    "nbo": 4,
+    "oae": 4,
+    "oba": 4,
+    "ohpi": 4,
+    "opmi": 4,
+    "ovae": 4,
+    "pato": 1,
+    "pcl": 4,
+    "plana": 80,
+    "planp": 80,
+    "uberon": 1,
+    "wbphenotype": 4,
+    "zfa": 3077,
+    "zp": 4
+  },
+  "ro:0002497": {
+    "aism": 1,
+    "cl": 1,
+    "clo": 1,
+    "dpo": 1,
+    "ecocore": 1,
+    "ecto": 1,
+    "flopo": 1,
+    "fypo": 1,
+    "hp": 1,
+    "maxo": 1,
+    "mondo": 1,
+    "nbo": 1,
+    "oae": 1,
+    "oba": 1,
+    "ohpi": 1,
+    "opmi": 1,
+    "ovae": 1,
+    "pato": 1,
+    "pcl": 1,
+    "plana": 22,
+    "planp": 21,
+    "uberon": 1,
+    "wbphenotype": 1,
+    "zfa": 3077,
+    "zp": 1
+  },
+  "ro:0002500": {
+    "agro": 1,
+    "ecto": 1,
+    "envo": 1,
+    "mondo": 1,
+    "ons": 3
+  },
+  "ro:0002503": {
+    "flopo": 6,
+    "hp": 1,
+    "oba": 3,
+    "omp": 2,
+    "pato": 6,
+    "wbphenotype": 1
+  },
+  "ro:0002507": {
+    "agro": 19,
+    "ecocore": 12,
+    "ecto": 25,
+    "envo": 40,
+    "mondo": 18,
+    "oba": 7,
+    "ons": 5,
+    "peco": 6,
+    "to": 2
+  },
+  "ro:0002508": {
+    "opmi": 1,
+    "peco": 1,
+    "to": 1
+  },
+  "ro:0002509": {
+    "agro": 2,
+    "ecocore": 2,
+    "ecto": 2,
+    "envo": 2,
+    "mondo": 1,
+    "oba": 1
+  },
+  "ro:0002524": {
+    "mfmo": 1,
+    "ro": 1
+  },
+  "ro:0002525": {
+    "geno": 2
+  },
+  "ro:0002551": {
+    "aism": 13,
+    "cl": 43,
+    "clo": 6,
+    "dpo": 3,
+    "ecocore": 13,
+    "ecto": 15,
+    "flopo": 10,
+    "fypo": 3,
+    "hp": 60,
+    "maxo": 49,
+    "mondo": 53,
+    "nbo": 14,
+    "oae": 21,
+    "oba": 51,
+    "ohpi": 14,
+    "opmi": 1,
+    "ovae": 14,
+    "pato": 10,
+    "pcl": 12,
+    "uberon": 79,
+    "wbphenotype": 13,
+    "zp": 11
+  },
+  "ro:0002565": {
+    "cl": 77,
+    "clo": 7,
+    "flopo": 46,
+    "hp": 42,
+    "maxo": 42,
+    "oba": 42,
+    "pato": 46,
+    "pcl": 50,
+    "wbphenotype": 39,
+    "zp": 44
+  },
+  "ro:0002566": {
+    "bto": 4
+  },
+  "ro:0002568": {
+    "cl": 8,
+    "ecto": 2,
+    "hp": 21,
+    "maxo": 8,
+    "mondo": 10,
+    "oba": 10,
+    "uberon": 49
+  },
+  "ro:0002571": {
+    "cl": 2,
+    "ecto": 2,
+    "hp": 2,
+    "maxo": 2,
+    "mondo": 2,
+    "oba": 2,
+    "pcl": 2,
+    "uberon": 2,
+    "zp": 2
+  },
+  "ro:0002572": {
+    "aism": 32,
+    "cl": 67,
+    "clo": 10,
+    "dpo": 30,
+    "ecocore": 32,
+    "ecto": 51,
+    "flopo": 43,
+    "fypo": 30,
+    "hp": 67,
+    "maxo": 63,
+    "mondo": 71,
+    "nbo": 34,
+    "oae": 13,
+    "oba": 70,
+    "ohpi": 42,
+    "opmi": 4,
+    "ovae": 5,
+    "pato": 43,
+    "pcl": 45,
+    "plana": 6,
+    "uberon": 88,
+    "wbphenotype": 47,
+    "zp": 42
+  },
+  "ro:0002573": {
+    "fypo": 1,
+    "mondo": 1340,
+    "oba": 137
+  },
+  "ro:0002576": {
+    "aism": 10,
+    "cl": 33,
+    "clo": 5,
+    "dpo": 2,
+    "ecocore": 10,
+    "ecto": 11,
+    "flopo": 7,
+    "fypo": 2,
+    "hp": 48,
+    "maxo": 39,
+    "mondo": 42,
+    "nbo": 13,
+    "oae": 20,
+    "oba": 39,
+    "ohpi": 11,
+    "ovae": 13,
+    "pato": 7,
+    "pcl": 8,
+    "uberon": 71,
+    "wbphenotype": 10,
+    "zp": 7
+  },
+  "ro:0002588": {
+    "aism": 29,
+    "cl": 50,
+    "clo": 14,
+    "dpo": 29,
+    "ecocore": 29,
+    "ecto": 29,
+    "flopo": 38,
+    "fypo": 32,
+    "hp": 36,
+    "maxo": 36,
+    "oba": 38,
+    "pato": 38,
+    "pcl": 38,
+    "wbphenotype": 39,
+    "zp": 37
+  },
+  "ro:0002590": {
+    "aism": 17,
+    "cl": 23,
+    "clo": 2,
+    "dpo": 17,
+    "ecocore": 17,
+    "ecto": 17,
+    "flopo": 18,
+    "fypo": 18,
+    "hp": 18,
+    "maxo": 18,
+    "oba": 19,
+    "pato": 18,
+    "pcl": 18,
+    "wbphenotype": 20,
+    "zp": 19
+  },
+  "ro:0002592": {
+    "aism": 46,
+    "cl": 65,
+    "clo": 16,
+    "dpo": 46,
+    "ecocore": 46,
+    "ecto": 46,
+    "flopo": 55,
+    "fypo": 49,
+    "hp": 52,
+    "maxo": 52,
+    "oba": 55,
+    "pato": 55,
+    "pcl": 54,
+    "wbphenotype": 53,
+    "zp": 55
+  },
+  "ro:0002608": {
+    "agro": 7,
+    "aism": 8,
+    "cl": 34,
+    "clo": 8,
+    "dpo": 9,
+    "ecocore": 11,
+    "ecto": 18,
+    "envo": 11,
+    "flopo": 15,
+    "fypo": 11,
+    "hp": 14,
+    "maxo": 14,
+    "mondo": 7,
+    "oba": 18,
+    "pato": 15,
+    "pcl": 15,
+    "wbphenotype": 14,
+    "zp": 13
+  },
+  "ro:0002610": {
+    "dpo": 1,
+    "flopo": 1,
+    "oba": 1,
+    "pato": 1,
+    "wbphenotype": 1
+  },
+  "ro:0002634": {
+    "ecocore": 1
+  },
+  "ro:0003000": {
+    "aism": 7,
+    "cl": 35,
+    "clo": 8,
+    "dpo": 6,
+    "ecocore": 7,
+    "ecto": 9,
+    "flopo": 8,
+    "fypo": 6,
+    "hp": 17,
+    "hso": 5,
+    "maxo": 13,
+    "micro": 2,
+    "mondo": 18,
+    "nbo": 5,
+    "oae": 6,
+    "oba": 19,
+    "ohpi": 5,
+    "opmi": 3,
+    "ovae": 3,
+    "pato": 8,
+    "pcl": 8,
+    "plana": 1,
+    "planp": 1,
+    "poro": 2,
+    "uberon": 31,
+    "wbphenotype": 10,
+    "zp": 7
+  },
+  "ro:0003001": {
+    "aism": 10,
+    "bto": 7,
+    "cl": 33,
+    "clo": 6,
+    "dpo": 10,
+    "ecocore": 10,
+    "ecto": 22,
+    "flopo": 16,
+    "foodon": 3,
+    "fypo": 10,
+    "hp": 35,
+    "hso": 4,
+    "maxo": 31,
+    "micro": 2,
+    "mondo": 37,
+    "nbo": 12,
+    "oae": 5,
+    "oba": 37,
+    "ohpi": 14,
+    "opmi": 2,
+    "ovae": 2,
+    "pato": 16,
+    "pcl": 16,
+    "plana": 9,
+    "planp": 9,
+    "poro": 2,
+    "uberon": 56,
+    "wbphenotype": 19,
+    "zp": 12
+  },
+  "ro:0003304": {
+    "doid": 191
+  },
+  "ro:0004001": {
+    "mondo": 5
+  },
+  "ro:0004003": {
+    "mondo": 4473,
+    "oba": 15
+  },
+  "ro:0004004": {
+    "mondo": 2
+  },
+  "ro:0004007": {
+    "aism": 49,
+    "caro": 49,
+    "cl": 111,
+    "clo": 31,
+    "dpo": 49,
+    "ecocore": 49,
+    "ecto": 57,
+    "flopo": 56,
+    "fypo": 67,
+    "hp": 54,
+    "maxo": 54,
+    "oba": 57,
+    "pato": 56,
+    "pcl": 60,
+    "wbphenotype": 64,
+    "zp": 57
+  },
+  "ro:0004008": {
+    "aism": 42,
+    "cl": 100,
+    "clo": 23,
+    "dpo": 42,
+    "ecocore": 42,
+    "ecto": 50,
+    "flopo": 49,
+    "fypo": 57,
+    "hp": 47,
+    "maxo": 47,
+    "oba": 50,
+    "pato": 49,
+    "pcl": 53,
+    "wbphenotype": 59,
+    "zp": 50
+  },
+  "ro:0004009": {
+    "cl": 98,
+    "clo": 6,
+    "flopo": 82,
+    "fypo": 55,
+    "pato": 82,
+    "pcl": 121,
+    "wbphenotype": 55
+  },
+  "ro:0004019": {
+    "doid": 475
+  },
+  "ro:0004020": {
+    "mondo": 75,
+    "oba": 21
+  },
+  "ro:0004021": {
+    "mondo": 267,
+    "oba": 74
+  },
+  "ro:0004022": {
+    "htn": 1,
+    "mondo": 118,
+    "oba": 19
+  },
+  "ro:0004024": {
+    "mondo": 98,
+    "oba": 41
+  },
+  "ro:0004025": {
+    "bto": 17,
+    "mondo": 7
+  },
+  "ro:0004026": {
+    "doid": 669,
+    "mondo": 837,
+    "oba": 480
+  },
+  "ro:0004027": {
+    "mondo": 163,
+    "oba": 141
+  },
+  "ro:0004028": {
+    "mondo": 54,
+    "oba": 2
+  },
+  "ro:0004029": {
+    "doid": 15,
+    "mondo": 1153,
+    "oba": 71
+  },
+  "ro:0004030": {
+    "bto": 8,
+    "mondo": 384,
+    "oba": 59
+  },
+  "ro:0007001": {
+    "doid": 18
+  },
+  "ro:0009001": {
+    "foodon": 1
+  },
+  "ro:0009004": {
+    "foodon": 6
+  },
+  "ro:0009501": {
+    "mondo": 51,
+    "oba": 9
+  },
+  "ro:0012003": {
+    "aism": 26,
+    "cl": 84,
+    "clo": 2,
+    "dpo": 26,
+    "ecocore": 26,
+    "ecto": 26,
+    "flopo": 42,
+    "fypo": 26,
+    "hp": 39,
+    "maxo": 39,
+    "oba": 39,
+    "pato": 42,
+    "pcl": 42,
+    "wbphenotype": 41,
+    "zp": 39
+  },
+  "ro:0012008": {
+    "aism": 13,
+    "cl": 14,
+    "clo": 6,
+    "dpo": 13,
+    "ecocore": 13,
+    "ecto": 13,
+    "flopo": 14,
+    "fypo": 13,
+    "hp": 13,
+    "maxo": 13,
+    "oba": 13,
+    "pato": 14,
+    "pcl": 14,
+    "wbphenotype": 14,
+    "zp": 13
+  },
+  "ro:0013001": {
+    "cl": 3,
+    "fbbt": 5656,
+    "pcl": 3
+  },
+  "ro:0013002": {
+    "fbbt": 27873
+  },
+  "ro:0013003": {
+    "fbbt": 20334
+  },
+  "ro:0013004": {
+    "fbbt": 11
+  },
+  "ro:0013005": {
+    "fbbt": 184
+  },
+  "ro:0013006": {
+    "fbbt": 71
+  },
+  "ro:0013007": {
+    "fbbt": 537
+  },
+  "ro:0013008": {
+    "fbbt": 674
+  },
+  "ro:0013009": {
+    "fbbt": 941
+  },
+  "ro:0014001": {
+    "mondo": 398,
+    "oba": 15
+  },
+  "ro:0015003": {
+    "pcl": 1024
+  },
+  "ro:0015004": {
+    "pcl": 470
+  },
+  "ro:0015007": {
+    "aism": 1,
+    "cl": 1,
+    "clo": 1,
+    "dpo": 1,
+    "ecocore": 1,
+    "ecto": 1,
+    "flopo": 1,
+    "fypo": 1,
+    "hp": 1,
+    "maxo": 1,
+    "pato": 1,
+    "pcl": 1,
+    "to": 1,
+    "wbphenotype": 1
+  },
+  "ro:0015008": {
+    "aism": 1,
+    "cl": 1,
+    "clo": 1,
+    "dpo": 1,
+    "ecto": 1,
+    "flopo": 1,
+    "fypo": 1,
+    "hp": 1,
+    "maxo": 1,
+    "pato": 1,
+    "to": 1,
+    "wbphenotype": 1
+  },
+  "ro:0015010": {
+    "cl": 1,
+    "clo": 1,
+    "flopo": 7,
+    "pato": 7
+  },
+  "ro:0015011": {
+    "aism": 2,
+    "caro": 2,
+    "cl": 2,
+    "clo": 2,
+    "dpo": 2,
+    "ecocore": 2,
+    "ecto": 2,
+    "flopo": 5,
+    "fypo": 3,
+    "hp": 5,
+    "maxo": 2,
+    "pato": 5,
+    "pcl": 2,
+    "to": 2,
+    "wbphenotype": 2
+  },
+  "ro:0015012": {
+    "aism": 2,
+    "dpo": 6,
+    "ecto": 2,
+    "flopo": 8,
+    "fypo": 8,
+    "hp": 6,
+    "maxo": 6,
+    "pato": 8,
+    "to": 6,
+    "wbphenotype": 6
+  },
+  "ro:0040042": {
+    "ons": 7
+  },
+  "rs#part_of": {
+    "rs": 6
+  },
+  "rxno.obo#has_part": {
+    "rxno": 44
+  },
+  "rxno.obo#part_of": {
+    "rxno": 3
+  },
+  "rxno:0000416": {
+    "rxno": 11
+  },
+  "rxno:0000417": {
+    "rxno": 11
+  },
+  "rxno:0000423": {
+    "rxno": 162
+  },
+  "rxno:0000424": {
+    "rxno": 176
+  },
+  "rxno:0000425": {
+    "rxno": 27
+  },
+  "rxno:0000469": {
+    "rxno": 5
+  },
+  "sepio:0000006": {
+    "sepio": 1
+  },
+  "sepio:0000017": {
+    "sepio": 1
+  },
+  "sepio:0000030": {
+    "sepio": 1
+  },
+  "sepio:0000046": {
+    "sepio": 1
+  },
+  "sepio:0000084": {
+    "sepio": 1
+  },
+  "sepio:0000130": {
+    "sepio": 1
+  },
+  "sepio:0000132": {
+    "sepio": 1
+  },
+  "sepio:0000183": {
+    "sepio": 1
+  },
+  "sepio:0000387": {
+    "sepio": 1
+  },
+  "sepio:0000407": {
+    "sepio": 1
+  },
+  "sibo#adjacent_to": {
+    "sibo": 2
+  },
+  "sibo#associated_with_behavior": {
+    "sibo": 114
+  },
+  "sibo#derived_from": {
+    "sibo": 93
+  },
+  "sibo#is_relevant_for": {
+    "sibo": 344
+  },
+  "so#adjacent_to": {
+    "fypo": 2,
+    "so": 6
+  },
+  "so#contains": {
+    "so": 3
+  },
+  "so#derives_from": {
+    "fypo": 9,
+    "oba": 2,
+    "so": 64
+  },
+  "so#guided_by": {
+    "so": 1
+  },
+  "so#has_origin": {
+    "doid": 3,
+    "so": 30
+  },
+  "so#has_part": {
+    "fypo": 2,
+    "so": 152
+  },
+  "so#has_quality": {
+    "fypo": 5,
+    "so": 165
+  },
+  "so#member_of": {
+    "fypo": 2,
+    "oba": 2,
+    "pcl": 1,
+    "so": 3
+  },
+  "so#non_functional_homolog_of": {
+    "so": 4
+  },
+  "so#overlaps": {
+    "fypo": 2,
+    "oba": 1,
+    "so": 4
+  },
+  "so#part_of": {
+    "fypo": 13,
+    "so": 185
+  },
+  "so#transcribed_from": {
+    "so": 1
+  },
+  "so#transcribed_to": {
+    "so": 7
+  },
+  "so#variant_of": {
+    "so": 3
+  },
+  "so_variant_of": {
+    "ogsf": 2
+  },
+  "spd#adjacent_to": {
+    "spd": 2
+  },
+  "spd#part_of": {
+    "spd": 582
+  },
+  "sponge#echinates": {
+    "poro": 1
+  },
+  "sponge#lined_by": {
+    "poro": 5
+  },
+  "stato.owl#is_model_for": {
+    "psdo": 2,
+    "stato": 2
+  },
+  "stato.owl#is_modeled_by": {
+    "psdo": 2,
+    "stato": 2
+  },
+  "stato:0000001": {
+    "psdo": 6,
+    "stato": 6
+  },
+  "stato:0000004": {
+    "psdo": 3,
+    "stato": 3
+  },
+  "stato:0000101": {
+    "psdo": 2,
+    "stato": 2
+  },
+  "stato:0000102": {
+    "psdo": 3,
+    "stato": 3
+  },
+  "stato:0000205": {
+    "psdo": 25,
+    "stato": 25
+  },
+  "stato:0000259": {
+    "psdo": 1,
+    "stato": 1
+  },
+  "stato:0000344": {
+    "psdo": 1,
+    "stato": 1
+  },
+  "stato:0000382": {
+    "psdo": 4,
+    "stato": 4
+  },
+  "stato:0000403": {
+    "psdo": 14,
+    "stato": 14
+  },
+  "stato:0000557": {
+    "psdo": 3,
+    "stato": 3
+  },
+  "tads#part_of": {
+    "tads": 663
+  },
+  "tgma#develops_from": {
+    "tgma": 2
+  },
+  "tgma#part_of": {
+    "tgma": 1950
+  },
+  "uberon/core#anastomoses_with": {
+    "uberon": 4
+  },
+  "uberon/core#anteriorly_connected_to": {
+    "aism": 23,
+    "cl": 2,
+    "colao": 22,
+    "dpo": 1,
+    "ecocore": 1,
+    "ecto": 2,
+    "flopo": 1,
+    "fypo": 1,
+    "hp": 22,
+    "lepao": 22,
+    "maxo": 2,
+    "mondo": 1,
+    "nbo": 1,
+    "oae": 1,
+    "oba": 1,
+    "ohpi": 1,
+    "ovae": 1,
+    "pato": 1,
+    "pcl": 2,
+    "uberon": 22,
+    "wbphenotype": 1,
+    "zp": 1
+  },
+  "uberon/core#channel_for": {
+    "aism": 5,
+    "cl": 26,
+    "clo": 10,
+    "dpo": 5,
+    "ecocore": 5,
+    "ecto": 11,
+    "flopo": 6,
+    "fypo": 5,
+    "hp": 29,
+    "maxo": 24,
+    "mondo": 26,
+    "nbo": 7,
+    "oae": 13,
+    "oba": 26,
+    "ohpi": 9,
+    "opmi": 2,
+    "ovae": 3,
+    "pato": 6,
+    "pcl": 6,
+    "uberon": 40,
+    "wbphenotype": 18,
+    "zp": 6
+  },
+  "uberon/core#channels_from": {
+    "aism": 4,
+    "cl": 15,
+    "clo": 5,
+    "dpo": 3,
+    "ecocore": 4,
+    "ecto": 7,
+    "flopo": 4,
+    "fypo": 3,
+    "hp": 18,
+    "maxo": 16,
+    "mondo": 17,
+    "nbo": 5,
+    "oae": 6,
+    "oba": 17,
+    "ohpi": 6,
+    "pato": 4,
+    "pcl": 4,
+    "uberon": 25,
+    "wbphenotype": 13,
+    "zp": 4
+  },
+  "uberon/core#channels_into": {
+    "aism": 1,
+    "cl": 16,
+    "clo": 6,
+    "dpo": 1,
+    "ecocore": 1,
+    "ecto": 8,
+    "flopo": 1,
+    "fypo": 1,
+    "hp": 16,
+    "maxo": 15,
+    "mondo": 15,
+    "nbo": 2,
+    "oae": 7,
+    "oba": 15,
+    "ohpi": 3,
+    "pato": 1,
+    "pcl": 1,
+    "uberon": 18,
+    "wbphenotype": 9,
+    "zp": 1
+  },
+  "uberon/core#conduit_for": {
+    "aism": 4,
+    "cl": 18,
+    "clo": 2,
+    "dpo": 4,
+    "ecocore": 4,
+    "ecto": 7,
+    "flopo": 10,
+    "fypo": 4,
+    "hp": 31,
+    "hso": 1,
+    "maxo": 14,
+    "mondo": 21,
+    "nbo": 3,
+    "oae": 2,
+    "oba": 20,
+    "ohpi": 8,
+    "opmi": 2,
+    "ovae": 2,
+    "pato": 10,
+    "pcl": 13,
+    "uberon": 58,
+    "wbphenotype": 4,
+    "zp": 12
+  },
+  "uberon/core#distally_connected_to": {
+    "cl": 16,
+    "hp": 28,
+    "maxo": 16,
+    "mondo": 19,
+    "oae": 7,
+    "oba": 19,
+    "ovae": 6,
+    "uberon": 33
+  },
+  "uberon/core#evolved_from": {
+    "micro": 1,
+    "oae": 1,
+    "ovae": 1
+  },
+  "uberon/core#existence_starts_and_ends_during": {
+    "oae": 5,
+    "ohpi": 5,
+    "opmi": 3,
+    "ovae": 3
+  },
+  "uberon/core#extends_fibers_into": {
+    "aism": 17,
+    "cl": 79,
+    "dpo": 17,
+    "ecocore": 17,
+    "ecto": 17,
+    "flopo": 33,
+    "fypo": 17,
+    "hp": 75,
+    "maxo": 43,
+    "mondo": 89,
+    "oae": 12,
+    "oba": 67,
+    "ohpi": 25,
+    "ovae": 4,
+    "pato": 33,
+    "pcl": 33,
+    "uberon": 136,
+    "wbphenotype": 17,
+    "zp": 33
+  },
+  "uberon/core#filtered_through": {
+    "aism": 2,
+    "cl": 3,
+    "clo": 1,
+    "dpo": 2,
+    "ecocore": 2,
+    "ecto": 2,
+    "flopo": 2,
+    "fypo": 2,
+    "hp": 3,
+    "maxo": 3,
+    "mondo": 3,
+    "nbo": 2,
+    "oba": 3,
+    "ohpi": 2,
+    "pato": 2,
+    "pcl": 3,
+    "uberon": 4,
+    "wbphenotype": 2,
+    "zp": 2
+  },
+  "uberon/core#in_central_side_of": {
+    "hp": 8,
+    "uberon": 8
+  },
+  "uberon/core#in_innermost_side_of": {
+    "hp": 1,
+    "uberon": 4
+  },
+  "uberon/core#in_outermost_side_of": {
+    "hp": 1,
+    "uberon": 4
+  },
+  "uberon/core#indirectly_supplies": {
+    "cl": 4,
+    "ecto": 4,
+    "hp": 4,
+    "maxo": 4,
+    "uberon": 4
+  },
+  "uberon/core#layer_part_of": {
+    "cl": 1,
+    "ecto": 1,
+    "hp": 1,
+    "maxo": 1,
+    "mondo": 1,
+    "oba": 1,
+    "pcl": 1,
+    "uberon": 1
+  },
+  "uberon/core#posteriorly_connected_to": {
+    "aism": 21,
+    "cl": 1,
+    "colao": 20,
+    "dpo": 1,
+    "ecocore": 1,
+    "ecto": 1,
+    "flopo": 1,
+    "fypo": 1,
+    "hp": 1,
+    "lepao": 20,
+    "maxo": 1,
+    "mondo": 1,
+    "nbo": 1,
+    "oae": 1,
+    "oba": 1,
+    "ohpi": 1,
+    "ovae": 1,
+    "pato": 1,
+    "pcl": 1,
+    "uberon": 1,
+    "wbphenotype": 1,
+    "zp": 1
+  },
+  "uberon/core#protects": {
+    "aism": 3,
+    "cl": 5,
+    "clo": 1,
+    "dpo": 3,
+    "ecocore": 3,
+    "ecto": 4,
+    "flopo": 3,
+    "fypo": 3,
+    "hp": 6,
+    "hso": 1,
+    "maxo": 4,
+    "micro": 1,
+    "mondo": 7,
+    "nbo": 2,
+    "oae": 3,
+    "oba": 6,
+    "ohpi": 1,
+    "ovae": 1,
+    "pato": 3,
+    "pcl": 4,
+    "uberon": 9,
+    "wbphenotype": 3,
+    "zp": 4
+  },
+  "uberon/core#proximally_connected_to": {
+    "aism": 2,
+    "cl": 36,
+    "clo": 3,
+    "dpo": 1,
+    "ecocore": 2,
+    "ecto": 4,
+    "flopo": 4,
+    "fypo": 1,
+    "hp": 52,
+    "maxo": 38,
+    "mondo": 42,
+    "nbo": 5,
+    "oae": 16,
+    "oba": 42,
+    "ohpi": 3,
+    "ovae": 11,
+    "pato": 4,
+    "pcl": 4,
+    "uberon": 56,
+    "wbphenotype": 4,
+    "zp": 4
+  },
+  "uberon/core#sexually_homologous_to": {
+    "cl": 3,
+    "clo": 1,
+    "hp": 3,
+    "maxo": 3,
+    "mondo": 8,
+    "oba": 8,
+    "uberon": 12,
+    "wbphenotype": 3
+  },
+  "uberon/core#site_of": {
+    "aism": 3,
+    "cl": 8,
+    "clo": 5,
+    "dpo": 3,
+    "ecocore": 3,
+    "ecto": 6,
+    "flopo": 3,
+    "fypo": 3,
+    "hp": 6,
+    "maxo": 6,
+    "mondo": 8,
+    "oba": 7,
+    "pato": 3,
+    "pcl": 3,
+    "uberon": 13,
+    "wbphenotype": 3,
+    "zp": 3
+  },
+  "uberon/core#subdivision_of": {
+    "aism": 2,
+    "cl": 13,
+    "clo": 2,
+    "dpo": 2,
+    "ecocore": 2,
+    "ecto": 8,
+    "flopo": 4,
+    "fypo": 2,
+    "hp": 18,
+    "maxo": 11,
+    "mondo": 18,
+    "nbo": 3,
+    "oae": 3,
+    "oba": 18,
+    "ohpi": 4,
+    "opmi": 2,
+    "ovae": 2,
+    "pato": 4,
+    "pcl": 9,
+    "uberon": 19,
+    "wbphenotype": 4,
+    "zp": 8
+  },
+  "uberon/core#synapsed_by": {
+    "aism": 1,
+    "cl": 1,
+    "clo": 1,
+    "dpo": 1,
+    "ecocore": 1,
+    "ecto": 1,
+    "flopo": 1,
+    "fypo": 1,
+    "hp": 1,
+    "maxo": 1,
+    "mondo": 1,
+    "oba": 1,
+    "pato": 1,
+    "pcl": 1,
+    "uberon": 1,
+    "wbphenotype": 1,
+    "zp": 1
+  },
+  "uberon/core#trunk_part_of": {
+    "cl": 1,
+    "hp": 1,
+    "maxo": 1,
+    "uberon": 1
+  },
+  "unfolds_in": {
+    "ovae": 5
+  },
+  "uo#is_unit_of": {
+    "agro": 3
+  },
+  "vario#part_of": {
+    "vario": 11
+  },
+  "vo:0000270": {
+    "ovae": 1,
+    "vo": 2
+  },
+  "vo:0000281": {
+    "vo": 1
+  },
+  "vo:0000462": {
+    "vo": 3
+  },
+  "vo:0000520": {
+    "vo": 32
+  },
+  "vo:0000524": {
+    "vo": 51
+  },
+  "vo:0000525": {
+    "vo": 3
+  },
+  "vo:0000527": {
+    "vo": 2
+  },
+  "vo:0000529": {
+    "vo": 18
+  },
+  "vo:0000530": {
+    "vo": 14
+  },
+  "vo:0000531": {
+    "ovae": 14,
+    "vo": 78
+  },
+  "vo:0000537": {
+    "vo": 1
+  },
+  "vo:0000547": {
+    "ovae": 2,
+    "vo": 141
+  },
+  "vo:0000608": {
+    "vo": 1
+  },
+  "vo:0000799": {
+    "vo": 4
+  },
+  "vo:0000818": {
+    "vo": 1
+  },
+  "vo:0000894": {
+    "vo": 4
+  },
+  "vo:0001011": {
+    "vo": 2
+  },
+  "vo:0001039": {
+    "vo": 3
+  },
+  "vo:0001243": {
+    "ogsf": 2,
+    "ohpi": 6,
+    "ovae": 63,
+    "vo": 884
+  },
+  "vo:0003355": {
+    "ogsf": 1,
+    "ohpi": 12,
+    "ovae": 36,
+    "vo": 1285
+  },
+  "vo:0005312": {
+    "vo": 43
+  },
+  "xao#end_stage": {
+    "xao": 1600,
+    "xpo": 430
+  },
+  "xao#preceded_by": {
+    "xao": 87,
+    "xpo": 87
+  },
+  "xao#start_stage": {
+    "xao": 1600,
+    "xpo": 1193
+  },
+  "xlmod#has_fluorophore": {
+    "xlmod": 17
+  },
+  "xlmod#has_handle": {
+    "xlmod": 83
+  },
+  "xlmod#has_neutral_loss_reporter": {
+    "xlmod": 4
+  },
+  "xlmod#has_property": {
+    "xlmod": 163
+  },
+  "xlmod#has_reactive_group": {
+    "xlmod": 589
+  },
+  "xlmod#is_activatable": {
+    "xlmod": 39
+  },
+  "xlmod#is_analog_of": {
+    "xlmod": 16
+  },
+  "xlmod#is_cleavable": {
+    "xlmod": 114
+  },
+  "xlmod#is_labelled": {
+    "xlmod": 89
+  },
+  "xlmod#is_partially_reacted": {
+    "xlmod": 102
+  },
+  "xlmod#is_reactive_with": {
+    "xlmod": 489
+  },
+  "xlmod#is_side_product_of": {
+    "xlmod": 103
+  },
+  "xlmod#part_of": {
+    "xlmod": 6
+  }
+}
