@@ -7,6 +7,15 @@ ROBOT in Python and providing an object model of
 [OBO Graph JSON](https://github.com/geneontology/obographs), and the
 [Bioregistry](https://github.com/biopragmatics/bioregistry) for standardization.
 
+> **Warning**
+> Despite the commitment of the OBO community to adopting share semantics, it's
+> clear from the [high-level summary of relations](relation_summary.tsv) that many
+> relationships remain unstandardized and from
+> the [example triples](graph_sample.tsv)
+> that many entities remain unstandardized, so this graph should not be used
+> directly without the generation and application of additional rules to fix its
+> content.
+
 ## Data
 
 ### [`graph.tsv.gz`](graph.tsv.gz)
@@ -18,16 +27,6 @@ columns:
 2. `prediate` - the predicate entity as a CURIE when possible to normalize
 3. `object` - the object entity as a CURIE when possible to normalize
 4. `sources` - a pipe-delimited list of ontologies in which the triple was found
-
-## Caveats
-
-Despite the commitment of the OBO community to adopting share semantics, it's
-clear from the [high-level summary of relations](relation_summary.tsv) that many
-relationships remain unstandardized and from
-the [example triples](graph_sample.tsv)
-that many entities remain unstandardized, so this graph should not be used
-directly without the generation and application of additional rules to fix its
-content.
 
 ## Build
 
