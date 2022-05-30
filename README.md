@@ -12,7 +12,7 @@ ROBOT in Python and providing an object model of
 > clear from the [high-level summary of relations](relation_summary.tsv) that many
 > relationships remain unstandardized and from
 > the [example triples](graph_sample.tsv)
-> that many entities remain unstandardized, so this graph should not be used
+> that many entities remain unstandardized, so this graph should **not** be used
 > directly without the generation and application of additional rules to fix its
 > content.
 
