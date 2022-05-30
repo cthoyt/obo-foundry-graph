@@ -36,8 +36,17 @@ SKIP_PREFIXES = {
     "apollosv",
     "aero",
     "aeo",
+    "epio",
+    "ogi",
+    "ogsf",
+    "idomal",
+    # Very inactive/outdated
+    "miro",
     # Tons of non-RO relations
     "cido",
+    # Not sure if these are really helping
+    "ncbitaxon",
+    "ncit",
 }
 
 

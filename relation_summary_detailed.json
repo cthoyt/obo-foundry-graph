@@ -15,377 +15,23 @@
     "mfomd": 1,
     "mondo": 1
   },
-  "NCIT_R100": {
-    "ncit": 110
-  },
-  "NCIT_R101": {
-    "ncit": 80
-  },
-  "NCIT_R103": {
-    "ncit": 10
-  },
-  "NCIT_R104": {
-    "ncit": 5
-  },
-  "NCIT_R105": {
-    "ncit": 5
-  },
-  "NCIT_R106": {
-    "ncit": 3
-  },
-  "NCIT_R108": {
-    "ncit": 72
-  },
-  "NCIT_R110": {
-    "ncit": 12
-  },
-  "NCIT_R114": {
-    "ncit": 19
-  },
-  "NCIT_R115": {
-    "ncit": 24
-  },
-  "NCIT_R116": {
-    "ncit": 39
-  },
-  "NCIT_R122": {
-    "ncit": 346
-  },
-  "NCIT_R123": {
-    "ncit": 12496
-  },
-  "NCIT_R124": {
-    "ncit": 549
-  },
-  "NCIT_R125": {
-    "ncit": 1161
-  },
-  "NCIT_R126": {
-    "ncit": 15
-  },
-  "NCIT_R130": {
-    "ncit": 1287
-  },
-  "NCIT_R131": {
-    "ncit": 111
-  },
-  "NCIT_R132": {
-    "ncit": 158
-  },
-  "NCIT_R133": {
-    "ncit": 12
-  },
-  "NCIT_R135": {
-    "ncit": 1
-  },
-  "NCIT_R139": {
-    "ncit": 1
-  },
-  "NCIT_R140": {
-    "ncit": 6
-  },
-  "NCIT_R142": {
-    "ncit": 2
-  },
-  "NCIT_R145": {
-    "ncit": 16
-  },
-  "NCIT_R146": {
-    "ncit": 227
-  },
-  "NCIT_R150": {
-    "ncit": 27
-  },
-  "NCIT_R153": {
-    "ncit": 180
-  },
-  "NCIT_R155": {
-    "ncit": 80
-  },
-  "NCIT_R156": {
-    "ncit": 1
-  },
-  "NCIT_R158": {
-    "ncit": 128
-  },
-  "NCIT_R159": {
-    "ncit": 74
-  },
-  "NCIT_R160": {
-    "ncit": 3
-  },
   "NCIT_R163": {
-    "mondo": 3,
-    "ncit": 110
-  },
-  "NCIT_R165": {
-    "ncit": 1
-  },
-  "NCIT_R166": {
-    "ncit": 6
-  },
-  "NCIT_R167": {
-    "ncit": 102
-  },
-  "NCIT_R168": {
-    "ncit": 9
-  },
-  "NCIT_R169": {
-    "ncit": 127
-  },
-  "NCIT_R170": {
-    "ncit": 6
-  },
-  "NCIT_R171": {
-    "ncit": 75
-  },
-  "NCIT_R172": {
-    "ncit": 402
-  },
-  "NCIT_R173": {
-    "ncit": 356
-  },
-  "NCIT_R174": {
-    "ncit": 2
-  },
-  "NCIT_R175": {
-    "ncit": 556
-  },
-  "NCIT_R176": {
-    "ncit": 488
-  },
-  "NCIT_R177": {
-    "ncit": 1256
-  },
-  "NCIT_R178": {
-    "ncit": 630
-  },
-  "NCIT_R179": {
-    "ncit": 509
-  },
-  "NCIT_R182": {
-    "ncit": 127
-  },
-  "NCIT_R23": {
-    "ncit": 1
-  },
-  "NCIT_R24": {
-    "ncit": 100
-  },
-  "NCIT_R25": {
-    "ncit": 488
-  },
-  "NCIT_R26": {
-    "ncit": 81
-  },
-  "NCIT_R27": {
-    "ncit": 3585
-  },
-  "NCIT_R28": {
-    "ncit": 28
-  },
-  "NCIT_R29": {
-    "ncit": 15
-  },
-  "NCIT_R30": {
-    "ncit": 85
-  },
-  "NCIT_R31": {
-    "ncit": 33
-  },
-  "NCIT_R32": {
-    "ncit": 25
-  },
-  "NCIT_R34": {
-    "ncit": 42
-  },
-  "NCIT_R35": {
-    "ncit": 173
-  },
-  "NCIT_R36": {
-    "ncit": 6
-  },
-  "NCIT_R37": {
-    "ncit": 11920
-  },
-  "NCIT_R38": {
-    "ncit": 1055
-  },
-  "NCIT_R39": {
-    "ncit": 6
-  },
-  "NCIT_R40": {
-    "ncit": 1552
-  },
-  "NCIT_R41": {
-    "ncit": 235
-  },
-  "NCIT_R42": {
-    "ncit": 39
-  },
-  "NCIT_R44": {
-    "ncit": 254
-  },
-  "NCIT_R45": {
-    "ncit": 181
-  },
-  "NCIT_R46": {
-    "ncit": 720
-  },
-  "NCIT_R47": {
-    "ncit": 15
-  },
-  "NCIT_R48": {
-    "ncit": 80
-  },
-  "NCIT_R49": {
-    "ncit": 194
-  },
-  "NCIT_R50": {
-    "ncit": 555
-  },
-  "NCIT_R51": {
-    "ncit": 83
-  },
-  "NCIT_R52": {
-    "ncit": 469
-  },
-  "NCIT_R53": {
-    "ncit": 2036
-  },
-  "NCIT_R54": {
-    "ncit": 2004
-  },
-  "NCIT_R66": {
-    "ncit": 9
-  },
-  "NCIT_R72": {
-    "ncit": 242
+    "mondo": 3
   },
   "NCIT_R81": {
-    "mondo": 1,
-    "ncit": 135
+    "mondo": 1
   },
   "NCIT_R82": {
-    "mondo": 1,
-    "ncit": 3007
-  },
-  "NCIT_R88": {
-    "ncit": 114
-  },
-  "NCIT_R89": {
-    "ncit": 5
+    "mondo": 1
   },
   "OArCS#_gives_rise": {
     "oarcs": 2
-  },
-  "OBO_REL#_has_quality": {
-    "miro": 20
-  },
-  "OBO_REL#_has_role": {
-    "miro": 134
   },
   "OBO_REL#_part_of": {
     "omit": 1
   },
   "OBO_REL_0000004": {
     "hao": 1
-  },
-  "OBO_REL_0000034": {
-    "idomal": 26
-  },
-  "OBO_REL_influences": {
-    "miro": 28
-  },
-  "OBO_REL_realizes": {
-    "miro": 4
-  },
-  "OGI.owl#hasBearer": {
-    "ogsf": 3
-  },
-  "OGI.owl#hasComponentPart": {
-    "ogsf": 2
-  },
-  "OGI.owl#hasContainedInterval": {
-    "ogsf": 5
-  },
-  "OGI.owl#hasCytogeneticMapLocation": {
-    "ogsf": 1
-  },
-  "OGI.owl#hasGeneLocus": {
-    "ogsf": 1
-  },
-  "OGI.owl#hasIntervalRelation": {
-    "ogsf": 1
-  },
-  "OGI.owl#hasLinkedLoci": {
-    "ogsf": 1
-  },
-  "OGI.owl#hasMarkerProbe": {
-    "ogsf": 1
-  },
-  "OGI.owl#hasMarkerRole": {
-    "ogsf": 4
-  },
-  "OGI.owl#hasOccupiesLocus": {
-    "ogsf": 2
-  },
-  "OGI.owl#hasPart": {
-    "ogsf": 1
-  },
-  "OGI.owl#hasPolymorphismQuality": {
-    "ogsf": 1
-  },
-  "OGI.owl#hasPrimaryDNASequence": {
-    "ogsf": 1
-  },
-  "OGI.owl#hasPrimaryRNASequence": {
-    "ogsf": 2
-  },
-  "OGI.owl#hasPrimarySequence": {
-    "ogsf": 1
-  },
-  "OGI.owl#hasStructure": {
-    "ogsf": 1
-  },
-  "OGI.owl#isAdjacentBefore": {
-    "ogsf": 6
-  },
-  "OGI.owl#isCodeFor": {
-    "ogsf": 1
-  },
-  "OGI.owl#isComponentPartOf": {
-    "ogsf": 1
-  },
-  "OGI.owl#isContainedIn": {
-    "ogsf": 15
-  },
-  "OGI.owl#isLocatedBefore": {
-    "ogsf": 4
-  },
-  "OGI.owl#isOccupiedBy": {
-    "ogsf": 3
-  },
-  "OGI.owl#isOverlapEndWith": {
-    "ogsf": 3
-  },
-  "OGI.owl#isOverlapStartWith": {
-    "ogsf": 7
-  },
-  "OGI.owl#isReverseCompleteOf": {
-    "ogsf": 2
-  },
-  "OGI.owl#isStructurePartOf": {
-    "ogsf": 3
-  },
-  "OGI.owl#isTranscribedBy": {
-    "ogsf": 1
-  },
-  "OGI.owl#isTranscribedTo": {
-    "ogsf": 1
-  },
-  "OGI.owl#isWrittenBy": {
-    "ogsf": 4
   },
   "Optional.of(http://purl.obolibrary.org/obo/cmo.obo)#part_of": {
     "cmo": 8
@@ -419,33 +65,6 @@
   },
   "RO_regulates": {
     "aro": 91
-  },
-  "TEMP#agent_in": {
-    "idomal": 74
-  },
-  "TEMP#bearer_of": {
-    "idomal": 42
-  },
-  "TEMP#happens_during": {
-    "idomal": 78
-  },
-  "TEMP#has_role": {
-    "idomal": 486
-  },
-  "TEMP#part_of": {
-    "idomal": 375
-  },
-  "TEMP#participates_in": {
-    "idomal": 254
-  },
-  "TEMP#preceded_by": {
-    "idomal": 64
-  },
-  "TEMP#precedes": {
-    "idomal": 4
-  },
-  "TEMP#realized_by": {
-    "idomal": 10
   },
   "activates": {
     "vo": 1
@@ -483,7 +102,6 @@
     "amphx": 372,
     "bto": 1824,
     "caro": 10,
-    "ceph": 451,
     "cheminf": 2,
     "chiro": 122,
     "cl": 6099,
@@ -499,7 +117,6 @@
     "eco": 31,
     "ecocore": 1917,
     "ecto": 2664,
-    "ehdaa2": 2986,
     "envo": 841,
     "eupath": 11,
     "exo": 28,
@@ -532,7 +149,6 @@
     "oba": 6116,
     "obi": 21,
     "obib": 6,
-    "ogsf": 3,
     "ohd": 3,
     "ohpi": 1209,
     "omp": 3,
@@ -557,7 +173,6 @@
     "pr": 19,
     "psdo": 27,
     "pso": 64,
-    "sibo": 78,
     "stato": 24,
     "to": 856,
     "uberon": 12720,
@@ -577,7 +192,6 @@
     "aism": 379,
     "bco": 5,
     "caro": 27,
-    "ceph": 10,
     "chebi": 3918,
     "cheminf": 30,
     "chiro": 14,
@@ -594,7 +208,6 @@
     "eco": 64,
     "ecocore": 317,
     "ecto": 846,
-    "ehdaa2": 81,
     "envo": 400,
     "eupath": 42,
     "exo": 3,
@@ -625,7 +238,6 @@
     "obi": 295,
     "obib": 14,
     "ogg": 28,
-    "ogsf": 2,
     "ohd": 53,
     "ohmi": 3,
     "ohpi": 1027,
@@ -689,7 +301,6 @@
     "oba": 3,
     "obi": 1,
     "obib": 2,
-    "ogsf": 6,
     "ohd": 6,
     "ohpi": 2,
     "omrse": 16,
@@ -739,7 +350,6 @@
   "bfo:0000057": {
     "chmo": 63,
     "mop": 21,
-    "ogsf": 2,
     "ohd": 9,
     "ppo": 4,
     "rxno": 10
@@ -747,11 +357,7 @@
   "bfo:0000058": {
     "cvdo": 1,
     "ogg": 1,
-    "ogsf": 2,
     "ovae": 1
-  },
-  "bfo:0000060": {
-    "sibo": 32
   },
   "bfo:0000062": {
     "aism": 6,
@@ -773,7 +379,6 @@
     "nbo": 6,
     "oae": 9,
     "oba": 10,
-    "ogsf": 3,
     "ohpi": 7,
     "ontoneo": 12,
     "opmi": 7,
@@ -890,11 +495,7 @@
   },
   "bfo:0000068": {
     "chmo": 1,
-    "cteno": 1,
-    "ehdaa2": 2445
-  },
-  "bfo:0000069": {
-    "ehdaa2": 2444
+    "cteno": 1
   },
   "bfo:0000077": {
     "mop": 24,
@@ -904,32 +505,25 @@
     "mop": 3,
     "rxno": 10
   },
-  "bfo:0000080": {
-    "ogsf": 2
-  },
   "bfo:0000082": {
     "cvdo": 24,
-    "ogsf": 2,
     "ontoneo": 1
   },
   "bfo:0000083": {
     "cvdo": 1,
     "iceo": 1,
     "ogg": 1,
-    "ogsf": 1,
     "ovae": 1
   },
   "bfo:0000085": {
     "chmo": 5
   },
   "bfo:0000086": {
-    "clo": 6,
-    "ogsf": 4
+    "clo": 6
   },
   "bfo:0000087": {
     "bco": 1,
-    "chmo": 2,
-    "ogsf": 2
+    "chmo": 2
   },
   "bfo:0000107": {
     "mf": 1,
@@ -939,15 +533,10 @@
   "bfo:0000108": {
     "cvdo": 1,
     "ogg": 1,
-    "ogsf": 1,
     "ovae": 1
   },
   "bfo:0000110": {
-    "chmo": 3,
-    "ogsf": 2
-  },
-  "bfo:0000111": {
-    "ogsf": 1
+    "chmo": 3
   },
   "bfo:0000112": {
     "mf": 1,
@@ -956,8 +545,7 @@
   },
   "bfo:0000113": {
     "cvdo": 12,
-    "htn": 4,
-    "ogsf": 1
+    "htn": 4
   },
   "bfo:0000117": {
     "cvdo": 4,
@@ -976,9 +564,6 @@
   "bfo:0000119": {
     "mop": 28
   },
-  "bfo:0000127": {
-    "ogsf": 7
-  },
   "bfo:0000132": {
     "cvdo": 1,
     "mfoem": 14,
@@ -996,26 +581,18 @@
   "bfo:0000151": {
     "cvdo": 1,
     "ogg": 1,
-    "ogsf": 1,
     "ovae": 1
   },
   "bfo:0000153": {
     "cvdo": 1,
     "ogg": 1,
-    "ogsf": 1,
     "ovae": 1
-  },
-  "bfo:0000159": {
-    "ogsf": 1
   },
   "bfo:0000162": {
     "iceo": 1054,
     "ogg": 52,
     "ohpi": 272,
     "rxno": 1
-  },
-  "bfo:0000165": {
-    "ogsf": 1
   },
   "bfo:0000167": {
     "cvdo": 12,
@@ -1024,13 +601,11 @@
     "mfomd": 3,
     "mondo": 3,
     "oba": 3,
-    "ogsf": 2,
     "ontoneo": 1
   },
   "bfo:0000169": {
     "cvdo": 1,
     "ogg": 1,
-    "ogsf": 1,
     "ovae": 1
   },
   "bfo:0000174": {
@@ -1050,9 +625,6 @@
   "bfo:0000184": {
     "cvdo": 1,
     "ogg": 1
-  },
-  "bfo:0000186": {
-    "ogsf": 2
   },
   "bspo#parallel_to": {
     "aism": 10,
@@ -1681,33 +1253,6 @@
     "cdao": 1,
     "miapa": 1
   },
-  "ceph#continuous_with": {
-    "ceph": 12
-  },
-  "ceph#dorsal_to": {
-    "ceph": 1
-  },
-  "ceph#proximal_to": {
-    "ceph": 1
-  },
-  "ceph#secretes": {
-    "ceph": 2
-  },
-  "ceph#surrounded_by": {
-    "ceph": 1
-  },
-  "ceph#surrounds": {
-    "ceph": 8
-  },
-  "ceph#trait_of": {
-    "ceph": 20
-  },
-  "ceph#ventral_to": {
-    "ceph": 1
-  },
-  "ceph:0001007": {
-    "ceph": 3
-  },
   "chebi#BFO:0000051": {
     "poro": 22
   },
@@ -2160,31 +1705,13 @@
     "dpo": 112,
     "fbdv": 186
   },
-  "fix#BY": {
-    "fix": 29
-  },
-  "fix#part_of": {
-    "fix": 51
-  },
-  "fma#attaches_to": {
-    "fma": 192
-  },
-  "fma#bounds": {
-    "fma": 660
-  },
-  "fma#branch_of": {
-    "fma": 7167
-  },
   "fma#constitutional_part_of": {
-    "fma": 12392,
     "ontoneo": 51
   },
   "fma#regional_part_of": {
-    "fma": 19665,
     "ontoneo": 155
   },
   "fma#systemic_part_of": {
-    "fma": 2658,
     "ontoneo": 61
   },
   "fma:85857": {
@@ -2380,7 +1907,6 @@
     "ons": 6
   },
   "http://semanticscience.org/resource/SIO_000658": {
-    "ceph": 1,
     "cteno": 1
   },
   "http://www.biomodels.net/kisao/KISAO#KISAO_0000245": {
@@ -2427,42 +1953,6 @@
   "http://www.w3.org/ns/prov#wasRevisionOf": {
     "miapa": 1
   },
-  "https://bio.scai.fraunhofer.de/ontology/0000401": {
-    "epio": 4
-  },
-  "https://bio.scai.fraunhofer.de/ontology/0000403": {
-    "epio": 11
-  },
-  "https://bio.scai.fraunhofer.de/ontology/0000405": {
-    "epio": 1
-  },
-  "https://bio.scai.fraunhofer.de/ontology/0000409": {
-    "epio": 1
-  },
-  "https://bio.scai.fraunhofer.de/ontology/0000410": {
-    "epio": 1
-  },
-  "https://bio.scai.fraunhofer.de/ontology/0000412": {
-    "epio": 1
-  },
-  "https://bio.scai.fraunhofer.de/ontology/0000414": {
-    "epio": 2
-  },
-  "https://bio.scai.fraunhofer.de/ontology/0000416": {
-    "epio": 3
-  },
-  "https://bio.scai.fraunhofer.de/ontology/0000418": {
-    "epio": 1
-  },
-  "https://bio.scai.fraunhofer.de/ontology/0000420": {
-    "epio": 1
-  },
-  "https://bio.scai.fraunhofer.de/ontology/ac113c60_c3d8_48f2_871c_cc34524d844f": {
-    "epio": 5
-  },
-  "https://bio.scai.fraunhofer.de/ontology/cac13978_e4e8_4240_907f_80ddfd3af981": {
-    "epio": 16
-  },
   "iao:0000039": {
     "agro": 1,
     "cheminf": 1,
@@ -2508,7 +1998,6 @@
     "oba": 2,
     "obi": 57,
     "obib": 8,
-    "ogsf": 25,
     "ohd": 63,
     "ohmi": 3,
     "ohpi": 12,
@@ -2607,7 +2096,6 @@
     "iceo": 62
   },
   "inheres_in": {
-    "ogsf": 1,
     "ontoneo": 1,
     "ovae": 1
   },
@@ -2623,7 +2111,6 @@
     "caro": 30,
     "cdao": 9,
     "cdno": 25,
-    "ceph": 7,
     "chebi": 1,
     "cheminf": 39,
     "cl": 52,
@@ -2661,7 +2148,6 @@
     "iao": 19,
     "iceo": 7,
     "ido": 15,
-    "idomal": 4,
     "labo": 12,
     "lepao": 10,
     "maxo": 55,
@@ -2680,7 +2166,6 @@
     "obi": 24,
     "obib": 18,
     "ogg": 24,
-    "ogsf": 28,
     "ohd": 22,
     "ohmi": 30,
     "ohpi": 65,
@@ -3106,7 +2591,6 @@
     "oba": 1,
     "obi": 140,
     "obib": 30,
-    "ogsf": 2,
     "ohd": 9,
     "ohmi": 8,
     "ohpi": 9,
@@ -3156,7 +2640,6 @@
     "oba": 1,
     "obi": 189,
     "obib": 20,
-    "ogsf": 2,
     "ohd": 4,
     "ohmi": 11,
     "ohpi": 7,
@@ -3192,7 +2675,6 @@
     "micro": 2,
     "obi": 66,
     "obib": 15,
-    "ogsf": 2,
     "ohmi": 6,
     "ohpi": 6,
     "omrse": 3,
@@ -3218,7 +2700,6 @@
     "oba": 1,
     "obi": 254,
     "obib": 18,
-    "ogsf": 1,
     "ohd": 2,
     "ohmi": 7,
     "ohpi": 12,
@@ -3296,15 +2777,6 @@
     "ogg": 13,
     "ohpi": 444,
     "ovae": 2
-  },
-  "ogsf:0000013": {
-    "ogsf": 1
-  },
-  "ogsf:0001008": {
-    "ogsf": 3
-  },
-  "ogsf:0001009": {
-    "ogsf": 1
   },
   "ohmi:0000059": {
     "ohmi": 29
@@ -3432,9 +2904,6 @@
   "opmi:0000481": {
     "opmi": 3
   },
-  "owl:topObjectProperty": {
-    "vario": 1
-  },
   "pato#correlates_with": {
     "planp": 1,
     "xpo": 1,
@@ -3559,7 +3028,6 @@
     "caro": 856,
     "cdao": 188,
     "cdno": 1437,
-    "ceph": 1759,
     "chebi": 231283,
     "cheminf": 887,
     "chiro": 16273,
@@ -3587,10 +3055,8 @@
     "eco": 4888,
     "ecocore": 8638,
     "ecto": 26443,
-    "ehdaa2": 3083,
     "emapa": 5313,
     "envo": 7461,
-    "epio": 1966,
     "eupath": 4323,
     "exo": 137,
     "fao": 127,
@@ -3599,9 +3065,7 @@
     "fbcv": 3174,
     "fbdv": 249,
     "fideo": 447,
-    "fix": 1602,
     "flopo": 15248,
-    "fma": 78974,
     "fobi": 1332,
     "foodon": 34637,
     "fypo": 30776,
@@ -3620,7 +3084,6 @@
     "iao": 277,
     "iceo": 30899,
     "ido": 540,
-    "idomal": 2662,
     "ino": 338,
     "labo": 149,
     "lepao": 745,
@@ -3635,7 +3098,6 @@
     "mi": 1504,
     "miapa": 267,
     "micro": 20497,
-    "miro": 4361,
     "mmo": 789,
     "mmusdv": 108,
     "mod": 3569,
@@ -3646,8 +3108,6 @@
     "mpio": 59,
     "mro": 55908,
     "nbo": 3659,
-    "ncbitaxon": 2401824,
-    "ncit": 196786,
     "ncro": 3346,
     "nomen": 260,
     "oae": 6410,
@@ -3657,7 +3117,6 @@
     "obib": 2092,
     "ogg": 69687,
     "ogms": 203,
-    "ogsf": 456,
     "ohd": 4512,
     "ohmi": 1074,
     "ohpi": 14896,
@@ -3691,25 +3150,20 @@
     "psdo": 1293,
     "pso": 3809,
     "pw": 3117,
-    "rex": 646,
     "ro": 76,
     "rs": 6943,
     "rxno": 1105,
     "sbo": 741,
     "sepio": 136,
-    "sibo": 440,
     "so": 2489,
     "spd": 607,
     "stato": 966,
     "symp": 861,
-    "tads": 285,
     "taxrank": 61,
-    "tgma": 781,
     "to": 10823,
     "trans": 31,
     "tto": 38639,
     "uberon": 30208,
-    "vario": 506,
     "vo": 7087,
     "vt": 4329,
     "vto": 107058,
@@ -3734,7 +3188,6 @@
     "caro": 135,
     "cdao": 53,
     "cdno": 127,
-    "ceph": 17,
     "cheminf": 62,
     "chiro": 1,
     "chmo": 9,
@@ -3761,7 +3214,6 @@
     "fbcv": 133,
     "fbdv": 138,
     "flopo": 396,
-    "fma": 3,
     "foodon": 10,
     "fypo": 289,
     "geno": 88,
@@ -3791,7 +3243,6 @@
     "mpio": 13,
     "mro": 17,
     "nbo": 171,
-    "ncit": 11,
     "ncro": 2,
     "nomen": 103,
     "oae": 77,
@@ -3799,7 +3250,6 @@
     "obi": 60,
     "obib": 49,
     "ogg": 61,
-    "ogsf": 78,
     "ohd": 45,
     "ohmi": 120,
     "ohpi": 297,
@@ -3845,12 +3295,6 @@
     "zfa": 2,
     "zfs": 1,
     "zp": 282
-  },
-  "rex#is_reverse_of": {
-    "rex": 22
-  },
-  "rex#part_of": {
-    "rex": 62
   },
   "ro:0000052": {
     "agro": 58,
@@ -4265,14 +3709,12 @@
   "ro:0001025": {
     "agro": 18,
     "aism": 29,
-    "ceph": 1,
     "cl": 79,
     "clo": 13,
     "cteno": 2,
     "dpo": 28,
     "ecocore": 29,
     "ecto": 52,
-    "ehdaa2": 166,
     "envo": 51,
     "flopo": 39,
     "foodon": 67,
@@ -4650,7 +4092,6 @@
   "ro:0002160": {
     "agro": 1,
     "aism": 162,
-    "ceph": 3,
     "cl": 382,
     "clo": 131,
     "dpo": 147,
@@ -4837,7 +4278,6 @@
     "aism": 281,
     "amphx": 323,
     "bto": 1165,
-    "ceph": 71,
     "cl": 1008,
     "clao": 1,
     "clo": 301,
@@ -4847,7 +4287,6 @@
     "ecao": 138,
     "ecocore": 289,
     "ecto": 441,
-    "ehdaa2": 2125,
     "envo": 123,
     "fao": 4,
     "fbbt": 1482,
@@ -5020,7 +4459,6 @@
   },
   "ro:0002215": {
     "aism": 75,
-    "ceph": 2,
     "cl": 414,
     "clo": 140,
     "cteno": 19,
@@ -5068,7 +4506,6 @@
     "zp": 20
   },
   "ro:0002217": {
-    "ogsf": 2,
     "ontoneo": 1
   },
   "ro:0002218": {
@@ -5108,7 +4545,6 @@
   "ro:0002220": {
     "agro": 23,
     "aism": 136,
-    "ceph": 5,
     "cl": 177,
     "clao": 17,
     "clo": 26,
@@ -5152,7 +4588,6 @@
     "dpo": 13,
     "ecocore": 13,
     "ecto": 16,
-    "ehdaa2": 1,
     "flopo": 14,
     "fypo": 13,
     "hp": 42,
@@ -5238,7 +4673,6 @@
   "ro:0002226": {
     "cl": 4,
     "ecto": 3,
-    "ehdaa2": 33,
     "hp": 4,
     "maxo": 4,
     "mondo": 4,
@@ -5845,7 +5279,6 @@
   },
   "ro:0002371": {
     "aism": 162,
-    "ceph": 1,
     "cl": 49,
     "clao": 230,
     "clo": 2,
@@ -5853,7 +5286,6 @@
     "dpo": 15,
     "ecocore": 15,
     "ecto": 23,
-    "ehdaa2": 2,
     "envo": 2,
     "fbbt": 119,
     "flopo": 18,
@@ -6965,18 +6397,6 @@
   "sepio:0000407": {
     "sepio": 1
   },
-  "sibo#adjacent_to": {
-    "sibo": 2
-  },
-  "sibo#associated_with_behavior": {
-    "sibo": 114
-  },
-  "sibo#derived_from": {
-    "sibo": 93
-  },
-  "sibo#is_relevant_for": {
-    "sibo": 344
-  },
   "so#adjacent_to": {
     "fypo": 2,
     "so": 6
@@ -7030,9 +6450,6 @@
   },
   "so#variant_of": {
     "so": 3
-  },
-  "so_variant_of": {
-    "ogsf": 2
   },
   "spd#adjacent_to": {
     "spd": 2
@@ -7093,15 +6510,6 @@
   "stato:0000557": {
     "psdo": 3,
     "stato": 3
-  },
-  "tads#part_of": {
-    "tads": 663
-  },
-  "tgma#develops_from": {
-    "tgma": 2
-  },
-  "tgma#part_of": {
-    "tgma": 1950
   },
   "uberon/core#anastomoses_with": {
     "uberon": 4
@@ -7471,9 +6879,6 @@
   "uo#is_unit_of": {
     "agro": 3
   },
-  "vario#part_of": {
-    "vario": 11
-  },
   "vo:0000270": {
     "ovae": 1,
     "vo": 2
@@ -7532,13 +6937,11 @@
     "vo": 3
   },
   "vo:0001243": {
-    "ogsf": 2,
     "ohpi": 6,
     "ovae": 63,
     "vo": 884
   },
   "vo:0003355": {
-    "ogsf": 1,
     "ohpi": 12,
     "ovae": 36,
     "vo": 1285
